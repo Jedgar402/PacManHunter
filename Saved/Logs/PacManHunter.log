@@ -882,3 +882,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.18-22.50.28:027][  0]LogSlate: Took 0.000710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2023.03.18-22.50.28:029][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.03.18-22.50.28:092][  0]LogRenderer: Reallocating scene render targets to support 1468x600 Format 10 NumSamples 1 (Frame:1).
+[2023.03.18-22.50.28:268][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.03.18-22.50.28:268][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.03.18-22.50.28:268][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.03.18-22.50.28:268][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.03.18-22.50.28:268][  0]LogLoad: (Engine Initialization) Total time: 7.06 seconds
+[2023.03.18-22.50.28:268][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.18-22.50.28:355][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.18-22.50.28:385][  1]LogAssetRegistry: Asset discovery search completed in 4.3885 seconds
+[2023.03.18-22.50.28:392][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.03.18-22.50.28:732][  2]LogSlate: Took 0.000996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.18-22.50.30:962][ 33]LogBlueprint: Warning: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2023.03.18-22.50.30:974][ 33]LogBlueprint: Warning: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2023.03.18-22.50.31:076][ 33]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.18-22.50.31:093][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Character.Player_Character
+[2023.03.18-22.50.31:300][ 33]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2023.03.18-22.50.31:952][ 33]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.18-22.50.31:994][ 33]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.18-22.50.32:015][ 34]LogSlate: Took 0.000876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.18-22.50.48:628][966]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.18-22.51.18:985][739]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.18-22.51.18:996][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.18-22.51.19:000][739]PIE: New page: PIE session: ThirdPersonExampleMap (18 Mar 2023, 22:51:18)
+[2023.03.18-22.51.19:004][739]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.18-22.51.19:005][739]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.18-22.51.19:009][739]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.18-22.51.19:029][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020128s)
+[2023.03.18-22.51.19:030][739]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.18-22.51.19:031][739]LogPlayLevel: PIE: World Init took: (0.002036s)
+[2023.03.18-22.51.19:031][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022340s)
+[2023.03.18-22.51.19:081][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.03.18-22.51.19:084][739]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.18-22.51.19:084][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.18-22.51.19:084][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.18-22.51.19:084][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.18-22.51.19:084][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.18-22.51.19:084][739]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.18-22.51.19:084][739]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.18-22.51.19:084][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.18-22.51.19:084][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.18-22.51.19:085][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.18-22.51.19:085][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.18-22.51.19:085][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.18-22.51.19:085][739]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.18-22.51.19:086][739]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.18-22.51.19:086][739]LogAudioMixer: Display: 1: FrontRight
+[2023.03.18-22.51.19:095][739]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.18-22.51.19:095][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.18-22.51.19:095][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.18-22.51.19:095][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.18-22.51.19:096][739]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.18-22.51.19:096][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.18-22.51.19:096][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.18-22.51.19:097][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.18-22.51.19:097][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.18-22.51.19:097][739]LogInit: FAudioDevice initialized.
+[2023.03.18-22.51.19:097][739]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.03.18-22.51.19:109][739]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.18-22.51.19:114][739]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.18-22.51.19
+[2023.03.18-22.51.19:123][739]LogWorld: Bringing up level for play took: 0.009620
+[2023.03.18-22.51.19:123][739]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.03.18-22.51.19:136][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.03.18-22.51.19:143][739]PIE: Server logged in
+[2023.03.18-22.51.19:144][739]PIE: Play in editor total start time 0.151 seconds.
+[2023.03.18-22.51.25:412][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.18-22.51.25:412][100]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.18-22.51.25:414][100]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.18-22.51.25:414][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-22.51.25:424][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.18-22.51.25:427][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-22.51.25:453][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.18-22.51.25:456][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.18-22.51.25:457][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.18-22.51.25:459][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.18-22.51.25:497][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.03.18-22.51.25:520][101]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.03.18-22.51.25:831][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2023.03.18-22.51.28:115][248]BlueprintLog: New page: Compile Player_Character
+[2023.03.18-22.51.28:178][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.18-22.51.29:210][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.03.18-22.51.29:243][301]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterF50A1D0E41B3E453B38610A9DA2F9AAA.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.03.18-22.51.29:258][301]AssetCheck: New page: Asset Save: Player_Character
+[2023.03.18-22.51.29:259][301]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.03.18-22.51.31:591][431]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.18-22.51.31:599][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.18-22.51.31:599][431]PIE: New page: PIE session: ThirdPersonExampleMap (18 Mar 2023, 22:51:31)
+[2023.03.18-22.51.31:629][431]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.18-22.51.31:640][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011274s)
+[2023.03.18-22.51.31:641][431]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.18-22.51.31:642][431]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2023.03.18-22.51.31:642][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013176s)
+[2023.03.18-22.51.31:669][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.03.18-22.51.31:670][431]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.18-22.51.31:670][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.18-22.51.31:670][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.18-22.51.31:670][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.18-22.51.31:670][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.18-22.51.31:670][431]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.18-22.51.31:671][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.18-22.51.31:671][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.18-22.51.31:671][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.18-22.51.31:671][431]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.18-22.51.31:671][431]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.18-22.51.31:671][431]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.18-22.51.31:671][431]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.18-22.51.31:673][431]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.18-22.51.31:673][431]LogAudioMixer: Display: 1: FrontRight
+[2023.03.18-22.51.31:680][431]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.18-22.51.31:680][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.18-22.51.31:680][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.18-22.51.31:680][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.18-22.51.31:681][431]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.18-22.51.31:681][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.18-22.51.31:681][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.18-22.51.31:682][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.18-22.51.31:682][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.18-22.51.31:682][431]LogInit: FAudioDevice initialized.
+[2023.03.18-22.51.31:682][431]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.03.18-22.51.31:689][431]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.18-22.51.31:691][431]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.18-22.51.31
+[2023.03.18-22.51.31:691][431]LogWorld: Bringing up level for play took: 0.001251
+[2023.03.18-22.51.31:692][431]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.18-22.51.31:695][431]PIE: Server logged in
+[2023.03.18-22.51.31:695][431]PIE: Play in editor total start time 0.098 seconds.
+[2023.03.18-22.51.37:531][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.18-22.51.37:531][779]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.18-22.51.37:532][779]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.18-22.51.37:532][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-22.51.37:542][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.18-22.51.37:556][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.18-22.51.37:572][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.18-22.51.37:572][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.18-22.51.37:574][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.18-22.51.37:575][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.18-22.51.37:577][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.03.18-22.51.37:609][780]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.03.18-22.51.38:899][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.18-22.51.38:922][854]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMapAF4A6DC74634A441EA75BF85B5609A7B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.18-22.51.39:005][854]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataAADBD8654BD7EDAEF520D1B067686B89.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.18-22.51.39:020][854]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.18-22.51.39:020][854]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.18-22.51.39:020][854]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
