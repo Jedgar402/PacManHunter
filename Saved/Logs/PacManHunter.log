@@ -1890,3 +1890,1237 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.10-16.20.18:326][857]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.10-16.20.18:326][857]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.10-16.20.18:326][857]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.10-16.25.32:555][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.10-16.25.32:579][ 74]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap1AF1862F429D99DF1491C890E2C3CC4C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.10-16.25.32:607][ 74]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData903C66DD4DC761E1D9193CB9508DA675.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.10-16.25.32:622][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-16.25.32:622][ 74]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.10-16.25.32:622][ 74]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.10-16.25.39:945][502]LogRenderer: Reallocating scene render targets to support 1172x532 Format 10 NumSamples 1 (Frame:1).
+[2023.04.10-16.26.03:763][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-16.26.03:794][872]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character301EB4244AD3E501B6541EBC92F77563.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-16.26.03:808][872]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-16.26.03:808][872]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-16.26.15:571][559]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-16.26.15:626][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.04.10-16.26.16:165][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-16.26.16:198][587]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character103179284CDAEC0A8B258899F99E452A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-16.26.16:211][587]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-16.26.16:211][587]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-16.26.25:788][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-16.26.25:817][107]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character26FDF58545145ABB7D3D5E9C40296C57.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-16.26.25:829][107]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-16.26.25:830][107]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-16.26.29:575][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.04.10-16.27.45:911][317]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-16.27.45:969][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.04.10-16.27.46:501][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-16.27.46:533][343]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterF87EA79A4DE6629FD97AFD8E189FE8BD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-16.27.46:546][343]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-16.27.46:546][343]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-16.27.48:127][435]LogTemp: Repeating last play command: Standalone Game
+[2023.04.10-16.27.48:151][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.10-16.28.24:380][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.10-16.28.24:405][315]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap1BAE99574A5AC1FFD8D9FFB7143B02C7.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.10-16.28.24:433][315]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData2E51C0B4414D3DB2B02F2CB7213A6429.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.10-16.28.24:444][315]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-16.28.24:444][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.10-16.28.24:445][315]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.10-16.29.19:660][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.10-16.29.19:687][625]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap0BBF785743EEAD8DDFA717A581C81379.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.10-16.29.19:715][625]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataFA491A8745157AEBAE465B87FE11706C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.10-16.29.19:726][625]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-16.29.19:726][625]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.10-16.29.19:726][625]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.10-16.29.32:088][358]LogContentBrowser: Deferred new asset file creation: MainMenu_Level1
+[2023.04.10-16.29.32:103][358]LogContentBrowser: Creating deferred item: MainMenu_Level1
+[2023.04.10-16.30.00:127][ 40]LogContentBrowser: Attempting asset rename: MainMenu_Level1 -> MapTwo_Level
+[2023.04.10-16.30.00:148][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.10-16.30.00:166][ 40]LogContentBrowser: End creating deferred item MainMenu_Level1
+[2023.04.10-16.30.02:297][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.10-16.30.03:306][167]LogSlate: Window 'Save Content' being destroyed
+[2023.04.10-16.30.03:335][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-16.30.03:358][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.10-16.30.03:367][167]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level410CB02E4BC1698F5E11F5A63C7CE1DD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-16.30.03:369][167]LogFileHelpers: Saving map 'MapTwo_Level' took 0.034
+[2023.04.10-16.30.03:388][167]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.30.03:389][167]Cmd: MAP LOAD FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.10-16.30.03:389][167]LightingResults: New page: Lighting Build
+[2023.04.10-16.30.03:389][167]LoadErrors: New page: Loading map: MapTwo_Level.umap
+[2023.04.10-16.30.03:427][167]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.30.03:427][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.30.03:427][167]MapCheck: New page: Map Check
+[2023.04.10-16.30.03:428][167]LightingResults: New page: Lighting Build
+[2023.04.10-16.30.03:451][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-16.30.03:465][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.10-16.30.03:498][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.04.10-16.30.03:517][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.10-16.30.03:518][167]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapTwo_Level'.
+[2023.04.10-16.30.03:559][167]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.10-16.30.03:559][167]LogAIModule: Creating AISystem for world MapTwo_Level
+[2023.04.10-16.30.03:580][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.10-16.30.03:591][167]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.10-16.30.03:592][167]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.839ms to complete.
+[2023.04.10-16.30.03:592][167]LogFileHelpers: Loading map 'MapTwo_Level' took 0.204
+[2023.04.10-16.30.03:614][167]AssetCheck: New page: Asset Save: MapTwo_Level
+[2023.04.10-16.30.03:614][167]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.30.17:602][  4]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level
+[2023.04.10-16.30.19:766][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-16.30.19:791][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.10-16.30.19:800][112]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_LevelE9E1D4374B428F0B7E4884A88CDE435C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.10-16.30.19:801][112]LogFileHelpers: Saving map 'MainMenu_Level' took 0.035
+[2023.04.10-16.30.19:812][112]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.10-16.30.19:812][112]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.10-16.30.26:366][497]LogObjectTools: Deleting 1 worlds: /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.30.26:366][497]LogObjectTools: Currently 9 active worlds: /Game/Levels/MapTwo_Level.MapTwo_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2023.04.10-16.30.27:365][497]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.10-16.30.27:371][497]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.04.10-16.30.29:530][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.10-16.30.29:548][626]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.10-16.30.29:548][626]Cmd: MAP LOAD FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.10-16.30.29:549][626]LightingResults: New page: Lighting Build
+[2023.04.10-16.30.29:549][626]LoadErrors: New page: Loading map: MainMenu_Level.umap
+[2023.04.10-16.30.29:550][626]LogWorld: UWorld::CleanupWorld for MapTwo_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.30.29:550][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.30.29:550][626]MapCheck: New page: Map Check
+[2023.04.10-16.30.29:550][626]LightingResults: New page: Lighting Build
+[2023.04.10-16.30.29:571][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-16.30.29:573][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.10-16.30.29:573][626]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu_Level'.
+[2023.04.10-16.30.29:593][626]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.10-16.30.29:593][626]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.10-16.30.29:614][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.10-16.30.29:623][626]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.10-16.30.29:623][626]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2023.04.10-16.30.29:623][626]LogFileHelpers: Loading map 'MainMenu_Level' took 0.075
+[2023.04.10-16.30.32:481][789]LogObjectTools: Deleting 1 worlds: /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.30.32:481][789]LogObjectTools: Currently 9 active worlds: /Game/Levels/MainMenu_Level.MainMenu_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2023.04.10-16.30.32:500][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.10-16.30.33:295][789]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.10-16.30.33:319][789]LogWorld: UWorld::CleanupWorld for MapTwo_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.30.33:319][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.30.33:395][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.10-16.30.33:428][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.04.10-16.30.33:449][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.10-16.30.35:528][910]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.04.10-16.30.35:544][910]LogContentBrowser: Creating deferred item: NewWorld
+[2023.04.10-16.30.37:647][ 37]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.04.10-16.30.37:650][ 37]LogContentBrowser: End creating deferred item NewWorld
+[2023.04.10-16.30.41:205][246]LogObjectTools: Deleting 1 worlds: /Game/Levels/NewWorld.NewWorld
+[2023.04.10-16.30.41:205][246]LogObjectTools: Currently 9 active worlds: /Game/Levels/MainMenu_Level.MainMenu_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2023.04.10-16.30.41:225][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.10-16.30.42:054][246]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.10-16.30.42:078][246]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.30.42:079][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.30.42:134][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.04.10-16.30.44:145][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-16.30.44:164][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.10-16.30.44:171][366]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_Level44D6A69645A76EC3AD2031A476B84CD4.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.10-16.30.44:196][366]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.10-16.30.44:196][366]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.10-16.30.48:136][530]LogSlate: Window 'New Level' being destroyed
+[2023.04.10-16.30.48:171][530]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.10-16.30.48:193][530]LightingResults: New page: Lighting Build
+[2023.04.10-16.30.48:193][530]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.04.10-16.30.48:246][530]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.30.48:246][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.30.48:283][530]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.30.48:283][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.30.48:283][530]MapCheck: New page: Map Check
+[2023.04.10-16.30.48:283][530]LightingResults: New page: Lighting Build
+[2023.04.10-16.30.48:301][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-16.30.48:304][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.10-16.30.48:324][530]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.04.10-16.30.48:330][530]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.04.10-16.30.48:330][530]LogAIModule: Creating AISystem for world Untitled_1
+[2023.04.10-16.30.48:413][530]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.10-16.30.48:434][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.10-16.30.48:440][530]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.10-16.30.48:441][530]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2023.04.10-16.30.48:441][530]LogFileHelpers: Loading map 'Template_Default' took 0.270
+[2023.04.10-16.30.59:373][166]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.04.10-16.31.13:179][296]LogSlate: Window 'Save Level As' being destroyed
+[2023.04.10-16.31.13:218][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-16.31.13:289][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.04.10-16.31.13:304][296]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level41EAA91B4F0D3388CB9ECA9A8F504930.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-16.31.13:320][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-16.31.13:336][296]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltDataF02BEEB142616C1DC5EB4896057BA5F7.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-16.31.13:346][296]LogFileHelpers: Saving map 'MapTwo_Level' took 0.156
+[2023.04.10-16.31.13:356][296]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-16.31.13:356][296]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.31.13:356][296]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-16.31.18:915][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.04.10-16.31.18:935][608]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.31.18:935][608]Cmd: MAP LOAD FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.10-16.31.18:935][608]LightingResults: New page: Lighting Build
+[2023.04.10-16.31.18:935][608]LoadErrors: New page: Loading map: MapTwo_Level.umap
+[2023.04.10-16.31.18:937][608]LogWorld: UWorld::CleanupWorld for MapTwo_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.31.18:937][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.31.18:937][608]MapCheck: New page: Map Check
+[2023.04.10-16.31.18:937][608]LightingResults: New page: Lighting Build
+[2023.04.10-16.31.18:955][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-16.31.18:963][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.10-16.31.18:969][608]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapTwo_Level'.
+[2023.04.10-16.31.18:970][608]LogAIModule: Creating AISystem for world MapTwo_Level
+[2023.04.10-16.31.19:027][608]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.10-16.31.19:046][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.04.10-16.31.19:055][608]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.10-16.31.19:055][608]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2023.04.10-16.31.19:055][608]LogFileHelpers: Loading map 'MapTwo_Level' took 0.120
+[2023.04.10-16.31.21:456][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.04.10-16.31.22:456][810]Cmd: DELETE
+[2023.04.10-16.31.22:456][810]Cmd: ACTOR DELETE
+[2023.04.10-16.31.22:461][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.10-16.31.22:478][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.10-16.31.22:480][810]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.10-16.31.23:039][844]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.04.10-16.31.24:393][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-16.31.24:411][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.10-16.31.24:421][924]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_LevelB149981146F04CBC664D41BD5383C57C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-16.31.24:431][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-16.31.24:448][924]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltData172ECA684E501CF4601ECE93BC307B92.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-16.31.24:462][924]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-16.31.24:462][924]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.31.24:462][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-16.31.33:622][473]LogStaticMesh: Building static mesh Map2...
+[2023.04.10-16.31.33:646][473]LogStaticMesh: Built static mesh [0.02s] /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-16.31.33:752][478]LogActorFactory: Actor Factory created Map2
+[2023.04.10-16.31.35:397][576]LogActorFactory: Actor Factory created Map2
+[2023.04.10-16.31.36:308][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map2)
+[2023.04.10-16.31.36:758][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map2)
+[2023.04.10-16.31.37:078][676]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Map2)
+[2023.04.10-16.31.37:593][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map2)
+[2023.04.10-16.31.50:548][481]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.04.10-16.31.50:977][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-16.31.51:002][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.10-16.31.51:012][505]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level51FD29F944DB35C1BBD8F2A3FDCF9F2A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-16.31.51:023][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-16.31.51:036][505]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltData509C5F4E4403CEBDFDA5B5BF3BF3439D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-16.31.51:049][505]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-16.31.51:049][505]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.31.51:049][505]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-16.31.51:660][541]LogTemp: Repeating last play command: Standalone Game
+[2023.04.10-16.31.51:686][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.10-16.32.14:004][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map2)
+[2023.04.10-16.32.17:923][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map2)
+[2023.04.10-16.32.23:172][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-16.32.23:194][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.10-16.32.23:205][265]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_LevelB862F0AF4B8E6EDB07C3708026846F95.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-16.32.23:216][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-16.32.23:228][265]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltDataE665FCC14DAF4F74B26C3A9BAD719736.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-16.32.23:242][265]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-16.32.23:242][265]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-16.32.23:242][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-16.32.24:739][354]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-16.32.24:812][354]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.04.10-16.32.24:902][354]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.10-16.32.25:465][355]LogRenderer: Reallocating scene render targets to support 1172x696 Format 10 NumSamples 1 (Frame:1).
+[2023.04.10-16.32.53:510][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-16.32.53:521][819]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map26ECCA1944E4DAD40EDB672B480DF8F09.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-16.32.53:536][819]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-16.32.53:536][819]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-16.33.07:203][601]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.33.07:203][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.33.08:535][675]LogSlate: Window 'Player_Character' being destroyed
+[2023.04.10-16.33.08:542][675]LogSlate: Window 'Player_Character' being destroyed
+[2023.04.10-16.33.08:558][675]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-16.33.08:559][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-16.33.11:736][857]LogTemp: Repeating last play command: Standalone Game
+[2023.04.10-16.33.11:860][857]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.04.10-16.33.13:153][857]LogSlate: Window 'Save Content' being destroyed
+[2023.04.10-16.33.30:185][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map2)
+[2023.04.10-16.33.31:342][852]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-16.34.00:446][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-16.34.00:453][517]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2005C6D68443AF18ED082DF898FA39D19.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-16.34.00:470][517]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-16.34.00:470][517]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.01.54:164][713]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.10-19.01.55:075][713]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.10-19.01.55:075][713]LogAudioMixer: Display: 1: FrontRight
+[2023.04.10-19.01.56:051][714]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.10-19.01.56:121][714]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.10-19.01.56:121][714]LogAudioMixer: Display: 1: FrontRight
+[2023.04.10-19.02.15:894][459]LogHttp: Warning: 00000200DF956B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B75260348-4D47-70B4-3948-0F8FCBACA408%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06cccc1344696a16dfdf98a39c557667%7C2d32650e44b34196b33d230ecffe4c44%7Cc52fd56d-043c-4270-b77f-53f250a1a918&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2003d167eb0 [can pipeline])
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.23.60.92) port 443 (#0))
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.04.10-19.02.15:895][459]LogHttp: Warning: 00000200DF956B00: libcurl info message cache 7 (Closing connection 0)
+[2023.04.10-19.02.15:912][460]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B75260348-4D47-70B4-3948-0F8FCBACA408%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06cccc1344696a16dfdf98a39c557667%7C2d32650e44b34196b33d230ecffe4c44%7Cc52fd56d-043c-4270-b77f-53f250a1a918&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.10-19.03.14:001][349]LogUObjectHash: Compacting FUObjectHashTables data took  92.26ms
+[2023.04.10-19.03.14:173][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MapTwo_Level' took 1.393
+[2023.04.10-19.03.14:181][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlenderModels/Maps/Map2] ([1] browsable assets)...
+[2023.04.10-19.03.14:181][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Maps/Map2]
+[2023.04.10-19.03.14:193][349]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2_Auto146C55E934644064EB87B6D9A53B95287.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Maps/Map2_Auto1.uasset'
+[2023.04.10-19.03.14:196][349]LogFileHelpers: Auto-saving content packages took 0.021
+[2023.04.10-19.15.38:621][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-19.15.38:732][597]LogUObjectHash: Compacting FUObjectHashTables data took  14.83ms
+[2023.04.10-19.15.38:832][597]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level0F5F580A44C84B61D44311A93F36088D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-19.15.38:872][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-19.15.38:912][597]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltData9B1D5921441DECB9E436A6B8E6A70077.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-19.15.39:066][597]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-19.15.39:067][597]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-19.15.39:068][597]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-19.16.26:818][202]LogEditorTransaction: Undo Translate Collision
+[2023.04.10-19.16.28:276][251]LogEditorTransaction: Undo Translate Collision
+[2023.04.10-19.18.34:691][989]LogEditorTransaction: Undo Translate Collision
+[2023.04.10-19.18.40:587][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.18.40:600][264]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2946DCAA64F3789D6504F22834484AFE8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.18.40:623][264]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.18.40:623][264]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.20.57:262][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.20.57:277][808]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2FE16B6AB4E8C1D7FAF562AABC2BEB8DD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.20.57:303][808]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.20.57:303][808]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.21.59:317][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.21.59:329][322]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2A318BF7141E04F0EAF45318FFDBFBA94.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.21.59:355][322]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.21.59:355][322]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.22.32:594][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.22.32:607][ 59]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2B58AFFE74ABBAD9186BC75BAD1E0864D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.22.32:630][ 59]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.22.32:631][ 59]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.23.01:949][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.23.01:960][682]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map264FB477541E86400903DF59989A7C575.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.23.01:982][682]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.23.01:982][682]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.23.08:278][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.23.08:288][ 51]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map285C9B548413F0E2D3518A5B9839EF20F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.23.08:308][ 51]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.23.08:308][ 51]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.23.33:346][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.23.33:361][441]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map28DA57C2644C395955A17E680AC911C64.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.23.33:382][441]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.23.33:382][441]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.23.53:032][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.23.53:046][502]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2AA9A78A542111FCD1C82A1A3AFA67503.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.23.53:069][502]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.23.53:069][502]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.24.02:901][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.24.02:916][ 74]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map22C2A1347460CC39B13CACA84C891F43E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.24.02:938][ 74]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.24.02:938][ 74]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.24.27:159][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.24.27:174][416]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2BC73A799428F11C38D294EB90AF23D1C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.24.27:231][416]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.24.27:231][416]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.24.48:647][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.24.48:659][600]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2D6C254D641B42B5CC9D4C19269259231.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.24.48:692][600]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.24.48:692][600]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.25.08:433][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.25.08:446][623]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map27E33BB144721C0B99594DB993BBCDEE0.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.25.08:471][623]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.25.08:471][623]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.25.21:773][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.25.21:785][307]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2DD85668044A58FC2B0DE7EA58FE635C8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.25.21:806][307]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.25.21:806][307]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.25.40:192][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.25.40:206][290]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2FA9E349745C4A2960B8DBCB74B9B5C96.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.25.40:291][290]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.25.40:291][290]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.25.59:178][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.25.59:192][339]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2A6A9EA45437B60D6727E9ABEB0667B2E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.25.59:216][339]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.25.59:216][339]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.26.24:174][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.26.24:189][754]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map21406CD2A4E385D14C9D3618EC3DC7C01.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.26.24:212][754]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.26.24:212][754]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.26.37:347][455]LogEditorTransaction: Undo Scale Collision
+[2023.04.10-19.27.02:836][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.10-19.27.02:856][916]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MapTwo_Level' took 0.047
+[2023.04.10-19.27.02:856][916]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlenderModels/Maps/Map2] ([1] browsable assets)...
+[2023.04.10-19.27.02:858][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Maps/Map2]
+[2023.04.10-19.27.02:866][916]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2_Auto23271F2C74BDC9116C3DAE29C24D0EE8C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Maps/Map2_Auto2.uasset'
+[2023.04.10-19.27.02:868][916]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.04.10-19.27.38:542][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.27.38:558][ 19]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map22303CF7A49CD1664A9C4598B2CE81245.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.27.38:583][ 19]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.27.38:583][ 19]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.27.39:279][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.27.39:291][ 54]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2D43AD4744D775F80A81806A9DEC54C87.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.27.39:312][ 54]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.27.39:312][ 54]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.27.40:893][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.27.40:904][132]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map26328C54D4A2DB305324EEF8DE7D6C82D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.27.40:923][132]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.27.40:923][132]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.27.41:221][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.27.41:232][145]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2E9EBF50F403084BE9AFE35A8721C3456.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.27.41:250][145]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.27.41:250][145]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.27.45:148][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Maps/Map2" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset" SILENT=true
+[2023.04.10-19.27.45:158][364]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Map2C7F03F104A729E21DDB1428284B1CE8A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Maps/Map2.uasset'
+[2023.04.10-19.27.45:176][364]AssetCheck: New page: Asset Save: Map2
+[2023.04.10-19.27.45:176][364]LogContentValidation: Display: Validating StaticMesh /Game/BlenderModels/Maps/Map2.Map2
+[2023.04.10-19.27.47:205][462]LogSlate: Window 'Map2' being destroyed
+[2023.04.10-19.27.47:252][462]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-19.27.47:254][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-19.27.50:477][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-19.27.50:482][729]PIE: New page: PIE session: MapTwo_Level (10 Apr 2023, 21:27:50)
+[2023.04.10-19.27.50:524][729]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MapTwo_Level
+[2023.04.10-19.27.50:542][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015801s)
+[2023.04.10-19.27.50:556][729]LogAIModule: Creating AISystem for world MapTwo_Level
+[2023.04.10-19.27.50:562][729]LogPlayLevel: PIE: World Init took: (0.020275s)
+[2023.04.10-19.27.50:562][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MapTwo_Level.MapTwo_Level to /Game/Levels/UEDPIE_0_MapTwo_Level.MapTwo_Level (0.037447s)
+[2023.04.10-19.27.50:590][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.04.10-19.27.50:607][729]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.10-19.27.50:609][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-19.27.50:609][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-19.27.50:609][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-19.27.50:609][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-19.27.50:609][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-19.27.50:609][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.10-19.27.50:609][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-19.27.50:609][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-19.27.50:611][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-19.27.50:611][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-19.27.50:611][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-19.27.50:612][729]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.10-19.27.50:620][729]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.10-19.27.50:620][729]LogAudioMixer: Display: 1: FrontRight
+[2023.04.10-19.27.50:746][729]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.10-19.27.50:748][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-19.27.50:748][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-19.27.50:749][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-19.27.50:750][729]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.10-19.27.50:750][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.10-19.27.50:751][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.10-19.27.50:753][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.10-19.27.50:753][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.10-19.27.50:753][729]LogInit: FAudioDevice initialized.
+[2023.04.10-19.27.50:753][729]LogAudio: Display: Audio Device (ID: 14) registered with world 'MapTwo_Level'.
+[2023.04.10-19.27.50:783][729]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.10-19.27.50:790][729]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MapTwo_Level.MapTwo_Level up for play (max tick rate 0) at 2023.04.10-20.27.50
+[2023.04.10-19.27.50:791][729]LogWorld: Bringing up level for play took: 0.003379
+[2023.04.10-19.27.50:797][729]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.04.10-19.27.50:811][729]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.10-19.27.50:839][729]PIE: Server logged in
+[2023.04.10-19.27.50:840][729]PIE: Play in editor total start time 0.367 seconds.
+[2023.04.10-19.28.31:915][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-19.28.31:915][588]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MapTwo_Level
+[2023.04.10-19.28.31:916][588]LogWorld: UWorld::CleanupWorld for MapTwo_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-19.28.31:917][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-19.28.31:936][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-19.28.31:982][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-19.28.31:999][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-19.28.32:001][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-19.28.32:003][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-19.28.32:016][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.10-19.28.32:075][589]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.04.10-19.28.32:930][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-19.28.32:950][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.10-19.28.32:966][667]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level86D9F9AD45396229FB52E5801F0DB5BD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-19.28.32:982][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-19.28.33:000][667]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltData6273E08D4FFECC6D51992392116247BD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-19.28.33:016][667]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-19.28.33:016][667]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-19.28.33:016][667]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-19.28.37:724][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.28.45:513][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.28.45:590][349]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character4C98CACD4443E4DEB45B2E8D8A2C1A17.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.28.45:613][349]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.28.45:613][349]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.28.54:936][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.28.54:983][781]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterC33F13FE4972F45F376464A195EE6B16.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.28.55:002][781]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.28.55:002][781]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.38.33:043][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.04.10-19.38.33:052][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MapTwo_Level' took 0.040
+[2023.04.10-19.38.33:052][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Character] ([2] browsable assets)...
+[2023.04.10-19.38.33:064][360]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Character.Player_Character]
+[2023.04.10-19.38.33:064][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Character]
+[2023.04.10-19.38.33:064][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.04.10-19.38.33:113][360]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character_Auto344C1F6334A511D1EF6C8FEAA6299F4C3.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto3.uasset'
+[2023.04.10-19.38.33:115][360]LogFileHelpers: Auto-saving content packages took 0.063
+[2023.04.10-19.46.10:736][630]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.46.10:827][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.04.10-19.46.11:526][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.46.11:574][659]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character289DB3AC4E00E623FD0625B4042308DA.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.46.11:597][659]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.46.11:597][659]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.47.01:763][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.47.01:804][859]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character2352A6494EF881B8263E43AE10AFF5F7.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.47.01:825][859]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.47.01:825][859]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.47.14:087][788]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.10-19.48.35:750][705]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.10-19.48.35:762][705]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.10-19.49.36:320][ 43]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.49.36:479][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2023.04.10-19.49.36:856][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.49.36:904][ 59]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character2A0C2C8F435C82AA0977DEA7C9407152.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.49.36:929][ 59]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.49.36:930][ 59]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.50.35:511][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.50.35:561][745]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterBB5E34CB474BEE0D729240AB677488FB.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.50.35:584][745]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.50.35:584][745]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.51.06:795][588]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.51.06:900][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2023.04.10-19.51.07:261][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.51.07:312][601]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterEEAB3FDB4B4F325749866EB1FDCF767E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.51.07:345][601]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.51.07:346][601]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.52.23:394][877]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.52.23:463][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2023.04.10-19.52.23:945][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.52.23:990][897]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterE663D09649EEABC05E476D993325412E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.52.24:010][897]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.52.24:010][897]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.53.03:517][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.04.10-19.53.03:523][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MapTwo_Level' took 0.040
+[2023.04.10-19.53.03:523][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Character] ([2] browsable assets)...
+[2023.04.10-19.53.03:524][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Character]
+[2023.04.10-19.53.03:524][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.04.10-19.53.03:558][217]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character_Auto4EC7B57D449EBB3812405AF98D758EC16.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto4.uasset'
+[2023.04.10-19.53.03:559][217]LogFileHelpers: Auto-saving content packages took 0.036
+[2023.04.10-19.54.01:580][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.54.01:632][612]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character7892669C47EE64B08432A3932EF68E22.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.54.01:661][612]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.54.01:661][612]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.54.02:106][638]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.54.02:181][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.10-19.54.18:063][540]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.54.18:135][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.04.10-19.54.18:554][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.54.18:601][555]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterC9EFC9C246BBCD90E880AAAC19495557.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.54.18:626][555]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.54.18:626][555]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.54.41:420][835]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.54.41:489][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.04.10-19.54.41:878][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.54.41:922][850]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character3C55B42E4D9BFBBB4FE13CAA1BE1EF59.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.54.41:945][850]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.54.41:946][850]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.55.09:279][420]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.55.09:355][420]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.04.10-19.55.09:854][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.55.09:904][442]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character8AC6F7FC4C63A02F5B4F4C844174BFBC.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.55.09:947][442]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.55.09:947][442]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.55.15:037][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.55.15:080][732]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character8A7FD7E84CB3D39C1671208AF989421E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.55.15:104][732]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.55.15:104][732]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.55.19:195][955]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.10-19.55.19:206][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-19.55.19:206][955]PIE: New page: PIE session: MapTwo_Level (10 Apr 2023, 21:55:19)
+[2023.04.10-19.55.19:240][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MapTwo_Level
+[2023.04.10-19.55.19:248][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006943s)
+[2023.04.10-19.55.19:251][955]LogAIModule: Creating AISystem for world MapTwo_Level
+[2023.04.10-19.55.19:251][955]LogPlayLevel: PIE: World Init took: (0.001645s)
+[2023.04.10-19.55.19:251][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MapTwo_Level.MapTwo_Level to /Game/Levels/UEDPIE_0_MapTwo_Level.MapTwo_Level (0.009851s)
+[2023.04.10-19.55.19:281][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.04.10-19.55.19:285][955]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.10-19.55.19:285][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-19.55.19:285][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-19.55.19:285][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-19.55.19:285][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-19.55.19:285][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-19.55.19:285][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.10-19.55.19:285][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-19.55.19:285][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-19.55.19:286][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-19.55.19:286][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-19.55.19:286][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-19.55.19:286][955]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.10-19.55.19:292][955]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.10-19.55.19:292][955]LogAudioMixer: Display: 1: FrontRight
+[2023.04.10-19.55.19:417][955]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.10-19.55.19:417][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-19.55.19:417][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-19.55.19:418][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-19.55.19:418][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.10-19.55.19:418][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.10-19.55.19:418][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.10-19.55.19:420][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.10-19.55.19:420][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.10-19.55.19:420][955]LogInit: FAudioDevice initialized.
+[2023.04.10-19.55.19:420][955]LogAudio: Display: Audio Device (ID: 15) registered with world 'MapTwo_Level'.
+[2023.04.10-19.55.19:438][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.10-19.55.19:440][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MapTwo_Level.MapTwo_Level up for play (max tick rate 60) at 2023.04.10-20.55.19
+[2023.04.10-19.55.19:440][955]LogWorld: Bringing up level for play took: 0.001896
+[2023.04.10-19.55.19:441][955]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.04.10-19.55.19:445][955]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.10-19.55.19:450][955]PIE: Server logged in
+[2023.04.10-19.55.19:450][955]PIE: Play in editor total start time 0.247 seconds.
+[2023.04.10-19.55.24:242][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-19.55.24:242][239]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MapTwo_Level
+[2023.04.10-19.55.24:243][239]LogWorld: UWorld::CleanupWorld for MapTwo_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-19.55.24:243][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-19.55.24:255][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-19.55.24:278][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-19.55.24:307][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-19.55.24:307][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-19.55.24:309][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-19.55.24:317][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-19.55.24:324][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.04.10-19.55.24:402][240]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.04.10-19.56.24:416][276]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.56.24:495][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.04.10-19.56.24:998][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.56.25:040][291]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterB84F2FD8435F79D3384389A99D55FD29.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.56.25:060][291]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.56.25:060][291]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.56.25:768][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.56.25:805][325]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterB8CE076946520CB8EC0EF48744DD9802.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.56.25:828][325]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.56.25:828][325]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.57.30:650][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.57.30:702][604]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character40EA76DB41B5B4F15E71F1A723386268.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.57.30:735][604]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.57.30:735][604]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.58.00:153][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.58.00:194][857]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character73FAC3DA4812BEA1EE26C1BDD2D01907.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.58.00:216][857]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.58.00:216][857]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.58.33:629][337]LogSlate: Window 'Delete Variable' being destroyed
+[2023.04.10-19.58.47:429][993]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.58.47:507][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.04.10-19.58.47:894][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.58.47:938][  4]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterB962DE484826C781AB43A4B342B5F5FB.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.58.47:962][  4]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.58.47:962][  4]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.59.43:093][570]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-19.59.43:168][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.04.10-19.59.43:590][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.59.43:633][585]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character487EF4124CD81DC02E0E30AE6D0E70FF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.59.43:657][585]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.59.43:658][585]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-19.59.45:947][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-19.59.45:988][698]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character09B148BE45C6252278D8FE83DE450DAB.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-19.59.46:009][698]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-19.59.46:009][698]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.03.12:339][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.03.12:380][867]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character9680B6894514E864228710BA614D2C65.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.03.12:410][867]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.03.12:410][867]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.03.18:238][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.03.18:288][ 94]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character905E1059425AF7522C3CD1ABCF9CFB4E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.03.18:317][ 94]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.03.18:317][ 94]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.03.21:586][248]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-20.03.21:660][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.04.10-20.03.22:203][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.03.22:250][267]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterE8311A294AF354074F5262AB2444FC54.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.03.22:279][267]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.03.22:279][267]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.03.32:197][741]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-20.03.32:275][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.04.10-20.03.32:608][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.03.32:653][750]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character869CAF0D4DCDAE14B5A8E1959E08790F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.03.32:682][750]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.03.32:682][750]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.04.12:879][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.04.10-20.04.12:885][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MapTwo_Level' took 0.044
+[2023.04.10-20.04.12:886][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Character] ([2] browsable assets)...
+[2023.04.10-20.04.12:898][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Character.Player_Character]
+[2023.04.10-20.04.12:898][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Character]
+[2023.04.10-20.04.12:898][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.04.10-20.04.12:937][678]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character_Auto5AFD5B9D6454254EC069F069B36C090F7.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto5.uasset'
+[2023.04.10-20.04.12:938][678]LogFileHelpers: Auto-saving content packages took 0.052
+[2023.04.10-20.04.18:408][940]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-20.04.18:482][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.04.10-20.04.19:032][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.04.19:072][956]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character9BEAB9844D907D390BF2D2BAB7CF8F97.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.04.19:094][956]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.04.19:094][956]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.04.30:136][397]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-20.04.30:211][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.04.10-20.04.30:574][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.04.30:616][408]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character1BBF71624B3F9E475351CA9CDE9C9F21.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.04.30:635][408]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.04.30:635][408]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.06.36:203][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.06.36:246][375]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character4C5FF1244EE012AF6FE6D1A79BA1FE24.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.06.36:281][375]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.06.36:281][375]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.07.52:317][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.07.52:373][687]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterADE73CF447B65DB51984DA8561A74AE2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.07.52:400][687]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.07.52:400][687]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.07.55:960][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.07.56:002][832]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterE7A7F4AE4853DC30138AEF9614741321.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.07.56:024][832]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.07.56:024][832]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.07.56:286][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.07.56:323][843]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterD7208B74466E227204964C90E6777CA5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.07.56:346][843]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.07.56:346][843]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.07.57:865][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.07.57:903][899]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character981B3836404C462305E4FD90DD4D0E26.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.07.57:923][899]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.07.57:923][899]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.07.58:535][922]BlueprintLog: New page: Compile Player_Character
+[2023.04.10-20.07.58:607][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.04.10-20.07.59:148][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.07.59:188][938]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character00112CF84CF5ACB84FDD26A724CB80A6.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.07.59:205][938]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.07.59:205][938]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.07.59:466][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.10-20.07.59:506][949]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character27AC93994861FBAF8217D49FCFD75D60.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.10-20.07.59:557][949]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.10-20.07.59:557][949]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.10-20.08.00:405][982]LogSlate: Window 'Player_Character' being destroyed
+[2023.04.10-20.08.00:419][982]LogSlate: Window 'Player_Character' being destroyed
+[2023.04.10-20.08.00:440][982]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.00:440][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-20.08.01:434][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-20.08.01:504][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.04.10-20.08.01:516][ 28]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level591C5AA74201A820B0E2008377552367.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-20.08.01:536][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-20.08.01:556][ 28]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltDataAC9F9FBD46FE8C7616A8E4907232391B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-20.08.01:576][ 28]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-20.08.01:576][ 28]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-20.08.01:576][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-20.08.01:776][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.10-20.08.01:858][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.04.10-20.08.01:872][ 39]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_LevelD897E8824503FD68E0E88F8797079DA0.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level.umap'
+[2023.04.10-20.08.01:886][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MapTwo_Level_BuiltData" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset" SILENT=true
+[2023.04.10-20.08.01:906][ 39]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MapTwo_Level_BuiltData6E96B989455309CED25A87888F81D951.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MapTwo_Level_BuiltData.uasset'
+[2023.04.10-20.08.01:925][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-20.08.01:925][ 39]LogContentValidation: Display: Validating World /Game/Levels/MapTwo_Level.MapTwo_Level
+[2023.04.10-20.08.01:926][ 39]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MapTwo_Level_BuiltData.MapTwo_Level_BuiltData
+[2023.04.10-20.08.02:578][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.04.10-20.08.02:614][ 75]LogSlate: Window 'PacManHunter - Unreal Editor' being destroyed
+[2023.04.10-20.08.03:112][ 76]Cmd: QUIT_EDITOR
+[2023.04.10-20.08.03:113][ 76]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.10-20.08.03:126][ 76]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.10-20.08.03:483][ 76]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.10-20.08.03:483][ 76]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.10-20.08.03:483][ 76]LogAudio: Display: Audio Device unregistered from world 'MapTwo_Level'.
+[2023.04.10-20.08.03:483][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-20.08.03:488][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.10-20.08.03:586][ 76]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.10-20.08.03:587][ 76]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.10-20.08.03:621][ 76]LogExit: Preparing to exit.
+[2023.04.10-20.08.03:678][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.10-20.08.05:281][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:281][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:281][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:281][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:281][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:281][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:281][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:281][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:283][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:283][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:284][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:284][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:284][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:284][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:284][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:284][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:286][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:286][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:286][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:286][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:286][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:286][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:286][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:286][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:288][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:288][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:288][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:288][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:288][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:288][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:288][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:288][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:289][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:289][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:289][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:289][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:289][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:289][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:289][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:289][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:291][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:291][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:291][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:291][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:291][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:291][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:291][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:291][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:293][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:293][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:293][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:293][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:293][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:293][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:293][ 76]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.10-20.08.05:293][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:294][ 76]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:296][ 76]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:298][ 76]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:443][ 76]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.04.10-20.08.05:503][ 76]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-20.08.05:504][ 76]LogExit: Editor shut down
+[2023.04.10-20.08.05:512][ 76]LogExit: Transaction tracking system shut down
+[2023.04.10-20.08.06:379][ 76]LogExit: Object subsystem successfully closed.
+[2023.04.10-20.08.06:430][ 76]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.10-20.08.06:431][ 76]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.04.10-20.08.06:431][ 76]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.04.10-20.08.06:431][ 76]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2023.04.10-20.08.06:431][ 76]LogShaderCompilers: Display: ================================================
+[2023.04.10-20.08.06:471][ 76]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.04.10-20.08.06:723][ 76]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (884)
+[2023.04.10-20.08.06:723][ 76]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (882)
+[2023.04.10-20.08.06:723][ 76]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (880)
+[2023.04.10-20.08.06:723][ 76]LogModuleManager: Shutting down and abandoning module NewLevelDialog (878)
+[2023.04.10-20.08.06:723][ 76]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2023.04.10-20.08.06:723][ 76]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2023.04.10-20.08.06:723][ 76]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2023.04.10-20.08.06:724][ 76]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2023.04.10-20.08.06:724][ 76]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2023.04.10-20.08.06:724][ 76]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2023.04.10-20.08.06:754][ 76]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2023.04.10-20.08.06:754][ 76]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2023.04.10-20.08.06:754][ 76]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.04.10-20.08.06:755][ 76]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.04.10-20.08.06:756][ 76]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.04.10-20.08.06:756][ 76]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.04.10-20.08.06:757][ 76]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.04.10-20.08.06:757][ 76]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.04.10-20.08.06:757][ 76]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2023.04.10-20.08.06:760][ 76]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2023.04.10-20.08.06:762][ 76]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2023.04.10-20.08.06:763][ 76]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2023.04.10-20.08.06:764][ 76]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2023.04.10-20.08.06:764][ 76]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2023.04.10-20.08.06:764][ 76]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2023.04.10-20.08.06:765][ 76]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2023.04.10-20.08.06:767][ 76]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2023.04.10-20.08.06:768][ 76]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2023.04.10-20.08.06:771][ 76]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2023.04.10-20.08.06:772][ 76]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2023.04.10-20.08.06:772][ 76]LogModuleManager: Shutting down and abandoning module CharacterAI (824)
+[2023.04.10-20.08.06:772][ 76]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2023.04.10-20.08.06:772][ 76]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2023.04.10-20.08.06:772][ 76]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (818)
+[2023.04.10-20.08.06:773][ 76]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (816)
+[2023.04.10-20.08.06:773][ 76]LogModuleManager: Shutting down and abandoning module WebMMedia (814)
+[2023.04.10-20.08.06:773][ 76]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (812)
+[2023.04.10-20.08.06:774][ 76]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (810)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module SequenceRecorder (809)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2023.04.10-20.08.06:775][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2023.04.10-20.08.06:776][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2023.04.10-20.08.06:776][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2023.04.10-20.08.06:776][ 76]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2023.04.10-20.08.06:776][ 76]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2023.04.10-20.08.06:777][ 76]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2023.04.10-20.08.06:777][ 76]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2023.04.10-20.08.06:777][ 76]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2023.04.10-20.08.06:777][ 76]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2023.04.10-20.08.06:777][ 76]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2023.04.10-20.08.06:778][ 76]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2023.04.10-20.08.06:778][ 76]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2023.04.10-20.08.06:780][ 76]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2023.04.10-20.08.06:783][ 76]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2023.04.10-20.08.06:784][ 76]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2023.04.10-20.08.06:784][ 76]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2023.04.10-20.08.06:784][ 76]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2023.04.10-20.08.06:784][ 76]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2023.04.10-20.08.06:784][ 76]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2023.04.10-20.08.06:784][ 76]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2023.04.10-20.08.06:786][ 76]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2023.04.10-20.08.06:787][ 76]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2023.04.10-20.08.06:788][ 76]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2023.04.10-20.08.06:790][ 76]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2023.04.10-20.08.06:790][ 76]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2023.04.10-20.08.06:790][ 76]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2023.04.10-20.08.06:790][ 76]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2023.04.10-20.08.06:790][ 76]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2023.04.10-20.08.06:809][ 76]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2023.04.10-20.08.06:809][ 76]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2023.04.10-20.08.06:809][ 76]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2023.04.10-20.08.06:809][ 76]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2023.04.10-20.08.06:809][ 76]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2023.04.10-20.08.06:813][ 76]MemoryProfiler: Shutdown
+[2023.04.10-20.08.06:813][ 76]NetworkingProfiler: Shutdown
+[2023.04.10-20.08.06:813][ 76]LoadingProfiler: Shutdown
+[2023.04.10-20.08.06:814][ 76]TimingProfiler: Shutdown
+[2023.04.10-20.08.06:816][ 76]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2023.04.10-20.08.06:816][ 76]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2023.04.10-20.08.06:816][ 76]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2023.04.10-20.08.06:817][ 76]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2023.04.10-20.08.06:817][ 76]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2023.04.10-20.08.06:818][ 76]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2023.04.10-20.08.06:819][ 76]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2023.04.10-20.08.06:819][ 76]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2023.04.10-20.08.06:819][ 76]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2023.04.10-20.08.06:820][ 76]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2023.04.10-20.08.06:820][ 76]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2023.04.10-20.08.06:820][ 76]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2023.04.10-20.08.06:820][ 76]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2023.04.10-20.08.06:820][ 76]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2023.04.10-20.08.06:821][ 76]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2023.04.10-20.08.06:821][ 76]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2023.04.10-20.08.06:821][ 76]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2023.04.10-20.08.06:822][ 76]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2023.04.10-20.08.06:822][ 76]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2023.04.10-20.08.06:822][ 76]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2023.04.10-20.08.06:823][ 76]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2023.04.10-20.08.06:823][ 76]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2023.04.10-20.08.06:857][ 76]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2023.04.10-20.08.06:857][ 76]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2023.04.10-20.08.06:857][ 76]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2023.04.10-20.08.06:859][ 76]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2023.04.10-20.08.06:859][ 76]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2023.04.10-20.08.06:859][ 76]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2023.04.10-20.08.06:860][ 76]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2023.04.10-20.08.06:860][ 76]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2023.04.10-20.08.06:861][ 76]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2023.04.10-20.08.06:861][ 76]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2023.04.10-20.08.06:862][ 76]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2023.04.10-20.08.06:874][ 76]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2023.04.10-20.08.06:874][ 76]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2023.04.10-20.08.06:874][ 76]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2023.04.10-20.08.06:875][ 76]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2023.04.10-20.08.06:875][ 76]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2023.04.10-20.08.06:875][ 76]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2023.04.10-20.08.06:876][ 76]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2023.04.10-20.08.06:896][ 76]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2023.04.10-20.08.06:896][ 76]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2023.04.10-20.08.06:910][ 76]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2023.04.10-20.08.06:911][ 76]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2023.04.10-20.08.06:911][ 76]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2023.04.10-20.08.06:912][ 76]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2023.04.10-20.08.06:913][ 76]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2023.04.10-20.08.06:913][ 76]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2023.04.10-20.08.06:913][ 76]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2023.04.10-20.08.06:914][ 76]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.04.10-20.08.06:924][ 76]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.04.10-20.08.07:141][ 76]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.04.10-20.08.07:142][ 76]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.04.10-20.08.07:142][ 76]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2023.04.10-20.08.07:146][ 76]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2023.04.10-20.08.07:146][ 76]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2023.04.10-20.08.07:146][ 76]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2023.04.10-20.08.07:146][ 76]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2023.04.10-20.08.07:146][ 76]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2023.04.10-20.08.07:149][ 76]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (590)
+[2023.04.10-20.08.07:150][ 76]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (588)
+[2023.04.10-20.08.07:150][ 76]LogModuleManager: Shutting down and abandoning module TakeSequencer (586)
+[2023.04.10-20.08.07:150][ 76]LogModuleManager: Shutting down and abandoning module TakeMovieScene (584)
+[2023.04.10-20.08.07:150][ 76]LogModuleManager: Shutting down and abandoning module ScreenshotTools (582)
+[2023.04.10-20.08.07:150][ 76]LogModuleManager: Shutting down and abandoning module SynthesisEditor (580)
+[2023.04.10-20.08.07:150][ 76]LogModuleManager: Shutting down and abandoning module Synthesis (578)
+[2023.04.10-20.08.07:151][ 76]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (576)
+[2023.04.10-20.08.07:151][ 76]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (574)
+[2023.04.10-20.08.07:151][ 76]LogModuleManager: Shutting down and abandoning module OpenXREditor (572)
+[2023.04.10-20.08.07:152][ 76]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (570)
+[2023.04.10-20.08.07:152][ 76]LogModuleManager: Shutting down and abandoning module GooglePAD (568)
+[2023.04.10-20.08.07:152][ 76]LogModuleManager: Shutting down and abandoning module EditableMesh (566)
+[2023.04.10-20.08.07:152][ 76]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (564)
+[2023.04.10-20.08.07:152][ 76]LogModuleManager: Shutting down and abandoning module CableComponent (562)
+[2023.04.10-20.08.07:152][ 76]LogModuleManager: Shutting down and abandoning module AudioCapture (560)
+[2023.04.10-20.08.07:152][ 76]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (559)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module AssetTags (556)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (554)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (552)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module AppleImageUtils (550)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module AndroidPermission (548)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (546)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (544)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module TemplateSequence (542)
+[2023.04.10-20.08.07:153][ 76]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (540)
+[2023.04.10-20.08.07:154][ 76]LogOpenImageDenoise: OIDN shutting down
+[2023.04.10-20.08.07:154][ 76]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (538)
+[2023.04.10-20.08.07:154][ 76]LogModuleManager: Shutting down and abandoning module MotoSynth (536)
+[2023.04.10-20.08.07:154][ 76]LogModuleManager: Shutting down and abandoning module MeshConversion (534)
+[2023.04.10-20.08.07:154][ 76]LogModuleManager: Shutting down and abandoning module DynamicMesh (532)
+[2023.04.10-20.08.07:155][ 76]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (530)
+[2023.04.10-20.08.07:155][ 76]LogModuleManager: Shutting down and abandoning module GeometricObjects (528)
+[2023.04.10-20.08.07:155][ 76]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (526)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (525)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (522)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (520)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (518)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (516)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (514)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module ChaosNiagara (512)
+[2023.04.10-20.08.07:156][ 76]LogModuleManager: Shutting down and abandoning module FractureEditor (510)
+[2023.04.10-20.08.07:157][ 76]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (509)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (506)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module MediaCompositing (504)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module ImgMedia (502)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module BackChannel (500)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (498)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module AutomationUtils (496)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module AlembicImporter (494)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module AlembicLibrary (493)
+[2023.04.10-20.08.07:158][ 76]LogModuleManager: Shutting down and abandoning module GeometryCache (492)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (491)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (486)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (484)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (482)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (480)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (478)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (476)
+[2023.04.10-20.08.07:159][ 76]LogModuleManager: Shutting down and abandoning module PluginBrowser (474)
+[2023.04.10-20.08.07:161][ 76]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (472)
+[2023.04.10-20.08.07:162][ 76]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (470)
+[2023.04.10-20.08.07:163][ 76]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2023.04.10-20.08.07:165][ 76]LogModuleManager: Shutting down and abandoning module CurveEditorTools (466)
+[2023.04.10-20.08.07:166][ 76]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (464)
+[2023.04.10-20.08.07:166][ 76]LogModuleManager: Shutting down and abandoning module CryptoKeys (462)
+[2023.04.10-20.08.07:166][ 76]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (460)
+[2023.04.10-20.08.07:166][ 76]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (458)
+[2023.04.10-20.08.07:167][ 76]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2023.04.10-20.08.07:167][ 76]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (454)
+[2023.04.10-20.08.07:167][ 76]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (452)
+[2023.04.10-20.08.07:168][ 76]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (450)
+[2023.04.10-20.08.07:169][ 76]LogModuleManager: Shutting down and abandoning module PluginUtils (448)
+[2023.04.10-20.08.07:169][ 76]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2023.04.10-20.08.07:170][ 76]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2023.04.10-20.08.07:170][ 76]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2023.04.10-20.08.07:171][ 76]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2023.04.10-20.08.07:172][ 76]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2023.04.10-20.08.07:172][ 76]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2023.04.10-20.08.07:172][ 76]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2023.04.10-20.08.07:172][ 76]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2023.04.10-20.08.07:172][ 76]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2023.04.10-20.08.07:172][ 76]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2023.04.10-20.08.07:173][ 76]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2023.04.10-20.08.07:173][ 76]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2023.04.10-20.08.07:502][ 76]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2023.04.10-20.08.07:502][ 76]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2023.04.10-20.08.07:502][ 76]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2023.04.10-20.08.07:502][ 76]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2023.04.10-20.08.07:504][ 76]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2023.04.10-20.08.07:505][ 76]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2023.04.10-20.08.07:506][ 76]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (410)
+[2023.04.10-20.08.07:506][ 76]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2023.04.10-20.08.07:506][ 76]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2023.04.10-20.08.07:507][ 76]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.04.10-20.08.07:507][ 76]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.04.10-20.08.07:508][ 76]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.04.10-20.08.07:508][ 76]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.04.10-20.08.07:508][ 76]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.04.10-20.08.07:508][ 76]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (392)
+[2023.04.10-20.08.07:510][ 76]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2023.04.10-20.08.07:510][ 76]LogModuleManager: Shutting down and abandoning module UdpMessaging (388)
+[2023.04.10-20.08.07:614][ 76]LogModuleManager: Shutting down and abandoning module TcpMessaging (386)
+[2023.04.10-20.08.07:722][ 76]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2023.04.10-20.08.07:723][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2023.04.10-20.08.07:723][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2023.04.10-20.08.07:723][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2023.04.10-20.08.07:723][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2023.04.10-20.08.07:723][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2023.04.10-20.08.07:724][ 76]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.04.10-20.08.07:724][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2023.04.10-20.08.07:724][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2023.04.10-20.08.07:724][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2023.04.10-20.08.07:733][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2023.04.10-20.08.07:735][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2023.04.10-20.08.07:736][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2023.04.10-20.08.07:737][ 76]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2023.04.10-20.08.07:738][ 76]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2023.04.10-20.08.07:738][ 76]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2023.04.10-20.08.07:748][ 76]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2023.04.10-20.08.07:749][ 76]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2023.04.10-20.08.07:753][ 76]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2023.04.10-20.08.07:753][ 76]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2023.04.10-20.08.07:753][ 76]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2023.04.10-20.08.07:754][ 76]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2023.04.10-20.08.07:754][ 76]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2023.04.10-20.08.07:754][ 76]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2023.04.10-20.08.07:755][ 76]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2023.04.10-20.08.07:770][ 76]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2023.04.10-20.08.07:771][ 76]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2023.04.10-20.08.07:773][ 76]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2023.04.10-20.08.07:773][ 76]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2023.04.10-20.08.07:776][ 76]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2023.04.10-20.08.07:777][ 76]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2023.04.10-20.08.07:777][ 76]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2023.04.10-20.08.07:777][ 76]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2023.04.10-20.08.07:779][ 76]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2023.04.10-20.08.07:779][ 76]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2023.04.10-20.08.07:779][ 76]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2023.04.10-20.08.07:779][ 76]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2023.04.10-20.08.07:779][ 76]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2023.04.10-20.08.07:780][ 76]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2023.04.10-20.08.07:780][ 76]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.04.10-20.08.07:860][ 76]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.04.10-20.08.07:861][ 76]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.04.10-20.08.07:862][ 76]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.04.10-20.08.07:862][ 76]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.04.10-20.08.07:862][ 76]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.04.10-20.08.07:865][ 76]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.04.10-20.08.07:866][ 76]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.04.10-20.08.07:866][ 76]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.04.10-20.08.07:866][ 76]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.04.10-20.08.07:868][ 76]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.04.10-20.08.07:869][ 76]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.04.10-20.08.07:870][ 76]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.04.10-20.08.07:871][ 76]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.04.10-20.08.07:872][ 76]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.04.10-20.08.07:873][ 76]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.04.10-20.08.07:876][ 76]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.04.10-20.08.07:879][ 76]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.04.10-20.08.07:881][ 76]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.04.10-20.08.07:883][ 76]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.04.10-20.08.07:889][ 76]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.04.10-20.08.07:889][ 76]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.04.10-20.08.07:891][ 76]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.04.10-20.08.07:892][ 76]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.04.10-20.08.07:893][ 76]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.04.10-20.08.07:893][ 76]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.04.10-20.08.07:895][ 76]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.04.10-20.08.07:895][ 76]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.04.10-20.08.07:895][ 76]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.04.10-20.08.07:895][ 76]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.04.10-20.08.07:895][ 76]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.04.10-20.08.07:897][ 76]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.04.10-20.08.07:900][ 76]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.04.10-20.08.07:902][ 76]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.04.10-20.08.07:906][ 76]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.04.10-20.08.07:924][ 76]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.04.10-20.08.07:924][ 76]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.04.10-20.08.07:924][ 76]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.04.10-20.08.07:924][ 76]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.04.10-20.08.07:926][ 76]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.04.10-20.08.07:926][ 76]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.04.10-20.08.07:926][ 76]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.04.10-20.08.07:926][ 76]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.04.10-20.08.07:931][ 76]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.04.10-20.08.07:932][ 76]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.04.10-20.08.07:934][ 76]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.04.10-20.08.07:934][ 76]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.04.10-20.08.07:936][ 76]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.04.10-20.08.07:939][ 76]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.04.10-20.08.07:943][ 76]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.04.10-20.08.07:944][ 76]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.04.10-20.08.07:944][ 76]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.04.10-20.08.07:945][ 76]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.04.10-20.08.07:947][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.04.10-20.08.07:948][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.04.10-20.08.07:949][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.04.10-20.08.07:949][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.04.10-20.08.07:949][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.04.10-20.08.07:949][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.04.10-20.08.07:951][ 76]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.04.10-20.08.07:951][ 76]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.04.10-20.08.07:951][ 76]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.04.10-20.08.07:951][ 76]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.04.10-20.08.07:952][ 76]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.04.10-20.08.07:952][ 76]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.04.10-20.08.07:953][ 76]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.04.10-20.08.07:954][ 76]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.04.10-20.08.07:954][ 76]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.04.10-20.08.07:954][ 76]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.04.10-20.08.07:989][ 76]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.04.10-20.08.07:990][ 76]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.04.10-20.08.07:990][ 76]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.04.10-20.08.07:990][ 76]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.04.10-20.08.07:990][ 76]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.04.10-20.08.08:052][ 76]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.04.10-20.08.08:053][ 76]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.04.10-20.08.08:053][ 76]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.04.10-20.08.08:053][ 76]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.04.10-20.08.08:054][ 76]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.04.10-20.08.08:054][ 76]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.04.10-20.08.08:055][ 76]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.04.10-20.08.08:055][ 76]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.04.10-20.08.08:055][ 76]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.04.10-20.08.08:069][ 76]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.04.10-20.08.08:166][ 76]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.04.10-20.08.08:168][ 76]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.04.10-20.08.08:168][ 76]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.04.10-20.08.08:168][ 76]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.04.10-20.08.08:169][ 76]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.04.10-20.08.08:178][ 76]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.04.10-20.08.08:178][ 76]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.04.10-20.08.08:179][ 76]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.04.10-20.08.08:181][ 76]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.04.10-20.08.08:182][ 76]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.04.10-20.08.08:182][ 76]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.04.10-20.08.08:183][ 76]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.04.10-20.08.08:183][ 76]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.04.10-20.08.08:184][ 76]LogHMD: Freeing OpenVRDLLHandle.
+[2023.04.10-20.08.08:184][ 76]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.04.10-20.08.08:187][ 76]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2023.04.10-20.08.08:194][ 76]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.10-20.08.08:199][ 76]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2023.04.10-20.08.08:199][ 76]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.04.10-20.08.08:199][ 76]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.04.10-20.08.08:199][ 76]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.04.10-20.08.08:218][ 76]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2023.04.10-20.08.08:218][ 76]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2023.04.10-20.08.08:218][ 76]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2023.04.10-20.08.08:220][ 76]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.04.10-20.08.08:220][ 76]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.04.10-20.08.08:228][ 76]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.04.10-20.08.08:230][ 76]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.04.10-20.08.08:253][ 76]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.04.10-20.08.08:253][ 76]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.04.10-20.08.08:253][ 76]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B75260348-4D47-70B4-3948-0F8FCBACA408%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06cccc1344696a16dfdf98a39c557667%7C2d32650e44b34196b33d230ecffe4c44%7Cc52fd56d-043c-4270-b77f-53f250a1a918&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.04.10-20.08.08:253][ 76]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.04.10-20.08.08:279][ 76]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.04.10-20.08.08:294][ 76]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.04.10-20.08.08:300][ 76]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.04.10-20.08.08:303][ 76]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.04.10-20.08.08:303][ 76]LogModuleManager: Shutting down and abandoning module ChaosCloth (68)
+[2023.04.10-20.08.08:304][ 76]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2023.04.10-20.08.08:304][ 76]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2023.04.10-20.08.08:305][ 76]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2023.04.10-20.08.08:305][ 76]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2023.04.10-20.08.08:305][ 76]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2023.04.10-20.08.08:306][ 76]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2023.04.10-20.08.08:306][ 76]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2023.04.10-20.08.08:306][ 76]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.04.10-20.08.08:306][ 76]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.04.10-20.08.08:306][ 76]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.04.10-20.08.08:307][ 76]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.04.10-20.08.08:308][ 76]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.04.10-20.08.08:308][ 76]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.04.10-20.08.08:308][ 76]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.04.10-20.08.08:308][ 76]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.04.10-20.08.08:310][ 76]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.04.10-20.08.08:310][ 76]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.04.10-20.08.08:311][ 76]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.04.10-20.08.08:316][ 76]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.04.10-20.08.08:317][ 76]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.04.10-20.08.08:319][ 76]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.04.10-20.08.08:319][ 76]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.04.10-20.08.08:319][ 76]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.04.10-20.08.08:348][ 76]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.04.10-20.08.08:348][ 76]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.04.10-20.08.08:349][ 76]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.04.10-20.08.08:349][ 76]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.04.10-20.08.08:349][ 76]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.04.10-20.08.08:350][ 76]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.04.10-20.08.08:350][ 76]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.04.10-20.08.08:350][ 76]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.04.10-20.08.08:350][ 76]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.04.10-20.08.08:352][ 76]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.04.10-20.08.08:353][ 76]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.04.10-20.08.08:484][ 76]LogD3D11RHI: Shutdown
+[2023.04.10-20.08.08:484][ 76]LogD3D11RHI: CleanupD3DDevice
+[2023.04.10-20.08.08:544][ 76]LogExit: Exiting.
+[2023.04.10-20.08.08:585][ 76]Log file closed, 04/10/23 21:08:08
