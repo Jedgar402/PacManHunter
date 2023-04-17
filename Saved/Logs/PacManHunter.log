@@ -2092,3 +2092,802 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.17-11.48.28:248][ 65]LogAudioMixer: Resetting audio stream to device id 
 [2023.04.17-11.48.28:683][ 65]LogAudioMixer: Display: 0: FrontLeft
 [2023.04.17-11.48.28:683][ 65]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-12.58.36:449][169]LogRenderer: Reallocating scene render targets to support 1468x704 Format 10 NumSamples 1 (Frame:249716).
+[2023.04.17-12.58.39:182][286]LogUObjectHash: Compacting FUObjectHashTables data took  23.64ms
+[2023.04.17-13.00.12:480][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-13.00.12:485][474]PIE: New page: PIE session: ThirdPersonExampleMap (17 Apr 2023, 15:00:12)
+[2023.04.17-13.00.12:487][474]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.17-13.00.12:577][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086888s)
+[2023.04.17-13.00.12:586][474]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.17-13.00.12:591][474]LogPlayLevel: PIE: World Init took: (0.013111s)
+[2023.04.17-13.00.12:591][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.103784s)
+[2023.04.17-13.00.12:712][474]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2023.04.17-13.00.12:718][474]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.17-13.00.12:718][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-13.00.12:718][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-13.00.12:718][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-13.00.12:718][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-13.00.12:718][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-13.00.12:718][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-13.00.12:718][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-13.00.12:718][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-13.00.12:719][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-13.00.12:719][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-13.00.12:719][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-13.00.12:719][474]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-13.00.12:726][474]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-13.00.12:726][474]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-13.00.12:814][474]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.04.17-13.00.12:820][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-13.00.12:820][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-13.00.12:820][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-13.00.12:825][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-13.00.12:825][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-13.00.12:825][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-13.00.12:828][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-13.00.12:828][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-13.00.12:828][474]LogInit: FAudioDevice initialized.
+[2023.04.17-13.00.12:828][474]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2023.04.17-13.00.12:870][474]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.17-13.00.12:879][474]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.17-14.00.12
+[2023.04.17-13.00.12:881][474]LogWorld: Bringing up level for play took: 0.009428
+[2023.04.17-13.00.12:882][474]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.04.17-13.00.12:898][474]PIE: Server logged in
+[2023.04.17-13.00.12:899][474]PIE: Play in editor total start time 0.43 seconds.
+[2023.04.17-13.00.39:283][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-13.00.39:283][ 50]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.17-13.00.39:286][ 50]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-13.00.39:286][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-13.00.39:330][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-13.00.39:359][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-13.00.39:386][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-13.00.39:386][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-13.00.39:389][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-13.00.39:395][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-13.00.39:400][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.17-13.00.39:437][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.04.17-13.00.40:623][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.04.17-13.00.40:663][117]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap1EBB47954ED591DF74AF10AE049FC179.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.17-13.00.40:699][117]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData3207142046C6976442D7D6AE82D366EB.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.17-13.00.40:745][117]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-13.00.40:745][117]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.17-13.00.40:745][117]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.17-13.02.05:524][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.04.17-13.02.05:551][183]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap1DFD4134457BA5E36BBD0EB3952D3BC9.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.17-13.02.05:582][183]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData292570654455DF2C5152088A521E97E0.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.17-13.02.05:597][183]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-13.02.05:597][183]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.17-13.02.05:597][183]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.17-13.03.15:745][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.17-13.03.15:776][250]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap2B3BE27546F163E848855CBFD318C804.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.17-13.03.15:805][250]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData51B9556F448A390F59543E8AB1B03684.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.17-13.03.15:831][250]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-13.03.15:831][250]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.17-13.03.15:832][250]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.17-13.09.55:133][273]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2023.04.17-13.09.55:187][273]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap618790AB49D34D4080A1A887BAB26139.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.17-13.09.55:226][273]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData1D76C5C64A23293918C107960507B14E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.17-13.09.55:256][273]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-13.09.55:257][273]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.17-13.09.55:257][273]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.17-14.15.04:393][985]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b9d58823-024c-456e-9d0a-405317ddab2e}.
+[2023.04.17-14.15.04:406][985]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-14.15.04:538][985]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-14.15.04:538][985]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-14.16.17:903][680]BlueprintLog: New page: Compile Collectable_BP
+[2023.04.17-14.16.18:392][680]LogUObjectHash: Compacting FUObjectHashTables data took  25.55ms
+[2023.04.17-14.16.18:974][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/Collectable_BP" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset" SILENT=true
+[2023.04.17-14.16.19:080][688]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Collectable_BP004FF201484292CA9800369CF2D4EE0A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset'
+[2023.04.17-14.16.19:117][688]AssetCheck: New page: Asset Save: Collectable_BP
+[2023.04.17-14.16.19:117][688]LogContentValidation: Display: Validating Blueprint /Game/Collectables/Collectable_BP.Collectable_BP
+[2023.04.17-14.16.44:059][393]LogUObjectHash: Compacting FUObjectHashTables data took  11.98ms
+[2023.04.17-14.16.44:158][393]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_Auto415FCAE7D4DC322FD34D944965F7FE044.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2023.04.17-14.16.44:166][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.179
+[2023.04.17-14.16.44:167][393]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.179
+[2023.04.17-14.19.36:126][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/Collectable_BP" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset" SILENT=true
+[2023.04.17-14.19.36:197][391]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Collectable_BP3D4ABEA944681A0E3C67B3B7A42E4FAD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset'
+[2023.04.17-14.19.36:236][391]AssetCheck: New page: Asset Save: Collectable_BP
+[2023.04.17-14.19.36:238][391]LogContentValidation: Display: Validating Blueprint /Game/Collectables/Collectable_BP.Collectable_BP
+[2023.04.17-14.19.55:504][ 14]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.17-14.19.55:699][ 14]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.17-14.20.08:385][766]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.20.39:333][458]LogSlate: Window 'Delete Variable' being destroyed
+[2023.04.17-14.20.50:653][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.17-14.20.50:722][968]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character447A77D64A75F339F95B0986A119F92E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.17-14.20.50:745][968]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.17-14.20.50:746][968]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.20.51:131][984]BlueprintLog: New page: Compile Player_Character
+[2023.04.17-14.20.51:215][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.04.17-14.21.00:304][382]LogSlate: Took 0.007747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.17-14.23.59:468][763]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.17-14.23.59:478][763]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-14.24.00:420][763]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-14.24.00:421][763]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-14.24.00:489][764]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-14.24.00:511][764]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-14.24.00:511][764]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-14.24.52:123][155]BlueprintLog: New page: Compile Player_Character
+[2023.04.17-14.24.52:301][155]LogUObjectHash: Compacting FUObjectHashTables data took  11.15ms
+[2023.04.17-14.24.52:611][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.17-14.24.52:686][158]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterAD5F5D54433A4495E5AA05B982318525.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.17-14.24.52:720][158]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.17-14.24.52:722][158]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.26.17:686][ 17]BlueprintLog: New page: Compile Collectable_BP
+[2023.04.17-14.26.17:748][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.04.17-14.26.18:141][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/Collectable_BP" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset" SILENT=true
+[2023.04.17-14.26.18:163][ 34]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Collectable_BP5DC50E05420E61B076AA0E80C082D0E3.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset'
+[2023.04.17-14.26.18:181][ 34]AssetCheck: New page: Asset Save: Collectable_BP
+[2023.04.17-14.26.18:181][ 34]LogContentValidation: Display: Validating Blueprint /Game/Collectables/Collectable_BP.Collectable_BP
+[2023.04.17-14.26.36:652][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/Collectable_BP" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset" SILENT=true
+[2023.04.17-14.26.36:692][487]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Collectable_BP9BDF372B4C8A5EF84645109C71FE8488.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset'
+[2023.04.17-14.26.36:726][487]AssetCheck: New page: Asset Save: Collectable_BP
+[2023.04.17-14.26.36:726][487]LogContentValidation: Display: Validating Blueprint /Game/Collectables/Collectable_BP.Collectable_BP
+[2023.04.17-14.26.48:858][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/Collectable_BP" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset" SILENT=true
+[2023.04.17-14.26.48:879][843]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Collectable_BPA86466544F8EC417BD1E009BF77F3816.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset'
+[2023.04.17-14.26.48:919][843]AssetCheck: New page: Asset Save: Collectable_BP
+[2023.04.17-14.26.48:920][843]LogContentValidation: Display: Validating Blueprint /Game/Collectables/Collectable_BP.Collectable_BP
+[2023.04.17-14.26.54:250][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/Collectable_BP" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset" SILENT=true
+[2023.04.17-14.26.54:275][980]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Collectable_BP052562FA41474187E0BDF79D76B1CD7B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/Collectable_BP.uasset'
+[2023.04.17-14.26.54:315][980]AssetCheck: New page: Asset Save: Collectable_BP
+[2023.04.17-14.26.54:316][980]LogContentValidation: Display: Validating Blueprint /Game/Collectables/Collectable_BP.Collectable_BP
+[2023.04.17-14.27.19:604][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.04.17-14.27.19:631][689]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_Auto5092C12C6425EFD2E39CC8192EF60092D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2023.04.17-14.27.19:634][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2023.04.17-14.27.19:634][689]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2023.04.17-14.28.29:586][933]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.17-14.28.29:600][933]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.17-14.28.38:636][476]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CollectablesUI_Widget
+[2023.04.17-14.28.38:655][476]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.17-14.28.40:443][582]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.29.38:498][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.29.38:523][158]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget6D39416641EBA42B71A2849C2445138A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.29.38:580][158]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.29.38:580][158]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.29.39:265][175]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.29.39:396][175]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2023.04.17-14.29.48:526][455]LogSlate: Took 0.006876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.17-14.33.48:258][332]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.17-14.33.48:259][332]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-14.33.49:062][332]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-14.33.49:062][332]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-14.33.49:497][333]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-14.33.49:595][333]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-14.33.49:595][333]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-14.33.50:759][349]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b9d58823-024c-456e-9d0a-405317ddab2e}.
+[2023.04.17-14.33.50:766][349]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-14.33.50:830][349]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-14.33.50:830][349]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-14.35.08:423][411]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.35.08:468][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.04.17-14.35.09:042][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.35.09:054][440]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_WidgetA889C24D485EAC6F4A1B93997555240B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.35.09:080][440]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.35.09:080][440]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.35.09:256][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.35.09:263][448]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget4ADA7C574D0F5342556822BE694F6A5A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.35.09:279][448]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.35.09:279][448]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.37.56:954][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.37.56:962][457]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_WidgetD195F8B44CA95A4EDDD4B3A29901BA45.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.37.56:981][457]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.37.56:981][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.38.22:904][198]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.38.23:025][198]LogUObjectHash: Compacting FUObjectHashTables data took  12.90ms
+[2023.04.17-14.38.23:617][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.38.23:634][208]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_WidgetAB2A878E4CDBD66270F5FF842FF177D9.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.38.23:675][208]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.38.23:675][208]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.38.34:401][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.38.34:416][480]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget463B15B841F695480E4D9B9DCA5E9C06.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.38.34:467][480]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.38.34:467][480]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.38.34:767][487]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.38.34:877][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.04.17-14.38.45:583][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.38.45:604][752]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget197606CB4FA8FA6B298203AA1D2FA1DE.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.38.45:640][752]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.38.45:640][752]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.38.55:751][  7]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.38.55:851][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.04.17-14.38.56:249][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.38.56:270][ 12]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_WidgetBD97AE754291083FC11CC89145C52DCD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.38.56:301][ 12]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.38.56:301][ 12]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.39.01:286][131]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.39.01:389][131]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2023.04.17-14.39.01:909][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.39.01:929][139]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_WidgetFEAEEA8D42595A768378D991CD54EE6A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.39.01:965][139]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.39.01:965][139]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.39.32:874][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.39.32:897][936]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget62AFBBE3450B33A48D0ABBA28F1983F5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.39.32:931][936]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.39.32:931][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.40.35:733][611]BlueprintLog: New page: Compile Player_Character
+[2023.04.17-14.40.35:762][611]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] Could not find a pin for the parameter NumOfCollectables of ItemCollected__DelegateSignature on  Call Item Collected
+[2023.04.17-14.40.35:762][611]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function ItemCollected__DelegateSignature
+[2023.04.17-14.40.35:895][611]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2023.04.17-14.40.36:575][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.17-14.40.36:644][620]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character22E672DD4FC2DE21F966C6BE7109698E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.17-14.40.36:688][620]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.17-14.40.36:688][620]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.41.12:126][555]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2023.04.17-14.41.12:161][555]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_Auto6C6885A5C42F46DA750448881BE7A958E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2023.04.17-14.41.12:168][555]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.104
+[2023.04.17-14.41.12:168][555]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
+[2023.04.17-14.42.30:866][399]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.42.30:873][399]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Collectables\CollectablesUI_Widget.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to Item Collected
+[2023.04.17-14.42.30:909][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.04.17-14.42.31:787][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.42.31:796][445]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget18CC19C843DE8F8C5D37A4944203776E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.42.31:813][445]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.42.31:813][445]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.43.42:926][943]BlueprintLog: New page: Compile CollectablesUI_Widget
+[2023.04.17-14.43.42:983][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.04.17-14.43.43:510][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.43.43:523][969]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget2E6B452F4C965B5EDC9A978B721BEC2B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.43.43:543][969]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.43.43:543][969]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.43.45:205][ 51]BlueprintLog: New page: Compile Player_Character
+[2023.04.17-14.43.45:224][ 51]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] Could not find a pin for the parameter NumOfCollectables of ItemCollected__DelegateSignature on  Call Item Collected
+[2023.04.17-14.43.45:224][ 51]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function ItemCollected__DelegateSignature
+[2023.04.17-14.43.45:277][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.04.17-14.43.45:931][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.17-14.43.45:966][ 77]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character1D6C81B547AEFBC7F2BEF39167DE3C55.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.17-14.43.45:983][ 77]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.17-14.43.45:983][ 77]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.44.49:671][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.17-14.44.49:748][248]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character0320535342AC3D85CDC6A3B75A703389.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.17-14.44.49:821][248]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.17-14.44.49:821][248]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.45.21:393][ 91]BlueprintLog: New page: Compile Player_Character
+[2023.04.17-14.45.21:538][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2023.04.17-14.45.22:245][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.17-14.45.22:296][103]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterC99F6D0B406F8E5DAD677DACAFD604F1.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.17-14.45.22:332][103]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.17-14.45.22:333][103]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.45.23:930][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.17-14.45.23:977][142]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterC2E612F647F5697AAD98D5AD4063627C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.17-14.45.24:012][142]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.17-14.45.24:012][142]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.17-14.45.35:930][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Collectables/CollectablesUI_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset" SILENT=true
+[2023.04.17-14.45.35:950][429]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablesUI_Widget0783244948F84A03734396A80229800B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Collectables/CollectablesUI_Widget.uasset'
+[2023.04.17-14.45.35:986][429]AssetCheck: New page: Asset Save: CollectablesUI_Widget
+[2023.04.17-14.45.35:986][429]LogContentValidation: Display: Validating WidgetBlueprint /Game/Collectables/CollectablesUI_Widget.CollectablesUI_Widget
+[2023.04.17-14.45.40:188][590]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DF829A5591A3D01B5E1C83809DCD2960AFBD7718), compiling. 
+[2023.04.17-14.45.40:266][591]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.40:271][591]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.04.17-14.45.40:271][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.04.17-14.45.40:271][591]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.40:326][591]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.40:370][591]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 68A97A117AAF2726EE6450F07962FCE3F040EF41), compiling. 
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.40:394][592]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.40:416][592]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.40:472][592]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B2FD7A21A674AE7AAB52B7746094CAEE1B4BDCD4), compiling. 
+[2023.04.17-14.45.40:506][593]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.40:535][593]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.40:570][593]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 44E9E6B28A942400B72982AF922DE2AEE65B9ABD), compiling. 
+[2023.04.17-14.45.40:587][594]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.40:607][595]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.42:505][654]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.04.17-14.45.42:506][654]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.42:506][654]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.17-14.45.42:506][654]LogShaderCompilers: Display: Total job queries 172, among them cache hits 0 (0.00%)
+[2023.04.17-14.45.42:506][654]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.04.17-14.45.42:506][654]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2023.04.17-14.45.42:506][654]LogShaderCompilers: Display: ================================================
+[2023.04.17-14.45.43:102][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.04.17-14.45.43:102][669]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.44:243][702]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.04.17-14.45.44:243][702]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.04.17-14.45.44:243][702]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.44:408][704]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.17-14.45.45:325][704]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.04.17-14.45.45:325][704]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.45:325][704]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.04.17-14.45.45:325][704]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.17-14.45.45:396][704]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 128
+[2023.04.17-14.45.45:397][704]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.45:490][705]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 118
+[2023.04.17-14.45.45:490][705]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.46:735][730]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 108
+[2023.04.17-14.45.46:735][730]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.47:135][738]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 98
+[2023.04.17-14.45.47:135][738]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.47:135][738]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 88
+[2023.04.17-14.45.47:135][738]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.47:831][744]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 78
+[2023.04.17-14.45.47:831][744]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.49:096][755]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2023.04.17-14.45.49:096][755]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.50:564][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 59
+[2023.04.17-14.45.50:570][765]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.54:853][818]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2023.04.17-14.45.54:853][818]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.55:256][824]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2023.04.17-14.45.55:256][824]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.56:181][839]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2023.04.17-14.45.56:181][839]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.57:180][854]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2023.04.17-14.45.57:181][854]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.57:442][858]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2023.04.17-14.45.57:442][858]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.58:228][868]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2023.04.17-14.45.58:229][868]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.45.59:018][879]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2023.04.17-14.45.59:018][879]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.00:377][902]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2023.04.17-14.46.00:378][902]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.00:515][903]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2023.04.17-14.46.00:515][903]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.00:515][903]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2023.04.17-14.46.00:515][903]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.01:058][912]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2023.04.17-14.46.01:058][912]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.01:697][923]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.04.17-14.46.01:698][923]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.02:101][930]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2023.04.17-14.46.02:101][930]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.02:311][934]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2023.04.17-14.46.02:311][934]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.04.17-14.46.02:311][934]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.02:385][935]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.04.17-14.46.02:385][935]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.02:503][937]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2023.04.17-14.46.02:503][937]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.02:810][942]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.04.17-14.46.02:810][942]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.17-14.46.05:255][ 45]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.17-14.46.05:321][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.04.17-14.46.13:508][461]LogSlate: Window 'My Blueprint' being destroyed
+[2023.04.17-14.46.13:526][461]LogSlate: Window 'My Blueprint' being destroyed
+[2023.04.17-14.46.23:326][953]LogSlate: Window 'Content Browser' being destroyed
+[2023.04.17-14.46.23:351][953]LogSlate: Window 'Content Browser' being destroyed
+[2023.04.17-14.46.25:324][ 57]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-14.46.25:325][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-14.46.31:202][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.17-14.46.33:814][518]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-14.46.33:814][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-14.46.33:868][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.17-14.46.48:608][926]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.17-14.46.48:658][926]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.17-14.47.26:764][484]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.17-14.47.26:767][484]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\ThirdPersonBP\Blueprints\ThirdPersonGameMode.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2023.04.17-14.47.26:837][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.04.17-14.47.27:285][503]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeF0A919784C70897364A6019519962736.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.17-14.47.27:311][503]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.17-14.47.27:311][503]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.17-14.47.31:727][668]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.17-14.47.31:871][668]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2023.04.17-14.47.32:420][677]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode92BD8D0B41D75B5A7768748FF0F0E60F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.17-14.47.32:456][677]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.17-14.47.32:456][677]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.17-14.47.51:951][277]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-14.47.51:966][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-14.47.51:967][277]PIE: New page: PIE session: ThirdPersonExampleMap (17 Apr 2023, 16:47:51)
+[2023.04.17-14.47.51:969][277]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.17-14.47.52:004][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034017s)
+[2023.04.17-14.47.52:009][277]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.17-14.47.52:013][277]LogPlayLevel: PIE: World Init took: (0.008709s)
+[2023.04.17-14.47.52:013][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.043121s)
+[2023.04.17-14.47.52:050][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.04.17-14.47.52:054][277]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.17-14.47.52:055][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-14.47.52:055][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-14.47.52:055][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-14.47.52:055][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-14.47.52:055][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-14.47.52:055][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-14.47.52:055][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-14.47.52:055][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-14.47.52:057][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-14.47.52:057][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-14.47.52:057][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-14.47.52:057][277]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-14.47.52:061][277]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-14.47.52:061][277]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-14.47.52:071][277]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.17-14.47.52:073][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-14.47.52:073][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-14.47.52:073][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-14.47.52:074][277]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-14.47.52:074][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-14.47.52:074][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-14.47.52:076][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-14.47.52:076][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-14.47.52:076][277]LogInit: FAudioDevice initialized.
+[2023.04.17-14.47.52:076][277]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2023.04.17-14.47.52:101][277]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.17-14.47.52:106][277]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.17-15.47.52
+[2023.04.17-14.47.52:116][277]LogWorld: Bringing up level for play took: 0.014261
+[2023.04.17-14.47.52:120][277]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2023.04.17-14.47.52:141][277]PIE: Server logged in
+[2023.04.17-14.47.52:142][277]PIE: Play in editor total start time 0.179 seconds.
+[2023.04.17-14.48.00:618][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-14.48.00:618][779]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.17-14.48.00:619][779]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-14.48.00:620][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-14.48.00:635][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-14.48.00:647][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-14.48.00:676][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-14.48.00:676][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-14.48.00:679][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-14.48.00:681][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-14.48.00:685][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.17-14.48.00:713][780]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.04.17-14.48.01:944][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.04.17-14.48.01:967][849]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap6C5D360E4C74340732F7C9AD023D0DF9.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.17-14.48.02:015][849]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataF6C9EE1044350BFAC8E555A9A2F93F49.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.17-14.48.02:033][849]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-14.48.02:033][849]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.17-14.48.02:033][849]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.17-15.02.59:047][441]LogUObjectHash: Compacting FUObjectHashTables data took  10.21ms
+[2023.04.17-15.02.59:192][441]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap0613719E46747DD731BAB2A3145B0E67.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.17-15.02.59:244][441]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataCA5F36D44956670003182B96EE243F06.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.17-15.02.59:269][441]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-15.02.59:270][441]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.17-15.02.59:270][441]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.17-15.09.42:826][422]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b04fa5cf-4d4f-4190-b447-b4792f560c6b}.
+[2023.04.17-15.09.42:826][422]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-15.09.43:140][422]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.09.43:140][422]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.16.35:079][826]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.17-15.16.35:317][826]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.17-15.16.37:163][937]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2023.04.17-15.16.37:166][937]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.17-15.17.22:671][771]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b9d58823-024c-456e-9d0a-405317ddab2e}.
+[2023.04.17-15.17.22:672][771]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-15.17.22:724][771]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.17.22:724][771]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.17.36:756][813]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.17-15.17.36:756][813]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.17-15.17.37:051][813]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.17.37:051][813]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.20.47:306][506]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Jack/Documents/Audacity/CollectablePickUp8Bit.wav)
+[2023.04.17-15.20.47:382][506]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Jack/Documents/Audacity/MainMenuAudio.wav)
+[2023.04.17-15.20.50:662][682]LogUObjectHash: Compacting FUObjectHashTables data took   9.97ms
+[2023.04.17-15.20.50:692][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.191
+[2023.04.17-15.20.50:695][682]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/CollectablePickUp8Bit] ([1] browsable assets)...
+[2023.04.17-15.20.50:701][682]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/CollectablePickUp8Bit.CollectablePickUp8Bit]
+[2023.04.17-15.20.50:701][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/CollectablePickUp8Bit]
+[2023.04.17-15.20.50:715][682]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablePickUp8Bit_Auto7E2BDCA364CA3E4B22724898A59950F31.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Audio/CollectablePickUp8Bit_Auto7.uasset'
+[2023.04.17-15.20.50:717][682]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/MainMenuAudio] ([1] browsable assets)...
+[2023.04.17-15.20.50:725][682]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/MainMenuAudio.MainMenuAudio]
+[2023.04.17-15.20.50:725][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MainMenuAudio]
+[2023.04.17-15.20.50:745][682]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenuAudio_Auto745187F194FC78D3340168FB8DD35EE02.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Audio/MainMenuAudio_Auto7.uasset'
+[2023.04.17-15.20.50:745][682]LogFileHelpers: Auto-saving content packages took 0.053
+[2023.04.17-15.20.56:694][ 34]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/MainMenuAudio.MainMenuAudio
+[2023.04.17-15.21.01:758][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MainMenuAudio" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Audio/MainMenuAudio.uasset" SILENT=true
+[2023.04.17-15.21.01:765][311]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenuAudio595EBB504211BAFB65E6E2BEC946CDCC.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Audio/MainMenuAudio.uasset'
+[2023.04.17-15.21.01:788][311]AssetCheck: New page: Asset Save: MainMenuAudio
+[2023.04.17-15.21.01:788][311]LogContentValidation: Display: Validating SoundWave /Game/Audio/MainMenuAudio.MainMenuAudio
+[2023.04.17-15.21.26:937][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.17-15.21.27:001][800]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap6393D98244F26BCEAF35608D0CF338D5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.17-15.21.27:038][800]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataA0E7C10044ACD882D89A22967C76C66E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.17-15.21.27:055][800]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-15.21.27:056][800]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.17-15.21.27:056][800]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.17-15.21.31:903][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.17-15.21.33:031][ 87]LogSlate: Window 'Save Content' being destroyed
+[2023.04.17-15.21.33:066][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/CollectablePickUp8Bit" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Audio/CollectablePickUp8Bit.uasset" SILENT=true
+[2023.04.17-15.21.33:072][ 87]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/CollectablePickUp8BitD2E5DA3F4D2A810F42D04487DA69444B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Audio/CollectablePickUp8Bit.uasset'
+[2023.04.17-15.21.33:163][ 87]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.17-15.21.33:164][ 87]Cmd: MAP LOAD FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.17-15.21.33:164][ 87]LightingResults: New page: Lighting Build
+[2023.04.17-15.21.33:167][ 87]LoadErrors: New page: Loading map: MainMenu_Level.umap
+[2023.04.17-15.21.33:204][ 87]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-15.21.33:208][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.21.33:212][ 87]MapCheck: New page: Map Check
+[2023.04.17-15.21.33:212][ 87]LightingResults: New page: Lighting Build
+[2023.04.17-15.21.33:252][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-15.21.33:303][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.04.17-15.21.33:313][ 87]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu_Level'.
+[2023.04.17-15.21.33:408][ 87]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2023.04.17-15.21.33:408][ 87]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.17-15.21.33:446][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.04.17-15.21.33:457][ 87]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.17-15.21.33:457][ 87]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2023.04.17-15.21.33:457][ 87]LogFileHelpers: Loading map 'MainMenu_Level' took 0.293
+[2023.04.17-15.21.33:483][ 87]AssetCheck: New page: Asset Save: CollectablePickUp8Bit
+[2023.04.17-15.21.33:483][ 87]LogContentValidation: Display: Validating SoundWave /Game/Audio/CollectablePickUp8Bit.CollectablePickUp8Bit
+[2023.04.17-15.21.38:595][377]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-15.21.38:613][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-15.21.38:613][377]PIE: New page: PIE session: MainMenu_Level (17 Apr 2023, 17:21:38)
+[2023.04.17-15.21.38:614][377]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.21.38:616][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001224s)
+[2023.04.17-15.21.38:617][377]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.17-15.21.38:618][377]LogPlayLevel: PIE: World Init took: (0.002070s)
+[2023.04.17-15.21.38:618][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu_Level.MainMenu_Level to /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.003830s)
+[2023.04.17-15.21.38:648][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.17-15.21.38:650][377]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.17-15.21.38:650][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-15.21.38:650][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-15.21.38:651][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-15.21.38:651][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-15.21.38:651][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-15.21.38:651][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-15.21.38:651][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-15.21.38:651][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-15.21.38:651][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-15.21.38:651][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-15.21.38:651][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-15.21.38:651][377]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-15.21.38:654][377]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.21.38:654][377]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.21.38:738][377]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.17-15.21.38:740][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-15.21.38:740][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-15.21.38:740][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-15.21.38:741][377]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-15.21.38:741][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-15.21.38:741][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-15.21.38:742][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-15.21.38:742][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-15.21.38:743][377]LogInit: FAudioDevice initialized.
+[2023.04.17-15.21.38:743][377]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu_Level'.
+[2023.04.17-15.21.38:766][377]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.04.17-15.21.38:769][377]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 60) at 2023.04.17-16.21.38
+[2023.04.17-15.21.38:770][377]LogWorld: Bringing up level for play took: 0.000957
+[2023.04.17-15.21.38:772][377]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.04.17-15.21.38:783][377]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.17-15.21.38:793][377]PIE: Server logged in
+[2023.04.17-15.21.38:794][377]PIE: Play in editor total start time 0.184 seconds.
+[2023.04.17-15.21.38:808][377]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave MainMenuAudio...
+[2023.04.17-15.21.38:810][377]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/MainMenuAudio.MainMenuAudio will be modified from 40 to 40.
+[2023.04.17-15.21.39:475][377]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 10904832 while cooking SoundWave /Game/Audio/MainMenuAudio.MainMenuAudio.
+[2023.04.17-15.21.42:611][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.21.42:611][562]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.21.42:612][562]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-15.21.42:612][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.21.42:624][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-15.21.42:648][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.21.42:673][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.21.42:673][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.21.42:674][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.21.42:683][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.17-15.21.42:701][563]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.04.17-15.22.02:999][757]LogEditorViewport: Clicking Background
+[2023.04.17-15.22.19:142][714]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-15.22.19:152][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-15.22.19:152][714]PIE: New page: PIE session: MainMenu_Level (17 Apr 2023, 17:22:19)
+[2023.04.17-15.22.19:152][714]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.22.19:153][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000916s)
+[2023.04.17-15.22.19:153][714]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.17-15.22.19:154][714]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2023.04.17-15.22.19:154][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu_Level.MainMenu_Level to /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.001816s)
+[2023.04.17-15.22.19:188][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.04.17-15.22.19:192][714]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-15.22.19:192][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-15.22.19:192][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-15.22.19:192][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-15.22.19:192][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-15.22.19:192][714]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-15.22.19:194][714]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.22.19:194][714]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.22.19:271][714]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.17-15.22.19:272][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-15.22.19:272][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-15.22.19:272][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-15.22.19:272][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-15.22.19:272][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-15.22.19:272][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-15.22.19:273][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-15.22.19:273][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-15.22.19:273][714]LogInit: FAudioDevice initialized.
+[2023.04.17-15.22.19:273][714]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu_Level'.
+[2023.04.17-15.22.19:282][714]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.04.17-15.22.19:283][714]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 60) at 2023.04.17-16.22.19
+[2023.04.17-15.22.19:283][714]LogWorld: Bringing up level for play took: 0.000287
+[2023.04.17-15.22.19:284][714]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.04.17-15.22.19:285][714]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.17-15.22.19:286][714]PIE: Server logged in
+[2023.04.17-15.22.19:286][714]PIE: Play in editor total start time 0.136 seconds.
+[2023.04.17-15.22.22:729][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.22.22:729][918]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.22.22:729][918]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-15.22.22:729][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.22.22:736][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-15.22.22:766][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.22.22:791][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.17-15.22.22:791][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.22.22:792][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.22.22:797][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.22.22:801][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.04.17-15.22.22:827][919]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.04.17-15.23.10:704][786]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-15.23.10:712][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-15.23.10:712][786]PIE: New page: PIE session: MainMenu_Level (17 Apr 2023, 17:23:10)
+[2023.04.17-15.23.10:712][786]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.23.10:713][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000958s)
+[2023.04.17-15.23.10:714][786]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.17-15.23.10:714][786]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2023.04.17-15.23.10:714][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu_Level.MainMenu_Level to /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.001899s)
+[2023.04.17-15.23.10:746][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.04.17-15.23.10:749][786]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-15.23.10:749][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-15.23.10:749][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-15.23.10:749][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-15.23.10:749][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-15.23.10:749][786]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-15.23.10:751][786]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.23.10:751][786]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.23.10:830][786]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.17-15.23.10:830][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-15.23.10:830][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-15.23.10:830][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-15.23.10:831][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-15.23.10:831][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-15.23.10:831][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-15.23.10:832][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-15.23.10:832][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-15.23.10:832][786]LogInit: FAudioDevice initialized.
+[2023.04.17-15.23.10:832][786]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu_Level'.
+[2023.04.17-15.23.10:838][786]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.04.17-15.23.10:839][786]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 60) at 2023.04.17-16.23.10
+[2023.04.17-15.23.10:839][786]LogWorld: Bringing up level for play took: 0.000298
+[2023.04.17-15.23.10:839][786]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.04.17-15.23.10:840][786]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.17-15.23.10:841][786]PIE: Server logged in
+[2023.04.17-15.23.10:842][786]PIE: Play in editor total start time 0.131 seconds.
+[2023.04.17-15.23.13:858][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.23.13:858][965]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.23.13:858][965]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-15.23.13:859][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.23.13:866][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-15.23.13:887][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.23.13:913][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.23.13:913][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.23.13:914][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.23.13:923][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.17-15.23.13:942][966]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.04.17-15.23.21:322][408]Cmd: TRANSACTION UNDO
+[2023.04.17-15.23.21:322][408]LogEditorTransaction: Undo Edit Falloff Distance
+[2023.04.17-15.23.21:719][428]Cmd: TRANSACTION UNDO
+[2023.04.17-15.23.21:719][428]LogEditorTransaction: Undo Edit X
+[2023.04.17-15.23.23:274][520]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-15.23.23:283][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-15.23.23:283][520]PIE: New page: PIE session: MainMenu_Level (17 Apr 2023, 17:23:23)
+[2023.04.17-15.23.23:283][520]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.23.23:284][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000900s)
+[2023.04.17-15.23.23:285][520]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.17-15.23.23:285][520]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2023.04.17-15.23.23:285][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu_Level.MainMenu_Level to /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.001817s)
+[2023.04.17-15.23.23:312][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.17-15.23.23:314][520]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.04.17-15.23.23:314][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-15.23.23:314][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-15.23.23:314][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-15.23.23:314][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-15.23.23:314][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-15.23.23:314][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-15.23.23:314][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-15.23.23:314][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-15.23.23:315][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-15.23.23:315][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-15.23.23:315][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-15.23.23:315][520]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-15.23.23:316][520]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.23.23:317][520]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.23.23:392][520]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.17-15.23.23:393][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-15.23.23:393][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-15.23.23:393][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-15.23.23:394][520]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-15.23.23:394][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-15.23.23:394][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-15.23.23:395][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-15.23.23:395][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-15.23.23:395][520]LogInit: FAudioDevice initialized.
+[2023.04.17-15.23.23:395][520]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenu_Level'.
+[2023.04.17-15.23.23:402][520]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.04.17-15.23.23:403][520]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 60) at 2023.04.17-16.23.23
+[2023.04.17-15.23.23:403][520]LogWorld: Bringing up level for play took: 0.000290
+[2023.04.17-15.23.23:403][520]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.04.17-15.23.23:404][520]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.17-15.23.23:405][520]PIE: Server logged in
+[2023.04.17-15.23.23:405][520]PIE: Play in editor total start time 0.125 seconds.
+[2023.04.17-15.23.25:888][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.23.25:888][667]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.23.25:889][667]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-15.23.25:889][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.23.25:895][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-15.23.25:916][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.23.25:941][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.23.25:941][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.23.25:942][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.23.25:950][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.17-15.23.25:971][668]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.04.17-15.23.33:191][101]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.17-15.23.33:200][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.17-15.23.33:200][101]PIE: New page: PIE session: MainMenu_Level (17 Apr 2023, 17:23:33)
+[2023.04.17-15.23.33:237][101]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.23.33:238][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000871s)
+[2023.04.17-15.23.33:238][101]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.17-15.23.33:239][101]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2023.04.17-15.23.33:239][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu_Level.MainMenu_Level to /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.001823s)
+[2023.04.17-15.23.33:265][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.17-15.23.33:266][101]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.04.17-15.23.33:266][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.17-15.23.33:266][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.17-15.23.33:266][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.17-15.23.33:266][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.17-15.23.33:266][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.17-15.23.33:266][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.17-15.23.33:266][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.17-15.23.33:266][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.17-15.23.33:267][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.17-15.23.33:267][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.17-15.23.33:267][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.17-15.23.33:267][101]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.17-15.23.33:268][101]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.17-15.23.33:269][101]LogAudioMixer: Display: 1: FrontRight
+[2023.04.17-15.23.33:345][101]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.17-15.23.33:345][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.17-15.23.33:345][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.17-15.23.33:345][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.17-15.23.33:345][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.17-15.23.33:346][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.17-15.23.33:346][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.17-15.23.33:347][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.17-15.23.33:347][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.17-15.23.33:347][101]LogInit: FAudioDevice initialized.
+[2023.04.17-15.23.33:347][101]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenu_Level'.
+[2023.04.17-15.23.33:353][101]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.04.17-15.23.33:354][101]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 60) at 2023.04.17-16.23.33
+[2023.04.17-15.23.33:354][101]LogWorld: Bringing up level for play took: 0.000287
+[2023.04.17-15.23.33:355][101]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2023.04.17-15.23.33:356][101]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.17-15.23.33:357][101]PIE: Server logged in
+[2023.04.17-15.23.33:358][101]PIE: Play in editor total start time 0.159 seconds.
+[2023.04.17-15.23.36:149][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.23.36:149][267]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.17-15.23.36:149][267]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.17-15.23.36:149][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.23.36:157][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.17-15.23.36:187][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.17-15.23.36:214][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.17-15.23.36:216][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.23.36:217][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.17-15.23.36:224][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.17-15.23.36:251][268]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.04.17-15.23.37:411][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.17-15.23.37:443][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.17-15.23.37:461][336]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_LevelBD2723E646155CCD841CCCA58353287A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.17-15.23.37:491][336]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.17-15.23.37:491][336]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.17-15.24.09:912][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.17-15.24.09:952][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.17-15.24.09:966][280]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_Level6F8C8039492AE6B5B89B23B8298094AE.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.17-15.24.09:994][280]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.17-15.24.09:994][280]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.17-15.24.14:238][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.17-15.24.14:273][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.17-15.24.14:284][532]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_LevelE7C08A554E841C76F398B59BFD6D7F8D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.17-15.24.14:315][532]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.17-15.24.14:315][532]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.17-15.25.25:993][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.17-15.25.26:035][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.17-15.25.26:047][832]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_LevelF7187B3B4204D454560FCB8BFB240074.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.17-15.25.26:079][832]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.17-15.25.26:079][832]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
