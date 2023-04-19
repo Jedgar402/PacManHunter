@@ -2086,3 +2086,147 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.19-12.34.29:076][  2]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.19-12.34.29:077][  2]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.19-12.34.29:077][  2]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.19-12.37.33:503][423]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.19-12.37.33:517][423]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.19-12.37.40:388][836]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Win_Widget
+[2023.04.19-12.37.40:396][836]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.19-12.37.42:260][946]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.38.03:245][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.38.03:253][157]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget4DB875CE4C9B2D25C1C0DA9EC6CFBB6A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.38.03:284][157]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.38.03:284][157]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.38.24:281][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.38.24:287][402]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget0174AAF746FB9DFF0141DAB217C00A03.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.38.24:313][402]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.38.24:313][402]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.38.27:410][566]LogSlate: Window 'Widget Reflector' being destroyed
+[2023.04.19-12.38.27:426][566]LogSlate: Window 'Widget Reflector' being destroyed
+[2023.04.19-12.39.26:697][793]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.39.26:777][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.04.19-12.39.27:367][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.39.27:375][825]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget58FA45FB46DEC34BB7CDD3BA1EEB47B5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.39.27:392][825]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.39.27:392][825]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.43.22:045][617]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.43.22:109][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.19-12.43.37:957][442]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.19-12.43.47:391][865]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.19-12.44.29:194][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.04.19-12.44.29:195][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
+[2023.04.19-12.44.29:196][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/494771__alderman2k__playerdie] ([1] browsable assets)...
+[2023.04.19-12.44.29:199][184]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/494771__alderman2k__playerdie.494771__alderman2k__playerdie]
+[2023.04.19-12.44.29:199][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/494771__alderman2k__playerdie]
+[2023.04.19-12.44.29:205][184]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/494771__alderman2k__playerdie_Au03C2B71E461A7B22AEE72286E2BEA099.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Audio/494771__alderman2k__playerdie_Auto1.uasset'
+[2023.04.19-12.44.29:207][184]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Win_Widget] ([2] browsable assets)...
+[2023.04.19-12.44.29:207][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Win_Widget]
+[2023.04.19-12.44.29:207][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/UI/Win_Widget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.04.19-12.44.29:213][184]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget_Auto14A23A70C4242BB56D84D79A0FD9DB557.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/UI/Win_Widget_Auto1.uasset'
+[2023.04.19-12.44.29:214][184]LogFileHelpers: Auto-saving content packages took 0.018
+[2023.04.19-12.44.44:224][ 22]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.44.44:270][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.19-12.44.44:758][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.44.44:766][ 41]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_WidgetB3F1039D4A38B3C2BEDC3CB4C82BD19E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.44.44:785][ 41]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.44.44:785][ 41]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.48.45:415][208]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.48.45:487][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.04.19-12.48.46:023][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.48.46:035][233]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget6F3C21C346EEA067E22D189D546F5F35.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.48.46:057][233]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.48.46:057][233]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.48.54:758][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.48.54:767][716]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_WidgetA6DE075841986F120D9A029FB5063F57.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.48.54:784][716]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.48.54:784][716]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.49.10:676][580]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.49.10:742][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.04.19-12.49.11:150][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.49.11:160][598]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget2D06733B4FD478C6881074B85439E40B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.49.11:176][598]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.49.11:176][598]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.49.36:079][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.49.36:109][121]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_WidgetDC01ABC14341A6F3AF4676883120AED2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.49.36:153][121]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.49.36:153][121]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.49.36:896][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.49.36:918][137]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget32DF829A4BD65812C304C6A56B0C1D90.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.49.36:958][137]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.49.36:958][137]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.50.39:908][429]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.50.39:980][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.04.19-12.50.40:423][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.50.40:434][449]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget4A6F0E524640DE23B93E6AB45E5DF814.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.50.40:452][449]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.50.40:452][449]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.50.50:591][997]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.50.50:655][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.19-12.50.51:123][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.50.51:133][ 17]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget961A1B234559807BE0A6D08812F2891D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.50.51:150][ 17]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.50.51:150][ 17]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.50.51:744][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.50.51:753][ 48]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget5C4829E74901961D2DD48E86917F5925.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.50.51:767][ 48]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.50.51:767][ 48]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.50.51:952][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.50.51:964][ 57]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget8DAAB937422C551FFBA0C4ACE4CE6BFD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.50.51:976][ 57]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.50.51:976][ 57]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.52.01:891][480]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.52.01:964][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.04.19-12.52.02:343][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.52.02:355][499]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_WidgetF0399F0848177C87052ABA89682937E6.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.52.02:374][499]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.52.02:374][499]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.52.46:455][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.52.46:468][742]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_WidgetD3AA8D7749810BC722C09F8C846D4D5F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.52.46:487][742]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.52.46:487][742]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.54.12:358][707]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.54.12:430][707]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.04.19-12.54.12:855][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.54.12:869][724]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget58F84E6F44EA259EB45121A527F41B4F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.54.12:895][724]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.54.12:895][724]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.54.56:062][197]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.54.56:140][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.04.19-12.54.56:588][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.54.56:601][217]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget8EC993CB4FC987A6A5C479A12E7CCDAC.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.54.56:620][217]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.54.56:620][217]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.54.56:749][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.54.56:759][223]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_WidgetB1C712A74EA96E3DC701BF96AB0A7DE0.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.54.56:774][223]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.54.56:774][223]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.55.12:288][916]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PauseMenu/PauseMenu_Widget.PauseMenu_Widget
+[2023.04.19-12.55.21:408][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu/PauseMenu_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/PauseMenu/PauseMenu_Widget.uasset" SILENT=true
+[2023.04.19-12.55.21:451][383]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PauseMenu_Widget6E54AB974C2538D221C1B4B988429C54.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/PauseMenu/PauseMenu_Widget.uasset'
+[2023.04.19-12.55.21:470][383]AssetCheck: New page: Asset Save: PauseMenu_Widget
+[2023.04.19-12.55.21:470][383]LogContentValidation: Display: Validating WidgetBlueprint /Game/PauseMenu/PauseMenu_Widget.PauseMenu_Widget
+[2023.04.19-12.55.23:246][471]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-12.55.23:247][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-12.55.23:263][471]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-12.55.23:263][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-12.56.10:473][595]LogUObjectHash: Compacting FUObjectHashTables data took   9.96ms
+[2023.04.19-12.56.10:487][595]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.191
+[2023.04.19-12.56.10:503][595]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Win_Widget] ([2] browsable assets)...
+[2023.04.19-12.56.10:504][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Win_Widget]
+[2023.04.19-12.56.10:504][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/UI/Win_Widget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.04.19-12.56.10:524][595]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget_Auto2967C79B64B175F26CA386180F1ABA840.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/UI/Win_Widget_Auto2.uasset'
+[2023.04.19-12.56.10:526][595]LogFileHelpers: Auto-saving content packages took 0.026
+[2023.04.19-12.58.09:091][972]BlueprintLog: New page: Compile Win_Widget
+[2023.04.19-12.58.09:159][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.19-12.58.09:828][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.58.09:839][993]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_Widget8320C0A54579F44D1D304E839F0AA149.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.58.09:865][993]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.58.09:865][993]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.58.09:978][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_Widget" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset" SILENT=true
+[2023.04.19-12.58.09:989][997]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Win_WidgetA8184EBF406C668F63038EA85E4E451E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/UI/Win_Widget.uasset'
+[2023.04.19-12.58.10:003][997]AssetCheck: New page: Asset Save: Win_Widget
+[2023.04.19-12.58.10:003][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Win_Widget.Win_Widget
+[2023.04.19-12.58.12:893][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.04.19-12.58.12:995][147]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMapD5D93F044B4B2740D00C3AA32E9FC301.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.19-12.58.13:051][147]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataD31C9BE144505687061BE1B7D0E43CD7.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.19-12.58.13:077][147]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.19-12.58.13:077][147]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.19-12.58.13:078][147]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
