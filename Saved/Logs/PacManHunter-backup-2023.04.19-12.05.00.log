@@ -1,0 +1,1634 @@
+﻿Log file open, 04/19/23 12:07:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PacManHunter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.336005
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+[2023.04.19-11.07.49:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.19-11.07.49:580][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.19-11.07.49:581][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+[2023.04.19-11.07.49:581][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+[2023.04.19-11.07.49:600][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.19-11.07.49:600][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.19-11.07.49:601][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.19-11.07.49:601][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.19-11.07.49:602][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.19-11.07.49:602][  0]LogHAL: Display: Platform has ~ 8 GB [8341741568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.19-11.07.49:602][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Scalability.ini]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.19-11.07.49:602][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.19-11.07.49:603][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.19-11.07.49:603][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.19-11.07.49:603][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.19-11.07.49:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Engine.ini]
+[2023.04.19-11.07.49:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Config/Windows/Editor.ini]
+[2023.04.19-11.07.49:603][  0]LogInit: Computer: LAPTOP-REET2DGH
+[2023.04.19-11.07.49:603][  0]LogInit: User: Jack
+[2023.04.19-11.07.49:603][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.04.19-11.07.49:603][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.19-11.07.49:603][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2023.04.19-11.07.49:603][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.19-11.07.49:603][  0]LogMemory: Process Physical Memory: 144.46 MB used, 144.46 MB peak
+[2023.04.19-11.07.49:603][  0]LogMemory: Process Virtual Memory: 120.25 MB used, 120.25 MB peak
+[2023.04.19-11.07.49:603][  0]LogMemory: Physical Memory: 7009.05 MB used,  946.25 MB free, 7955.30 MB total
+[2023.04.19-11.07.49:603][  0]LogMemory: Virtual Memory: 134206712.00 MB used,  11013.90 MB free, 134217728.00 MB total
+[2023.04.19-11.07.49:614][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.19-11.07.49:669][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.19-11.07.49:673][  0]LogInit: Using OS detected language (en-GB).
+[2023.04.19-11.07.49:673][  0]LogInit: Using OS detected locale (en-GB).
+[2023.04.19-11.07.49:679][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.04.19-11.07.49:954][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.19-11.07.49:980][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.19-11.07.50:008][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.19-11.07.50:008][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.19-11.07.50:195][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.19-11.07.50:236][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.19-11.07.50:236][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.19-11.07.50:236][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.19-11.07.50:236][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.19-11.07.50:387][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_0)
+[2023.04.19-11.07.50:387][  0]LogD3D11RHI:       3990/0/3977 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.04.19-11.07.50:493][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.04.19-11.07.50:493][  0]LogD3D11RHI:       128/0/3977 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:       0/0/3977 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     SubSysId    : 153a1025
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     SharedSystemMemory : 4170870784 bytes
+[2023.04.19-11.07.50:499][  0]LogD3D11RHI:     AdapterLuid : 0 65753
+[2023.04.19-11.07.50:520][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.19-11.07.50:520][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.19-11.07.50:520][  0]LogWindows: EnumDisplayDevices:
+[2023.04.19-11.07.50:520][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2023.04.19-11.07.50:521][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.04.19-11.07.50:521][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.04.19-11.07.50:521][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.04.19-11.07.50:521][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (P:0 D:1)
+[2023.04.19-11.07.50:522][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:   Driver Version: 462.62 (internal:27.21.14.6262, unified:462.62)
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:      Driver Date: 5-11-2021
+[2023.04.19-11.07.50:522][  0]LogRHI: Texture pool is 2793 MB (70% of 3990 MB)
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     SubSysId    : 153a1025
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     SharedSystemMemory : 4170870784 bytes
+[2023.04.19-11.07.50:522][  0]LogD3D11RHI:     AdapterLuid : 0 65753
+[2023.04.19-11.07.50:647][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.19-11.07.50:648][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.19-11.07.50:648][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.19-11.07.50:680][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.04.19-11.07.50:718][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.04.19-11.07.51:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.19-11.07.51:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.19-11.07.51:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.19-11.07.51:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.19-11.07.51:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.19-11.07.51:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.19-11.07.51:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.19-11.07.51:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.19-11.07.51:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.19-11.07.51:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.19-11.07.51:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.19-11.07.51:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.19-11.07.51:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.19-11.07.51:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.19-11.07.51:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.19-11.07.51:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.19-11.07.51:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.19-11.07.51:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.19-11.07.51:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.19-11.07.51:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.19-11.07.51:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.19-11.07.51:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.19-11.07.51:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.19-11.07.51:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.19-11.07.51:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.19-11.07.51:697][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.19-11.07.51:713][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.19-11.07.51:768][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.04.19-11.07.51:829][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.19-11.07.51:829][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Intermediate/Shaders/WorkingDirectory/5600/).
+[2023.04.19-11.07.51:829][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jack/AppData/Local/Temp/UnrealShaderWorkingDir/298587C54D66F5E64AD1D09901A569AA/'.
+[2023.04.19-11.07.51:829][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.19-11.07.51:829][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.19-11.07.51:829][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.19-11.07.52:657][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.19-11.07.52:825][  0]LogDerivedDataCache: Loaded boot cache 0.17s 106MB C:/Users/Jack/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.19-11.07.52:825][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jack/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.04.19-11.07.52:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jack/Documents/GitHub/PacManHunter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.19-11.07.52:827][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.19-11.07.52:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jack/Documents/GitHub/PacManHunter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.19-11.07.52:827][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.19-11.07.52:849][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.19-11.07.52:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.19-11.07.52:849][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.19-11.07.52:878][  0]LogDerivedDataCache: Speed tests for C:/Users/Jack/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2023.04.19-11.07.52:878][  0]LogDerivedDataCache: Display: Performance to C:/Users/Jack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=972.48MBs, RandomWriteSpeed=33.77MBs. Assigned SpeedClass 'Local'
+[2023.04.19-11.07.52:879][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.19-11.07.52:879][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.19-11.07.52:879][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.19-11.07.52:940][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.19-11.07.52:941][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.19-11.07.52:985][  0]LogAssetRegistry: FAssetRegistry took 0.0095 seconds to start up
+[2023.04.19-11.07.53:391][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.19-11.07.53:391][  0]LogInit: Active device profile: [000001E093417F00][000001E0954E41C0 49] Windows
+[2023.04.19-11.07.53:391][  0]LogInit: Profiles: [000001E093417F00][000001E0954E41C0 49] Windows, [000001E093427F00][000001E09550C340 49] WindowsNoEditor, [000001E093414200][000001E0955104C0 49] WindowsServer, [000001E093426600][000001E095514640 49] WindowsClient, [000001E093415900][000001E0955187C0 49] IOS, [000001E093425E00][000001E09551C940 49] iPadAir, [000001E093416000][000001E0954E8A80 49] iPadAir2, [000001E0933C4300][000001E09552ACC0 49] IPadPro, [000001E0933C4400][000001E095520D00 49] iPadAir3, [000001E093417800][000001E094CACE80 49] iPadAir4, [000001E0933C7A00][000001E094CB1000 49] iPadMini2, [000001E093414800][000001E094CBB180 49] iPadMini3, [000001E0933C5300][000001E094CBF300 49] iPadMini4, [000001E093417100][000001E095535480 49] iPadMini5, [000001E0933C3B00][000001E088F1F740 49] iPhone6, [000001E0933C3C00][000001E09554D780 49] iPodTouch6, [000001E0933C7300][000001E088F27A40 49] iPhone7, [000001E0933C7200][000001E088F23A80 49] iPodTouch7, [000001E0933C0700][000001E088F2BC00 49] iPhone5S, [000001E0933C7700][000001E088F2E200 49] iPhone6Plus, [000001E0933C3000][000001E095B62380 49] iPhone6S, [000001E0933C7E00][000001E095B66500 49] iPhone6SPlus, [000001E0933C1100][000001E095B6A680 49] iPhone7Plus, [000001E0933C4C00][000001E095B6E800 49] iPhoneSE, [000001E0933C2700][000001E095B72980 49] iPhone8, [000001E0933C7B00][000001E095BA6B00 49] iPhone8Plus, [000001E0933C3400][000001E094CA8C40 49] iPhoneX, [000001E0933C4A00][000001E088F32D80 49] iPhoneXS, [000001E0933C0D00][000001E088F36EC0 49] iPhoneXSMax, [000001E0933C6500][000001E088F3F040 49] iPhoneXR, [000001E0933C3A00][000001E088F431C0 49] iPhone11, [000001E0933C4F00][000001E088F47340 49] iPhone11Pro, [000001E0933C0400][000001E088F4B4C0 49] iPhone11ProMax, [000001E0933C5B00][000001E088F4F640 49] iPhoneSE2, [000001E0933C0E00][000001E095B217C0 49] iPhone12Mini, [000001E0933C4E00][000001E094D41940 49] iPhone12, [000001E0933C1A00][000001E094D45AC0 49] iPhone12Pro, [000001E0933C6600][000001E094D480C0 49] iPhone12ProMax, [000001E0933C1900][000001E094D4C240 49] iPadPro105, [000001E0933C5A00][000001E094D503C0 49] iPadPro129, [000001E0933C2D00][000001E095304540 49] iPadPro97, [000001E0933C5900][000001E0953086C0 49] iPadPro2_129, [000001E0933C1300][000001E0953AC840 49] iPad5, [000001E0933C6B00][000001E0953B09C0 49] iPad6, [000001E0933C1B00][000001E0953B4B40 49] iPad7, [000001E0933C4600][000001E0953B8CC0 49] iPad8, [000001E0933C3F00][000001E088F3AE00 49] iPadPro11, [000001E0933C6100][000001E0953BCF40 49] iPadPro2_11, [000001E0933C3100][000001E0953C1080 49] iPadPro3_129, [000001E0933C5500][000001E0953C51C0 49] iPadPro4_129, [000001E0933C0B00][000001E0953CD340 49] AppleTV, [000001E0933C6200][000001E0951394C0 49] AppleTV4K, [000001E0933C0500][000001E089A13640 49] TVOS, [000001E0933C6C00][000001E089A0B7C0 49] Mac, [000001E0933C3300][000001E0899FD940 49] MacClient, [000001E0933C5E00][000001E092827AC0 49] MacNoEditor, [000001E0933C3600][000001E088F5A0C0 49] MacServer, [000001E0933C4500][000001E094D2A240 49] Linux, [000001E0933C2500][000001E0951343C0 49] LinuxAArch64, [000001E0933C6F00][000001E095490540 49] LinuxNoEditor, [000001E0933C1F00][000001E094CC26C0 49] LinuxAArch64NoEditor, [000001E0933C6900][000001E094CC6840 49] LinuxClient, [000001E0933C3900][000001E094CCA9C0 49] LinuxAArch64Client, [000001E0933C5F00][000001E094CCEB40 49] LinuxServer, [000001E0933C2300][000001E094CD2CC0 49] LinuxAArch64Server, [000001E0933C7F00][000001E094CD6E40 49] Android, [000001E093427800][000001E0953C8F80 49] Android_Low, [000001E0934A5C00][000001E094CDB0C0 49] Android_Mid, [000001E093427C00][000001E094CDF200 49] Android_High, [000001E0934A4200][000001E094CE3340 49] Android_Default, [000001E093424600][000001E0954554C0 49] Android_Adreno4xx, [000001E0934A4C00][000001E095459640 49] Android_Adreno5xx_Low, [000001E093424800][000001E09545D7C0 49] Android_Adreno5xx, [000001E0934A6700][000001E095461940 49] Android_Adreno6xx, [000001E093426B00][000001E095465AC0 49] Android_Adreno6xx_Vulkan, [000001E0934A5000][000001E0954680C0 49] Android_Mali_T6xx, [000001E093427D00][000001E09546C240 49] Android_Mali_T7xx, [000001E0934A5300][000001E0954703C0 49] Android_Mali_T8xx, [000001E093427000][000001E095474540 49] Android_Mali_G71, [000001E0934A6800][000001E0954786C0 49] Android_Mali_G72, [000001E093427B00][000001E09547C840 49] Android_Mali_G72_Vulkan, [000001E0934A6A00][000001E0954809C0 49] Android_Mali_G76, [000001E093426800][000001E095484B40 49] Android_Mali_G76_Vulkan, [000001E0934A6E00][000001E095488CC0 49] Android_Mali_G77, [000001E093426300][000001E09548CE40 49] Android_Mali_G77_Vulkan, [000001E0934A5200][000001E0953D0FC0 49] Android_Mali_G78, [000001E093424400][000001E0953D5140 49] Android_Mali_G78_Vulkan, [000001E0934A6B00][000001E094CE7280 49] Android_Mali_G710, [000001E093425C00][000001E0953D93C0 49] Android_Mali_G710_Vulkan, [000001E0934A6D00][000001E0953DD500 49] Android_Vulkan_SM5, [000001E093425800][000001E0953E5680 49] Android_PowerVR_G6xxx, [000001E0934A6100][000001E0953E9800 49] Android_PowerVR_GT7xxx, [000001E093426900][000001E0953ED980 49] Android_PowerVR_GE8xxx, [000001E0934A4E00][000001E0953F1B00 49] Android_PowerVR_GM9xxx, [000001E0933C7800][000001E0953F4100 49] Android_PowerVR_GM9xxx_Vulkan, [000001E0934A7100][000001E0953F8280 49] Android_TegraK1, [000001E0933C5C00][000001E0953FC400 49] Android_Unknown_Vulkan, [000001E0934A6600][000001E095400580 49] Lumin, [000001E0933C5000][000001E095404700 49] Lumin_Desktop, [000001E0934A6300][000001E095408880 49] HoloLens, 
+[2023.04.19-11.07.53:559][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.19-11.07.53:559][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.19-11.07.53:559][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.19-11.07.53:559][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.19-11.07.53:559][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.19-11.07.53:585][  0]LogNetVersion: PacManHunter 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2554951525)
+[2023.04.19-11.07.54:086][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.19-11.07.54:198][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.19-11.07.54:214][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.04.19-11.07.54:214][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.04.19-11.07.54:214][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.19-11.07.54:645][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C6B8E1784F61CF8B9B3AECBD6DD3A13B | Instance: FBE2655B40CEE36752EC709388924CE7 (LAPTOP-REET2DGH-5600).
+[2023.04.19-11.07.54:815][  0]LogPython: Using Python 3.7.7
+[2023.04.19-11.07.55:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.19-11.07.55:420][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.19-11.07.55:661][  0]SourceControl: Source control is disabled
+[2023.04.19-11.07.55:661][  0]SourceControl: Source control is disabled
+[2023.04.19-11.07.55:670][  0]SourceControl: Source control is disabled
+[2023.04.19-11.07.55:697][  0]SourceControl: Source control is disabled
+[2023.04.19-11.07.55:701][  0]LogUProjectInfo: Found projects:
+[2023.04.19-11.07.55:727][  0]SourceControl: Source control is disabled
+[2023.04.19-11.07.56:051][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.19-11.07.56:099][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.19-11.07.56:128][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.19-11.07.56:128][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.19-11.07.56:344][  0]LogCollectionManager: Loaded 0 collections in 0.001574 seconds
+[2023.04.19-11.07.56:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jack/Documents/GitHub/PacManHunter/Saved/Collections/' took 0.00s
+[2023.04.19-11.07.56:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jack/Documents/GitHub/PacManHunter/Content/Developers/Jack/Collections/' took 0.00s
+[2023.04.19-11.07.56:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jack/Documents/GitHub/PacManHunter/Content/Collections/' took 0.00s
+[2023.04.19-11.07.56:383][  0]LogOcInput: OculusInput pre-init called
+[2023.04.19-11.07.56:672][  0]LogEngine: Initializing Engine...
+[2023.04.19-11.07.56:683][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.04.19-11.07.56:683][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.19-11.07.56:683][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.19-11.07.56:685][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.19-11.07.56:923][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.19-11.07.56:943][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.19-11.07.56:946][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.19-11.07.56:955][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.19-11.07.56:955][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.19-11.07.56:956][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.19-11.07.56:956][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.19-11.07.56:956][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.19-11.07.56:956][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.19-11.07.56:956][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.19-11.07.56:956][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.19-11.07.56:956][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.19-11.07.56:956][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.19-11.07.56:956][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.19-11.07.56:956][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.19-11.07.56:957][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.19-11.07.56:957][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.19-11.07.56:957][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.19-11.07.56:957][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.19-11.07.56:978][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.19-11.07.56:978][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.19-11.07.57:007][  0]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.19-11.07.57:008][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.19-11.07.57:012][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.19-11.07.57:012][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.19-11.07.57:014][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.19-11.07.57:014][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.19-11.07.57:014][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.19-11.07.57:015][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.19-11.07.57:015][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.19-11.07.57:015][  0]LogInit: FAudioDevice initialized.
+[2023.04.19-11.07.57:016][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.19-11.07.57:016][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.19-11.07.57:142][  0]LogDerivedDataCache: Saved boot cache 0.13s 106MB C:/Users/Jack/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.19-11.07.57:151][  0]LogInit: Texture streaming: Enabled
+[2023.04.19-11.07.57:179][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.04.19-11.07.57:188][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.19-11.07.57:188][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.19-11.07.57:193][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.19-11.07.57:290][  0]LogInit: Transaction tracking system initialized
+[2023.04.19-11.07.57:324][  0]BlueprintLog: New page: Editor Load
+[2023.04.19-11.07.57:420][  0]LocalizationService: Localization service is disabled
+[2023.04.19-11.07.57:461][  0]TimingProfiler: Initialize
+[2023.04.19-11.07.57:461][  0]TimingProfiler: OnSessionChanged
+[2023.04.19-11.07.57:461][  0]LoadingProfiler: Initialize
+[2023.04.19-11.07.57:461][  0]LoadingProfiler: OnSessionChanged
+[2023.04.19-11.07.57:461][  0]NetworkingProfiler: Initialize
+[2023.04.19-11.07.57:461][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.19-11.07.57:461][  0]MemoryProfiler: Initialize
+[2023.04.19-11.07.57:461][  0]MemoryProfiler: OnSessionChanged
+[2023.04.19-11.07.57:759][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.19-11.07.57:759][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.19-11.07.57:969][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jack/Documents/GitHub/PacManHunter/Content/' took 0.01s
+[2023.04.19-11.07.58:300][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.19-11.07.58:305][  0]SourceControl: Source control is disabled
+[2023.04.19-11.07.58:305][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.503
+[2023.04.19-11.07.58:305][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.19-11.07.58:306][  0]LightingResults: New page: Lighting Build
+[2023.04.19-11.07.58:308][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.07.58:308][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.07.58:308][  0]MapCheck: New page: Map Check
+[2023.04.19-11.07.58:308][  0]LightingResults: New page: Lighting Build
+[2023.04.19-11.07.58:316][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.19-11.07.58:322][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.19-11.07.58:385][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu_Level'.
+[2023.04.19-11.07.58:385][  0]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.19-11.07.58:393][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.19-11.07.58:405][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.19-11.07.58:407][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.19-11.07.58:407][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.449ms to complete.
+[2023.04.19-11.07.58:407][  0]LogFileHelpers: Loading map 'MainMenu_Level' took 0.103
+[2023.04.19-11.07.58:412][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.610
+[2023.04.19-11.07.58:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-11.07.58:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-11.07.58:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-11.07.58:643][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-11.07.58:685][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0126 seconds. Added 3822 classes and 928 folders.
+[2023.04.19-11.07.58:695][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.04.19-11.07.58:700][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.19-11.07.58:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.19-11.07.58:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.04.19-11.07.58:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000750
+[2023.04.19-11.07.58:703][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.19-11.07.58:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.19-11.07.58:703][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:703][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.04.19-11.07.58:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.04.19-11.07.58:705][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.19-11.07.58:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.19-11.07.58:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:705][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.04.19-11.07.58:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.04.19-11.07.58:707][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.19-11.07.58:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.19-11.07.58:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:707][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.19-11.07.58:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.04.19-11.07.58:710][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.19-11.07.58:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.19-11.07.58:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.04.19-11.07.58:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.04.19-11.07.58:713][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.19-11.07.58:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.19-11.07.58:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.04.19-11.07.58:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.04.19-11.07.58:715][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.19-11.07.58:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.19-11.07.58:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.04.19-11.07.58:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.04.19-11.07.58:718][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.19-11.07.58:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.19-11.07.58:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.04.19-11.07.58:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.04.19-11.07.58:719][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.19-11.07.58:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.19-11.07.58:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:719][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.04.19-11.07.58:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.04.19-11.07.58:722][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.19-11.07.58:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.19-11.07.58:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.04.19-11.07.58:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.04.19-11.07.58:723][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.19-11.07.58:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.19-11.07.58:723][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:723][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.04.19-11.07.58:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.04.19-11.07.58:725][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.19-11.07.58:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.19-11.07.58:725][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:725][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.04.19-11.07.58:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.04.19-11.07.58:727][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.19-11.07.58:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.19-11.07.58:727][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:727][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.04.19-11.07.58:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.19-11.07.58:728][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.19-11.07.58:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.19-11.07.58:728][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:728][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.04.19-11.07.58:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.04.19-11.07.58:730][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.19-11.07.58:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.19-11.07.58:730][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:730][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.04.19-11.07.58:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.04.19-11.07.58:734][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.19-11.07.58:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.19-11.07.58:734][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.04.19-11.07.58:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2023.04.19-11.07.58:739][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.19-11.07.58:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.19-11.07.58:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.04.19-11.07.58:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2023.04.19-11.07.58:742][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.19-11.07.58:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.19-11.07.58:742][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:742][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.04.19-11.07.58:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.04.19-11.07.58:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.19-11.07.58:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.19-11.07.58:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:744][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.04.19-11.07.58:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.04.19-11.07.58:745][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.19-11.07.58:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.19-11.07.58:745][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:745][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.04.19-11.07.58:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.04.19-11.07.58:747][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.19-11.07.58:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.19-11.07.58:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.04.19-11.07.58:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.04.19-11.07.58:747][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.19-11.07.58:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.19-11.07.58:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:747][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.04.19-11.07.58:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.19-11.07.58:749][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.19-11.07.58:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.19-11.07.58:749][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:750][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.04.19-11.07.58:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2023.04.19-11.07.58:751][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.19-11.07.58:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.19-11.07.58:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.04.19-11.07.58:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.04.19-11.07.58:752][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.19-11.07.58:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.19-11.07.58:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.04.19-11.07.58:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.04.19-11.07.58:753][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.19-11.07.58:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.19-11.07.58:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.19-11.07.58:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.19-11.07.58:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.04.19-11.07.58:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.04.19-11.07.58:943][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.04.19-11.07.58:949][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2023.04.19-11.07.59:186][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.19-11.07.59:190][  0]LogSlate: Took 0.001628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.19-11.07.59:200][  0]LogSlate: Took 0.001009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.19-11.07.59:336][  0]LogRenderer: Reallocating scene render targets to support 1172x400 Format 10 NumSamples 1 (Frame:1).
+[2023.04.19-11.07.59:636][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.04.19-11.07.59:636][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.04.19-11.07.59:636][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.04.19-11.07.59:636][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.04.19-11.07.59:636][  0]LogLoad: (Engine Initialization) Total time: 11.83 seconds
+[2023.04.19-11.07.59:636][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.19-11.07.59:721][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.19-11.07.59:765][  1]LogRenderer: Reallocating scene render targets to support 1172x412 Format 10 NumSamples 1 (Frame:3).
+[2023.04.19-11.07.59:799][  1]LogAssetRegistry: Asset discovery search completed in 6.8209 seconds
+[2023.04.19-11.07.59:812][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2023.04.19-11.07.59:933][  2]LogSlate: Took 0.001169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.19-11.08.09:482][118]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.19-11.08.09:526][118]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.08.09:562][118]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.08.09:579][118]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.10.11:881][118]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-11.10.12:975][118]LogMaterial: Display: Material /Game/BlenderModels/Imports/Yellow.Yellow needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.10.12:977][118]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 05B0CD13121310AD855F0BCB8F85C596805FB5E8), compiling. 
+[2023.04.19-11.10.13:042][118]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.10.13:048][118]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: EE80379A434DAE82198D4F1D562F48C835228568), compiling. 
+[2023.04.19-11.10.13:052][118]LogMaterial: Display: Material /Game/BlenderModels/Imports/Red.Red needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.10.13:054][118]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 65C0DEF01D4D95D31E0648C52D3F9BD2E59F6350), compiling. 
+[2023.04.19-11.10.13:081][118]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.10.13:089][118]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: CFB7210F58DF160F29EDB1C261AE2B0B98F5BAC4), compiling. 
+[2023.04.19-11.10.13:091][118]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.10.13:372][118]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.10.13:772][118]LogSkeletalMesh: Section 0: Material=0, 14270 triangles
+[2023.04.19-11.10.13:773][118]LogSkeletalMesh: Section 1: Material=1, 170 triangles
+[2023.04.19-11.10.13:781][118]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.10.14:083][118]LogSkeletalMesh: Section 0: Material=0, 14270 triangles
+[2023.04.19-11.10.14:083][118]LogSkeletalMesh: Section 1: Material=1, 170 triangles
+[2023.04.19-11.10.14:117][118]LogSkeletalMesh: Built Skeletal Mesh [0.34s] /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.10.14:140][118]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.04.19-11.10.14:141][118]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.10.14:141][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.10.14:155][118]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.10.14:155][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.10.14:173][118]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.19-11.10.14:173][118]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.04.19-11.10.14:309][118]LogSlate: Took 0.000950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.19-11.10.14:415][122]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.14:416][122]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.14:418][122]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.04.19-11.10.14:418][122]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.04.19-11.10.14:418][122]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.04.19-11.10.14:418][122]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.04.19-11.10.14:418][122]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.14:561][124]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.04.19-11.10.14:562][124]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.14:562][124]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.04.19-11.10.14:562][124]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.14:598][125]LogShaderCompilers: Display: Submitted 44 shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.14:606][125]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2023.04.19-11.10.14:607][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2023.04.19-11.10.14:607][125]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.14:695][126]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.14:713][126]LogShaderCompilers: Display: Submitted 44 shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.16:302][151]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.04.19-11.10.16:302][151]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.16:338][152]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.04.19-11.10.16:341][152]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.19-11.10.16:662][159]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2023.04.19-11.10.16:662][159]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.16:704][159]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.10.16:750][159]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.10.17:000][163]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 66
+[2023.04.19-11.10.17:000][163]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 57
+[2023.04.19-11.10.17:000][163]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.17:548][178]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2023.04.19-11.10.17:549][178]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.18:116][193]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2023.04.19-11.10.18:116][193]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.18:275][196]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2023.04.19-11.10.18:276][196]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.23:421][327]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2023.04.19-11.10.23:421][327]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.23:686][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2023.04.19-11.10.23:686][333]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.23:777][335]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2023.04.19-11.10.23:778][335]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.24:236][345]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2023.04.19-11.10.24:236][345]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.24:962][365]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2023.04.19-11.10.24:962][365]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.25:119][369]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2023.04.19-11.10.25:119][369]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.25:256][372]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2023.04.19-11.10.25:256][372]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.26:548][400]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2023.04.19-11.10.26:548][400]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.26:996][410]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2023.04.19-11.10.26:996][410]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.27:394][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.04.19-11.10.27:394][418]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.27:493][421]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.04.19-11.10.27:493][421]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.27:596][423]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.04.19-11.10.27:597][423]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.27:641][424]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2023.04.19-11.10.27:641][424]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.28:381][437]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.04.19-11.10.28:382][437]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.28:424][438]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.04.19-11.10.28:424][438]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.19-11.10.37:661][712]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+[2023.04.19-11.10.37:809][712]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2023.04.19-11.10.37:813][712]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.04.19-11.10.37:822][712]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.04.19-11.10.37:915][712]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.19-11.10.38:058][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.10.38:065][712]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2023.04.19-11.10.38:578][712]LogSlate: Took 0.002081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.19-11.10.38:642][712]LogRenderer: Reallocating scene render targets to support 1172x876 Format 10 NumSamples 1 (Frame:1).
+[2023.04.19-11.10.46:823][ 54]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.10.46:834][ 54]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.10.47:157][ 54]LogSlate: Took 0.001016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.19-11.18.08:610][815]LogSlate: Window 'Save Asset As' being destroyed
+[2023.04.19-11.18.08:678][815]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.19-11.18.08:772][815]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.04.19-11.18.13:520][815]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.04.19-11.18.15:179][898]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.18.15:187][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.18.15:315][898]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.04.19-11.18.16:620][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.19-11.18.16:624][919]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu_Level' took 0.033
+[2023.04.19-11.18.16:626][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlenderModels/Imports/PacMan] ([1] browsable assets)...
+[2023.04.19-11.18.16:634][919]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/BlenderModels/Imports/PacMan.PacMan]
+[2023.04.19-11.18.16:634][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Imports/PacMan]
+[2023.04.19-11.18.16:665][919]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_Auto1250E54FD4C94051290E1E6850F97AF38.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Imports/PacMan_Auto1.uasset'
+[2023.04.19-11.18.16:667][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlenderModels/Imports/PacMan_Skeleton] ([1] browsable assets)...
+[2023.04.19-11.18.16:667][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Imports/PacMan_Skeleton]
+[2023.04.19-11.18.16:670][919]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_Skeleton_Auto1BD4476F14A3C3BBDB939B1AAEA6F86D1.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Imports/PacMan_Skeleton_Auto1.uasset'
+[2023.04.19-11.18.16:671][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlenderModels/Imports/PacMan_PhysicsAsset] ([1] browsable assets)...
+[2023.04.19-11.18.16:677][919]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset]
+[2023.04.19-11.18.16:678][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Imports/PacMan_PhysicsAsset]
+[2023.04.19-11.18.16:685][919]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_PhysicsAsset_Auto13CAD7E2F4F5BD6E490B48DA34ADE3AD9.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Imports/PacMan_PhysicsAsset_Auto1.uasset'
+[2023.04.19-11.18.16:686][919]LogFileHelpers: Auto-saving content packages took 0.061
+[2023.04.19-11.18.26:866][287]LogSlate: Window 'Create New Animation Object' being destroyed
+[2023.04.19-11.18.41:705][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Imports/PacMan_Anim" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset" SILENT=true
+[2023.04.19-11.18.41:714][132]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_Anim6410087B416D3615D4336BAA1B5846B9.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset'
+[2023.04.19-11.18.41:731][132]AssetCheck: New page: Asset Save: PacMan_Anim
+[2023.04.19-11.18.41:731][132]LogContentValidation: Display: Validating AnimBlueprint /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.18.43:948][262]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.18.59:613][167]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.19-11.18.59:624][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.19-11.18.59:624][167]PIE: New page: PIE session: MainMenu_Level (19 Apr 2023, 13:18:59)
+[2023.04.19-11.18.59:626][167]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.19-11.18.59:627][167]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.19-11.18.59:629][167]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.19-11.18.59:630][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000906s)
+[2023.04.19-11.18.59:631][167]LogAIModule: Creating AISystem for world MainMenu_Level
+[2023.04.19-11.18.59:631][167]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2023.04.19-11.18.59:631][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu_Level.MainMenu_Level to /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level (0.002326s)
+[2023.04.19-11.18.59:649][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.04.19-11.18.59:651][167]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.19-11.18.59:651][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.19-11.18.59:651][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.19-11.18.59:651][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.19-11.18.59:651][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.19-11.18.59:651][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.19-11.18.59:651][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.19-11.18.59:651][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.19-11.18.59:651][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.19-11.18.59:652][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.19-11.18.59:652][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.19-11.18.59:652][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.19-11.18.59:652][167]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.19-11.18.59:655][167]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.19-11.18.59:655][167]LogAudioMixer: Display: 1: FrontRight
+[2023.04.19-11.18.59:667][167]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.19-11.18.59:667][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.19-11.18.59:667][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.19-11.18.59:667][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.19-11.18.59:667][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.19-11.18.59:667][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.19-11.18.59:667][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.19-11.18.59:669][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.19-11.18.59:669][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.19-11.18.59:669][167]LogInit: FAudioDevice initialized.
+[2023.04.19-11.18.59:669][167]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu_Level'.
+[2023.04.19-11.18.59:684][167]LogLoad: Game class is 'MainMenu_GameMode_C'
+[2023.04.19-11.18.59:685][167]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu_Level.MainMenu_Level up for play (max tick rate 60) at 2023.04.19-12.18.59
+[2023.04.19-11.18.59:685][167]LogWorld: Bringing up level for play took: 0.000589
+[2023.04.19-11.18.59:686][167]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.04.19-11.18.59:689][167]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.19-11.18.59:691][167]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2023.04.19-11.18.59:693][167]PIE: Server logged in
+[2023.04.19-11.18.59:694][167]PIE: Play in editor total start time 0.073 seconds.
+[2023.04.19-11.19.01:802][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-11.19.01:802][277]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu_Level
+[2023.04.19-11.19.01:803][277]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.19.01:803][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.19.01:810][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.19-11.19.01:813][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.19.01:833][277]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.19-11.19.01:837][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.19-11.19.01:839][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.19-11.19.01:840][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.19-11.19.01:861][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.04.19-11.19.01:878][278]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.19-11.20.49:554][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.04.19-11.20.50:789][667]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.19-11.20.50:932][667]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.20.50:932][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.20.50:999][667]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.20.50:999][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.20.51:027][667]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.20.51:027][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.20.51:037][667]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.20.51:037][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.20.51:076][667]LogSlate: Window 'PacMan_PhysicsAsset' being destroyed
+[2023.04.19-11.20.51:143][667]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.20.51:144][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.20.51:167][667]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/BlenderModels/Imports/PacMan.PacMan
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+	Asset Name: /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Skeleton.PacMan_Skeleton
+	Asset Name: /Game/BlenderModels/Imports/Red.Red
+	Asset Name: /Game/BlenderModels/Imports/Yellow.Yellow
+[2023.04.19-11.20.52:091][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.04.19-11.20.52:137][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.04.19-11.20.52:149][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.19-11.20.53:193][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.19-11.20.53:206][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.19-11.20.53:213][728]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_LevelD3F46242404E8E7A80514CB0FEA0112B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.19-11.20.53:236][728]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.19-11.20.53:236][728]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.19-11.23.35:711][410]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.23.35:721][410]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.23.35:731][410]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.24.19:858][410]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-11.24.19:905][410]LogMaterial: Display: Material /Game/BlenderModels/Imports/Yellow.Yellow needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.24.19:912][410]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: DD909170EDCC1AA2A6D98E6B06708226881C2C2E), compiling. 
+[2023.04.19-11.24.19:954][410]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.24.19:966][410]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 39DBEC63814EA928A5FC51FD156E98EF77D456E3), compiling. 
+[2023.04.19-11.24.19:973][410]LogMaterial: Display: Material /Game/BlenderModels/Imports/Red.Red needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.24.19:976][410]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 8BAAA7792EAD56FE0DD05631C1DE24EA4EFB24B4), compiling. 
+[2023.04.19-11.24.20:010][410]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.24.20:016][410]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 2082F482850B2673671062BC9DD6E1C3FE468E49), compiling. 
+[2023.04.19-11.24.20:018][410]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.24.20:319][410]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.24.20:808][410]LogSkeletalMesh: Section 0: Material=0, 15720 triangles
+[2023.04.19-11.24.20:808][410]LogSkeletalMesh: Section 1: Material=1, 136 triangles
+[2023.04.19-11.24.20:814][410]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.24.21:234][410]LogSkeletalMesh: Section 0: Material=0, 15720 triangles
+[2023.04.19-11.24.21:234][410]LogSkeletalMesh: Section 1: Material=1, 136 triangles
+[2023.04.19-11.24.21:287][410]LogSkeletalMesh: Built Skeletal Mesh [0.48s] /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.24.21:299][410]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.04.19-11.24.21:322][410]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.24.21:322][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.24.21:333][410]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.24.21:333][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.24.21:371][410]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.19-11.24.21:578][414]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.19-11.24.21:578][414]LogShaderCompilers: Display: Total job queries 314, among them cache hits 26 (8.28%)
+[2023.04.19-11.24.21:578][414]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 25 distinct outputs (26.04%)
+[2023.04.19-11.24.21:578][414]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2023.04.19-11.24.21:578][414]LogShaderCompilers: Display: ================================================
+[2023.04.19-11.24.23:114][500]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.24.23:120][500]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.24.29:352][871]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+[2023.04.19-11.24.29:360][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.24.38:924][409]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.24.38:927][409]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.25.19:677][ 39]LogSlate: Window 'Message' being destroyed
+[2023.04.19-11.25.19:681][ 39]Message dialog closed, result: YesAll, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/BlenderModels/Imports/PacMan
+[2023.04.19-11.25.19:682][ 39]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.25.19:687][ 39]LogEditorFactories: Performing atomic reimport of [C:/Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx]
+[2023.04.19-11.25.19:696][ 39]LogFbx: Loading FBX Scene from C:/Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.25.19:704][ 39]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.25.19:706][ 39]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.25.19:953][ 39]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.25.20:354][ 39]LogSkeletalMesh: Section 0: Material=0, 15720 triangles
+[2023.04.19-11.25.20:354][ 39]LogSkeletalMesh: Section 1: Material=1, 136 triangles
+[2023.04.19-11.25.20:363][ 39]LogEditorFactories: -- imported successfully
+[2023.04.19-11.25.20:366][ 39]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.25.20:748][ 39]LogSkeletalMesh: Section 0: Material=0, 15720 triangles
+[2023.04.19-11.25.20:748][ 39]LogSkeletalMesh: Section 1: Material=1, 136 triangles
+[2023.04.19-11.25.20:805][ 39]LogSkeletalMesh: Built Skeletal Mesh [0.44s] /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.25.20:809][ 39]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.19-11.25.27:259][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.19-11.25.28:675][393]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.19-11.25.28:763][393]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.25.28:763][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.25.28:771][393]LogSlate: Window 'PacMan' being destroyed
+[2023.04.19-11.25.28:815][393]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.25.28:815][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.25.28:819][393]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/BlenderModels/Imports/Yellow.Yellow
+	Asset Name: /Game/BlenderModels/Imports/Red.Red
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Skeleton.PacMan_Skeleton
+	Asset Name: /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+	Asset Name: /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.25.29:325][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.19-11.25.33:092][475]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.25.33:100][475]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.25.33:109][475]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.26.34:296][475]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-11.26.34:342][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.19-11.26.34:345][475]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.04.19-11.26.34:510][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.19-11.26.34:511][475]FBXImport: Import was canceled. 
+[2023.04.19-11.26.34:546][475]LogAssetTools: The import task was canceled.
+[2023.04.19-11.26.36:187][571]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.26.36:192][571]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.26.40:885][682]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.26.40:896][682]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.26.40:904][682]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.27.28:802][682]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-11.27.28:824][682]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.27.29:078][682]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.27.29:386][682]LogSkeletalMesh: Section 0: Material=0, 15718 triangles
+[2023.04.19-11.27.29:386][682]LogSkeletalMesh: Section 1: Material=1, 134 triangles
+[2023.04.19-11.27.29:391][682]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.27.29:666][682]LogSkeletalMesh: Section 0: Material=0, 15718 triangles
+[2023.04.19-11.27.29:666][682]LogSkeletalMesh: Section 1: Material=1, 134 triangles
+[2023.04.19-11.27.29:686][682]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.27.36:703][682]LogSlate: Window 'Message' being destroyed
+[2023.04.19-11.27.36:707][682]Message dialog closed, result: YesAll, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2023.04.19-11.27.38:526][682]LogSlate: Window 'Message' being destroyed
+[2023.04.19-11.27.38:531][682]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2023.04.19-11.27.39:690][682]LogSlate: Window 'Message' being destroyed
+[2023.04.19-11.27.39:696][682]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'scarL'.
+[2023.04.19-11.27.39:718][682]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.04.19-11.27.39:718][682]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.27.39:718][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.27.39:726][682]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.27.39:726][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.27.39:744][682]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.19-11.27.39:744][682]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.04.19-11.27.41:506][772]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.27.41:511][772]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.27.45:995][ 38]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+[2023.04.19-11.27.46:000][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.28.00:871][849]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.28.00:875][849]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.28.06:011][138]LogSlate: Window 'PacMan' being destroyed
+[2023.04.19-11.28.06:017][138]LogSlate: Window 'PacMan' being destroyed
+[2023.04.19-11.28.06:017][138]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.28.06:018][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.28.06:080][138]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.28.06:080][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.30.05:290][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu_Level" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.19-11.30.05:348][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.04.19-11.30.05:404][712]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/MainMenu_LevelDDF3809D4A21EA48FDACA493EE244AF9.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Levels/MainMenu_Level.umap'
+[2023.04.19-11.30.05:442][712]AssetCheck: New page: Asset Save: MainMenu_Level
+[2023.04.19-11.30.05:442][712]LogContentValidation: Display: Validating World /Game/Levels/MainMenu_Level.MainMenu_Level
+[2023.04.19-11.32.56:320][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.04.19-11.32.57:157][410]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.19-11.32.57:231][410]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+	Asset Name: /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.32.57:706][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.04.19-11.33.02:774][501]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.33.02:787][501]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.33.02:805][501]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.33.39:413][501]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-11.33.39:446][501]LogMaterial: Display: Material /Game/BlenderModels/Imports/Yellow.Yellow needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.33.39:453][501]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 7751E70924E2CA3D0EE538B78E3FF2B26D6DEA28), compiling. 
+[2023.04.19-11.33.39:492][501]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.33.39:506][501]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2023.04.19-11.33.39:507][501]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2023.04.19-11.33.39:508][501]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.04.19-11.33.39:508][501]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2023.04.19-11.33.39:508][501]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2023.04.19-11.33.39:508][501]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2023.04.19-11.33.39:508][501]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.04.19-11.33.39:508][501]LogShaderCompilers: Display: Started 48 'Local' shader compile jobs with 'Low' priority
+[2023.04.19-11.33.39:511][501]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: F8BA07D8CC95E95D4F9744F6CE751A6CB2AF1722), compiling. 
+[2023.04.19-11.33.39:515][501]LogMaterial: Display: Material /Game/BlenderModels/Imports/Red.Red needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.33.39:519][501]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: B013F74240483D1F17448F4A0D771608AD3A9D3F), compiling. 
+[2023.04.19-11.33.39:562][501]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.33.39:576][501]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 43083D115C0761ED047F17B81D51D41EEBABAA39), compiling. 
+[2023.04.19-11.33.39:703][501]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.33.40:546][501]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.33.40:786][501]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.33.41:626][501]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.33.41:626][501]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.33.41:638][501]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.33.41:762][501]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.33.42:663][501]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.33.42:664][501]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.33.42:918][501]LogSkeletalMesh: Built Skeletal Mesh [1.28s] /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.33.42:972][501]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.04.19-11.33.42:972][501]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.33.42:972][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.33.43:033][501]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.33.43:033][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.33.43:173][501]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.04.19-11.33.43:539][502]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.19-11.33.43:539][502]LogShaderCompilers: Display: Total job queries 510, among them cache hits 126 (24.71%)
+[2023.04.19-11.33.43:539][502]LogShaderCompilers: Display: Tracking 96 distinct input hashes that result in 25 distinct outputs (26.04%)
+[2023.04.19-11.33.43:539][502]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2023.04.19-11.33.43:539][502]LogShaderCompilers: Display: ================================================
+[2023.04.19-11.33.45:323][528]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.33.45:418][528]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.33.57:836][615]LogSlate: Window 'Message' being destroyed
+[2023.04.19-11.33.57:842][615]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/BlenderModels/Imports/PacMan
+[2023.04.19-11.33.57:844][615]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.33.57:847][615]LogEditorFactories: Performing atomic reimport of [C:/Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx]
+[2023.04.19-11.33.57:863][615]LogFbx: Loading FBX Scene from C:/Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.33.57:876][615]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.33.57:945][615]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.33.58:242][615]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.33.58:341][615]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.33.58:786][615]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.33.58:786][615]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.33.58:801][615]LogEditorFactories: -- imported successfully
+[2023.04.19-11.33.58:804][615]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.33.58:867][615]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.33.59:312][615]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.33.59:312][615]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.33.59:390][615]LogSkeletalMesh: Built Skeletal Mesh [0.59s] /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.33.59:392][615]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.04.19-11.34.12:573][205]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.19-11.34.12:618][205]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.19-11.34.16:060][392]LogContentBrowser: Attempting asset rename: NewFolder -> Animationws
+[2023.04.19-11.34.16:065][392]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.19-11.34.31:926][987]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.34.31:937][987]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.34.31:948][987]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.34.46:884][987]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-11.34.46:925][987]LogMaterial: Display: Material /Game/BlenderModels/Imports/Animations/Yellow.Yellow needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.34.46:928][987]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 81876BB33068D9D5C6372A6AFED5838DA58AAA96), compiling. 
+[2023.04.19-11.34.46:966][987]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: D2DB81CEE236A66E51910CC9167BB0244888FEAE), compiling. 
+[2023.04.19-11.34.46:970][987]LogMaterial: Display: Material /Game/BlenderModels/Imports/Animations/Red.Red needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.34.46:973][987]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 03B3CF35683A32C19701F2D9B1C911C2CB5E69AE), compiling. 
+[2023.04.19-11.34.47:007][987]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.34.47:018][987]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: D8421F25FDC19F70C6085A1BC10F3C0F5E65075B), compiling. 
+[2023.04.19-11.34.47:086][987]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.34.47:376][987]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.34.47:496][987]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/Animations/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.34.47:903][987]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.34.47:903][987]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.34.47:907][987]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.34.47:964][987]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/Animations/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.34.48:365][987]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.34.48:366][987]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.34.48:450][987]LogSkeletalMesh: Built Skeletal Mesh [0.55s] /Game/BlenderModels/Imports/Animations/PacMan.PacMan
+[2023.04.19-11.34.48:472][987]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.04.19-11.34.48:472][987]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.34.48:472][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.34.48:494][987]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.34.48:494][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.34.48:499][987]LogFbx: SortedLinks :(0) Sphere
+[2023.04.19-11.34.48:500][987]LogFbx: Parsing AnimStack Sphere|Chomp
+[2023.04.19-11.34.48:530][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BlenderModels/Imports/Animations/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.34.48:588][987]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.04.19-11.34.50:628][ 55]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.34.50:661][ 55]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.35.03:078][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.19-11.35.03:939][502]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.19-11.35.04:013][502]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/BlenderModels/Imports/PacMan.PacMan
+	Asset Name: /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Skeleton.PacMan_Skeleton
+	Asset Name: /Game/BlenderModels/Imports/Red.Red
+	Asset Name: /Game/BlenderModels/Imports/Yellow.Yellow
+[2023.04.19-11.35.04:620][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.19-11.35.12:905][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Imports/PacMan" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan.uasset" SILENT=true
+[2023.04.19-11.35.12:981][812]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacManDD1B9B3E4D65E59F1B72CFA030FA256B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan.uasset'
+[2023.04.19-11.35.12:993][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Imports/PacMan_Anim" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset" SILENT=true
+[2023.04.19-11.35.13:002][812]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_Anim7167457C44B5ADB1C3EAA6A0E048E6BD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset'
+[2023.04.19-11.35.13:021][812]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_PhysicsAsset214B92A54102AED65EC6CB917C1A709C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_PhysicsAsset.uasset'
+[2023.04.19-11.35.13:025][812]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_SkeletonFA333E424796A83F965C38BD28E55261.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Skeleton.uasset'
+[2023.04.19-11.35.13:038][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Imports/Red" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/Red.uasset" SILENT=true
+[2023.04.19-11.35.13:048][812]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Red8766F7A7479AE26A95FF4F993191BEE8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/Red.uasset'
+[2023.04.19-11.35.13:062][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Imports/Yellow" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/Yellow.uasset" SILENT=true
+[2023.04.19-11.35.13:068][812]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/YellowA739F08847AAF1BD731107AAB3358375.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/Yellow.uasset'
+[2023.04.19-11.35.13:231][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.04.19-11.35.13:259][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.19-11.35.13:285][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.04.19-11.35.13:317][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.19-11.35.13:342][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.04.19-11.35.13:362][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.04.19-11.35.13:399][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.19-11.35.13:423][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.19-11.35.13:473][812]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.19-11.35.13:473][812]LogContentValidation: Display: Validating AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.35.13:473][812]LogContentValidation: Display: Validating PhysicsAsset /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+[2023.04.19-11.35.13:473][812]LogContentValidation: Display: Validating Skeleton /Game/BlenderModels/Imports/PacMan_Skeleton.PacMan_Skeleton
+[2023.04.19-11.35.13:473][812]LogContentValidation: Display: Validating Material /Game/BlenderModels/Imports/Red.Red
+[2023.04.19-11.35.13:473][812]LogContentValidation: Display: Validating Material /Game/BlenderModels/Imports/Yellow.Yellow
+[2023.04.19-11.35.13:473][812]LogContentValidation: Display: Validating SkeletalMesh /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.35.49:356][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.19-11.35.50:706][803]LogSlate: Window 'Save Content' being destroyed
+[2023.04.19-11.35.50:739][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/scarL_Skeleton" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Weapon/scarL_Skeleton.uasset" SILENT=true
+[2023.04.19-11.35.50:742][803]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/scarL_Skeleton4F08B659412D2DB4F25908B54CB329DA.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Weapon/scarL_Skeleton.uasset'
+[2023.04.19-11.35.51:949][803]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.19-11.35.51:951][803]Cmd: MAP LOAD FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.19-11.35.51:951][803]LightingResults: New page: Lighting Build
+[2023.04.19-11.35.51:952][803]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.04.19-11.35.51:960][803]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.35.51:961][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.35.51:962][803]MapCheck: New page: Map Check
+[2023.04.19-11.35.51:962][803]LightingResults: New page: Lighting Build
+[2023.04.19-11.35.51:979][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.19-11.35.52:000][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.04.19-11.35.52:005][803]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.04.19-11.35.52:119][803]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.19-11.35.52:120][803]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.19-11.35.52:142][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.19-11.35.52:148][803]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.19-11.35.52:149][803]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2023.04.19-11.35.52:149][803]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.199
+[2023.04.19-11.35.52:170][803]AssetCheck: New page: Asset Save: scarL_Skeleton
+[2023.04.19-11.35.52:170][803]LogContentValidation: Display: Validating Skeleton /Game/Weapon/scarL_Skeleton.scarL_Skeleton
+[2023.04.19-11.38.09:090][992]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.04.19-11.38.09:585][ 21]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.04.19-11.38.28:747][160]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.38.28:832][160]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.38.29:647][160]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.19-11.38.38:208][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Imports/PacMan_Anim" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset" SILENT=true
+[2023.04.19-11.38.38:214][626]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_AnimE8EFF7A445EA7BA97C97AA96FA615607.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset'
+[2023.04.19-11.38.38:230][626]AssetCheck: New page: Asset Save: PacMan_Anim
+[2023.04.19-11.38.38:230][626]LogContentValidation: Display: Validating AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.38.41:667][829]LogEditorFactories: Performing atomic reimport of [C:/Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx]
+[2023.04.19-11.38.41:694][829]LogFbx: Loading FBX Scene from C:/Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.38.41:704][829]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.38.41:704][829]LogFbx: Parsing AnimStack Sphere|Chomp
+[2023.04.19-11.38.41:710][829]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.38.41:746][829]LogEditorFactories: -- imported successfully
+[2023.04.19-11.38.41:749][829]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.38.46:333][ 82]LogSlate: Window 'PacMan_Anim' being destroyed
+[2023.04.19-11.38.46:341][ 82]LogSlate: Window 'PacMan_Anim' being destroyed
+[2023.04.19-11.38.46:341][ 82]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.38.46:341][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.38.46:380][ 82]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.38.46:380][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.38.46:453][ 82]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.38.46:453][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.38.53:319][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.04.19-11.38.54:640][465]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.19-11.38.54:699][465]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/BlenderModels/Imports/PacMan.PacMan
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+	Asset Name: /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Skeleton.PacMan_Skeleton
+	Asset Name: /Game/BlenderModels/Imports/Red.Red
+	Asset Name: /Game/BlenderModels/Imports/Yellow.Yellow
+[2023.04.19-11.38.55:574][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.19-11.38.55:589][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.19-11.38.55:603][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.19-11.38.55:623][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.19-11.38.55:637][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.19-11.38.55:651][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.04.19-11.38.55:665][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.19-11.38.55:678][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.19-11.38.57:146][549]Cmd: DELETE
+[2023.04.19-11.38.57:146][549]Cmd: ACTOR DELETE
+[2023.04.19-11.38.57:158][549]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.04.19-11.38.57:172][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.19-11.38.57:175][549]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.04.19-11.39.02:746][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.19-11.39.02:772][882]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap796F98D045904426D3D19EAA76178957.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.19-11.39.02:794][882]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData53C2321F44FE8D392DC6B8831F40CA17.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.19-11.39.02:806][882]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.19-11.39.02:806][882]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.19-11.39.02:806][882]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.19-11.40.15:525][ 61]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-11.40.15:534][ 61]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-11.40.15:543][ 61]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-11.40.19:560][ 61]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-11.40.19:576][ 61]LogMaterial: Display: Material /Game/BlenderModels/Imports/Yellow.Yellow needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.40.19:578][ 61]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 9C6257724D521833CFA266E04E66808C185C537F), compiling. 
+[2023.04.19-11.40.19:609][ 61]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: F53BAF775F3B4A350CA482A18D038D7CDC439317), compiling. 
+[2023.04.19-11.40.19:611][ 61]LogMaterial: Display: Material /Game/BlenderModels/Imports/Red.Red needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-11.40.19:616][ 61]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: EC4690A952D008B95B96407DBD9FCED609932E24), compiling. 
+[2023.04.19-11.40.19:643][ 61]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2023.04.19-11.40.19:644][ 61]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2023.04.19-11.40.19:644][ 61]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2023.04.19-11.40.19:644][ 61]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2023.04.19-11.40.19:645][ 61]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2023.04.19-11.40.19:645][ 61]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2023.04.19-11.40.19:645][ 61]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2023.04.19-11.40.19:645][ 61]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.04.19-11.40.19:645][ 61]LogShaderCompilers: Display: Started 48 'Local' shader compile jobs with 'Low' priority
+[2023.04.19-11.40.19:646][ 61]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: F313B0BE8D57E03561D806BAF0F56C585ACB8AB5), compiling. 
+[2023.04.19-11.40.19:725][ 61]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-11.40.20:196][ 61]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.04.19-11.40.20:357][ 61]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.40.21:063][ 61]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.40.21:063][ 61]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.40.21:070][ 61]LogSkeletalMesh: Building Skeletal Mesh PacMan...
+[2023.04.19-11.40.21:176][ 61]LogSkeletalMesh: Display: /Game/BlenderModels/Imports/PacMan.PacMan ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.04.19-11.40.21:898][ 61]LogSkeletalMesh: Section 0: Material=0, 15878 triangles
+[2023.04.19-11.40.21:899][ 61]LogSkeletalMesh: Section 1: Material=1, 130 triangles
+[2023.04.19-11.40.22:058][ 61]LogSkeletalMesh: Built Skeletal Mesh [0.99s] /Game/BlenderModels/Imports/PacMan.PacMan
+[2023.04.19-11.40.22:120][ 61]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.19-11.40.22:120][ 61]LogShaderCompilers: Display: Total job queries 892, among them cache hits 412 (46.19%)
+[2023.04.19-11.40.22:120][ 61]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 44 distinct outputs (30.56%)
+[2023.04.19-11.40.22:120][ 61]LogShaderCompilers: Display: RAM used: 0.25 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.06%
+[2023.04.19-11.40.22:122][ 61]LogShaderCompilers: Display: ================================================
+[2023.04.19-11.40.22:125][ 61]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.04.19-11.40.22:125][ 61]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.40.22:126][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.40.22:164][ 61]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-11.40.22:165][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-11.40.22:183][ 61]LogFbx: SortedLinks :(0) Sphere
+[2023.04.19-11.40.22:184][ 61]LogFbx: Parsing AnimStack Sphere|Chomp
+[2023.04.19-11.40.22:216][ 61]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.40.22:310][ 61]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.04.19-11.40.23:927][ 93]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.40.23:945][ 93]LogSlate: Window 'Message Log' being destroyed
+[2023.04.19-11.40.27:067][247]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.40.27:072][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.19-11.40.27:387][247]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.19-11.40.57:947][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlenderModels/Imports/PacMan_Anim" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset" SILENT=true
+[2023.04.19-11.40.57:952][ 33]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_Anim34FFDCDF44C6840FE5350C8B7CDB73DF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/BlenderModels/Imports/PacMan_Anim.uasset'
+[2023.04.19-11.40.57:990][ 33]AssetCheck: New page: Asset Save: PacMan_Anim
+[2023.04.19-11.40.57:990][ 33]LogContentValidation: Display: Validating AnimSequence /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-11.49.02:924][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.04.19-11.49.02:940][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.043
+[2023.04.19-11.49.02:941][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlenderModels/Imports/PacMan] ([1] browsable assets)...
+[2023.04.19-11.49.02:957][698]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/BlenderModels/Imports/PacMan.PacMan]
+[2023.04.19-11.49.02:957][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Imports/PacMan]
+[2023.04.19-11.49.03:030][698]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_Auto29BFDD45D4F09AA4EB7A175BCC65989EF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Imports/PacMan_Auto2.uasset'
+[2023.04.19-11.49.03:032][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlenderModels/Imports/PacMan_Skeleton] ([1] browsable assets)...
+[2023.04.19-11.49.03:032][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Imports/PacMan_Skeleton]
+[2023.04.19-11.49.03:033][698]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_Skeleton_Auto21B5283CF4A413FF91CB7179C61B46ED4.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Imports/PacMan_Skeleton_Auto2.uasset'
+[2023.04.19-11.49.03:036][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlenderModels/Imports/PacMan_PhysicsAsset] ([1] browsable assets)...
+[2023.04.19-11.49.03:046][698]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset]
+[2023.04.19-11.49.03:047][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlenderModels/Imports/PacMan_PhysicsAsset]
+[2023.04.19-11.49.03:053][698]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/PacMan_PhysicsAsset_Auto29A559E2A44A2E268871786995347D85A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/BlenderModels/Imports/PacMan_PhysicsAsset_Auto2.uasset'
+[2023.04.19-11.49.03:053][698]LogFileHelpers: Auto-saving content packages took 0.114
+[2023.04.19-12.04.22:022][196]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2023.04.19-12.04.22:796][196]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.19-12.04.22:847][196]LogSlate: Window 'PacMan_Anim' being destroyed
+[2023.04.19-12.04.22:863][196]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-12.04.22:863][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-12.04.22:982][196]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-12.04.22:982][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-12.04.23:008][196]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.19-12.04.23:008][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.19-12.04.23:016][196]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/BlenderModels/Imports/Yellow.Yellow
+	Asset Name: /Game/BlenderModels/Imports/Red.Red
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Skeleton.PacMan_Skeleton
+	Asset Name: /Game/BlenderModels/Imports/PacMan_PhysicsAsset.PacMan_PhysicsAsset
+	Asset Name: /Game/BlenderModels/Imports/PacMan.PacMan
+	Asset Name: /Game/BlenderModels/Imports/PacMan_Anim.PacMan_Anim
+[2023.04.19-12.04.23:710][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.04.19-12.04.23:730][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.19-12.04.23:743][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.19-12.04.52:737][439]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx)
+[2023.04.19-12.04.52:746][439]LogFbx: Loading FBX Scene from ../../../../../../Users/Jack/OneDrive - De Montfort University/3D Modelling Group/Models/PacMan.fbx
+[2023.04.19-12.04.52:770][439]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.19-12.04.57:683][439]LogRHI: Error: Present Fail Count 1
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SyncInterval 0
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferDesc.Width 392
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferDesc.Height 71
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2023.04.19-12.04.57:683][439]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000580B92
+[2023.04.19-12.04.57:932][439]LogRHI: Error: SwapChainDesc.Windowed true
+[2023.04.19-12.04.57:932][439]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2023.04.19-12.04.57:932][439]LogRHI: Error: SwapChainDesc.Flags 2050
+[2023.04.19-12.04.58:006][439]LogRHI: Error: Present Fail Count 1
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SyncInterval 0
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferDesc.Width 530
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1014
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000250BB0
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.Windowed true
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SwapChainDesc.Flags 2050
+[2023.04.19-12.04.58:006][439]LogRHI: Error: Present Fail Count 1
+[2023.04.19-12.04.58:006][439]LogRHI: Error: SyncInterval 0
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferDesc.Width 512
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferDesc.Height 256
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000AC0A8A
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.Windowed true
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2023.04.19-12.04.58:007][439]LogRHI: Error: SwapChainDesc.Flags 2050
+[2023.04.19-12.04.58:022][439]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.19-12.04.58:092][439]LogRHI: Error: Present Fail Count 1
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SyncInterval 0
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferDesc.Width 810
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferDesc.Height 167
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.OutputWindow 00000000006B0AE4
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.Windowed true
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2023.04.19-12.04.58:093][439]LogRHI: Error: SwapChainDesc.Flags 2050
+[2023.04.19-12.04.58:099][439]LogMaterial: Display: Material /Game/BlenderModels/Imports/Yellow.Yellow needed to have new flag set bUsedWithSkeletalMesh !
+[2023.04.19-12.04.58:105][439]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: 19A391AEB18031E3334BB4473543158B9F4E5787), compiling. 
+[2023.04.19-12.04.58:173][439]LogMaterial: Display: Missing cached shadermap for Yellow in PCD3D_SM5, Default, SM5 (DDC key hash: DCEE7DACBA84DE677DE49C32DFC6992021780546), compiling. 
+[2023.04.19-12.04.58:188][439]LogFbx: Triangulating skeletal mesh Sphere
+[2023.04.19-12.04.58:484][439]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:298 
+ with error DXGI_ERROR_DEVICE_REMOVED, 
+ (Size=810x167 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=810x214 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2023.04.19-12.04.58:485][439]LogD3D11RHI: [Aftermath] GDynamicRHI=000001E0F4593440, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2023.04.19-12.04.58:485][439]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.04.19-12.04.58:486][439]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2023.04.19-12.05.00:939][439]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.04.19-12.05.00:939][439]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.04.19-12.05.00:940][439]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.04.19-12.05.00:945][439]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.04.19-12.05.00:945][439]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.04.19-12.05.00:945][439]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2023.04.19-12.05.00:949][439]Log file closed, 04/19/23 13:05:00
