@@ -2417,3 +2417,1300 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.20-18.04.33:307][160]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.20-18.04.33:307][160]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.20-18.04.33:307][160]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.20-18.04.56:572][529]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b9d58823-024c-456e-9d0a-405317ddab2e}.
+[2023.04.20-18.04.56:572][529]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.20-18.04.56:661][529]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-18.04.56:662][529]LogAudioMixer: Display: 1: FrontRight
+[2023.04.20-18.10.47:582][480]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.20-18.10.47:582][480]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.20-18.10.48:521][480]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-18.10.48:521][480]LogAudioMixer: Display: 1: FrontRight
+[2023.04.20-18.10.48:810][481]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.20-18.10.48:911][481]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-18.10.48:911][481]LogAudioMixer: Display: 1: FrontRight
+[2023.04.20-22.12.29:387][404]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b9d58823-024c-456e-9d0a-405317ddab2e}.
+[2023.04.20-22.12.29:462][404]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.20-22.12.29:569][404]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-22.12.29:569][404]LogAudioMixer: Display: 1: FrontRight
+[2023.04.20-23.04.03:857][892]LogUObjectHash: Compacting FUObjectHashTables data took  37.31ms
+[2023.04.20-23.04.04:148][892]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap87186A72452D184DDCBBEFB7DACA45C9.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.20-23.04.04:215][892]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataBCFB8F714AB505F21C0906BF1BB8E340.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.20-23.04.04:372][892]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.20-23.04.04:373][892]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.20-23.04.04:375][892]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.20-23.14.01:976][713]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.20-23.14.01:977][713]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.20-23.14.02:758][713]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.20-23.14.02:759][713]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.09.49:852][714]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.21-09.09.52:043][714]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.09.52:086][714]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.09.52:087][714]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.09.52:124][715]LogHttp: Warning: 000001D2363D4800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA23619D4-449C-D2D6-7EEE-99AB032CA93A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06cccc1344696a16dfdf98a39c557667%7C2d32650e44b34196b33d230ecffe4c44%7Cc52fd56d-043c-4270-b77f-53f250a1a918&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.21-09.09.52:124][715]LogHttp: Warning: 000001D2363D4800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.21-09.09.52:124][715]LogHttp: Warning: 000001D2363D4800: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2023.04.21-09.09.52:124][715]LogHttp: Warning: 000001D2363D4800: libcurl info message cache 1 (Closing connection 0)
+[2023.04.21-09.09.52:124][715]LogHttp: Warning: 000001D2363D4800: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.21-09.09.52:124][715]LogHttp: Warning: 000001D2363D4800: libcurl info message cache 3 (Closing connection 1)
+[2023.04.21-09.09.52:333][715]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.04.21-09.09.52:333][715]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.04.21-09.09.52:334][715]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.04.21-09.09.52:573][715]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.21-09.09.52:593][716]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA23619D4-449C-D2D6-7EEE-99AB032CA93A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=06cccc1344696a16dfdf98a39c557667%7C2d32650e44b34196b33d230ecffe4c44%7Cc52fd56d-043c-4270-b77f-53f250a1a918&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.21-09.09.54:011][720]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.04.21-09.09.54:011][720]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.04.21-09.09.54:011][720]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.04.21-09.09.54:228][720]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.21-09.09.56:030][726]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.04.21-09.09.56:030][726]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.04.21-09.09.56:030][726]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.04.21-09.09.56:250][726]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.21-09.09.58:051][732]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.04.21-09.09.58:051][732]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.04.21-09.09.58:051][732]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.04.21-09.09.58:260][732]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.21-09.10.39:906][855]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0be72a0e-1cd6-4cb1-8091-076ba8e070db}.
+[2023.04.21-09.10.39:907][855]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.10.40:541][855]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.10.40:541][855]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.10.40:887][856]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.10.40:900][856]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.10.40:900][856]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.12:103][128]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.12:109][128]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.12:109][128]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.12:149][128]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.13:116][131]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.13:117][131]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.13:117][131]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.13:135][131]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.14:122][134]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.14:123][134]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.14:124][134]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.14:140][134]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.15:123][137]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.15:124][137]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.15:124][137]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.15:142][137]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.16:127][140]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.16:128][140]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.16:128][140]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.16:146][140]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.17:130][143]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.17:131][143]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.17:131][143]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.17:145][143]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.18:130][146]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.18:131][146]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.18:131][146]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.18:145][146]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.19:131][149]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.19:133][149]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.19:133][149]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.19:147][149]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.20:133][152]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.20:135][152]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.20:135][152]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.20:148][152]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.21:139][155]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.21:141][155]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.21:141][155]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.21:157][155]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.22:146][158]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.22:148][158]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.22:148][158]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.22:162][158]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.23:153][161]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.23:154][161]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.23:154][161]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.23:169][161]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.24:157][164]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.24:159][164]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.24:159][164]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.24:173][164]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.25:163][167]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.25:164][167]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.25:164][167]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.25:179][167]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.26:169][170]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.26:170][170]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.26:170][170]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.26:185][170]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.27:175][173]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.27:176][173]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.27:176][173]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.27:190][173]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.28:179][176]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.28:180][176]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.28:180][176]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.28:194][176]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.29:182][179]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.29:183][179]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.29:183][179]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.29:196][179]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.30:182][182]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.30:184][182]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.30:184][182]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.30:199][182]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.31:182][185]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.31:184][185]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.31:184][185]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.31:198][185]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.32:182][188]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.32:184][188]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.32:184][188]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.32:197][188]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.33:184][191]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.33:185][191]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.33:185][191]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.33:200][191]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.34:185][194]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.34:186][194]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.34:186][194]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.34:200][194]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.35:193][197]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.35:194][197]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.35:194][197]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.35:208][197]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.36:198][200]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.36:199][200]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.36:200][200]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.36:214][200]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.37:255][203]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.37:256][203]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.37:256][203]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.37:270][203]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.38:314][206]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.38:315][206]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.38:315][206]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.38:330][206]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.39:014][208]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.39:015][208]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.39:015][208]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.39:030][208]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.40:068][211]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.40:069][211]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.40:069][211]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.40:082][211]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.41:125][214]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.41:126][214]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.41:126][214]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.41:139][214]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.42:176][217]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.42:177][217]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.42:177][217]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.42:192][217]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.43:231][220]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.43:232][220]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.43:232][220]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.43:245][220]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.44:284][223]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.44:286][223]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.44:286][223]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.44:300][223]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.45:314][226]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.45:316][226]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.45:316][226]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.45:330][226]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.46:365][229]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.46:366][229]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.46:366][229]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.46:381][229]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.47:060][231]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.47:061][231]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.47:061][231]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.47:076][231]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.48:117][234]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.48:119][234]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.48:119][234]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.48:148][234]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.49:139][237]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.49:140][237]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.49:140][237]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.49:164][237]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.50:161][240]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.50:162][240]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.50:162][240]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.50:178][240]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.51:219][243]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.51:221][243]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.51:221][243]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.51:237][243]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.52:273][246]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.52:274][246]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.52:274][246]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.52:290][246]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.53:330][249]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.53:331][249]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.53:331][249]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.53:347][249]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.54:388][252]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.54:389][252]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.54:389][252]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.54:402][252]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.55:446][255]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.55:447][255]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.55:447][255]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.55:461][255]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.56:471][258]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.56:473][258]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.56:473][258]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.56:487][258]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.57:169][260]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.57:170][260]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.57:170][260]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.57:184][260]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.58:193][263]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.58:195][263]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.58:195][263]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.58:208][263]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.12.59:251][266]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.12.59:252][266]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.12.59:252][266]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.12.59:266][266]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.00:304][269]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.00:305][269]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.00:305][269]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.00:320][269]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.01:361][272]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.01:363][272]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.01:363][272]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.01:377][272]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.02:415][275]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.02:417][275]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.02:417][275]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.02:430][275]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.03:466][278]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.03:468][278]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.03:468][278]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.03:481][278]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.04:493][281]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.04:494][281]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.04:494][281]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.04:507][281]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.05:549][284]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.05:550][284]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.05:550][284]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.05:564][284]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.06:244][286]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.06:245][286]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.06:245][286]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.06:260][286]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.07:296][289]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.07:297][289]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.07:297][289]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.07:311][289]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.08:352][292]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.08:354][292]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.08:354][292]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.08:367][292]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.09:364][295]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.09:365][295]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.09:365][295]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.13.09:380][295]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88890001: UNKNOWN (line: 1291)
+[2023.04.21-09.13.10:428][298]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.13.10:429][298]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.13.10:429][298]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.51.52:573][228]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameInstance/GameInstanceClass.GameInstanceClass
+[2023.04.21-09.51.56:771][286]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-09.51.56:775][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-09.51.58:665][326]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.21-09.51.58:665][326]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-09.51.58:665][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-09.51.59:724][343]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.21-09.51.59:724][343]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-09.51.59:724][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-09.52.01:241][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.21-09.52.01:241][372]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-09.52.01:241][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-09.52.02:901][398]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-09.52.02:901][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-09.52.02:937][398]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-09.52.02:938][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-09.52.04:178][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance/GameInstanceClass" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/GameInstance/GameInstanceClass.uasset" SILENT=true
+[2023.04.21-09.52.04:240][417]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/GameInstanceClass6A842D844148A322A225E6A30527BDD4.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/GameInstance/GameInstanceClass.uasset'
+[2023.04.21-09.52.04:285][417]AssetCheck: New page: Asset Save: GameInstanceClass
+[2023.04.21-09.52.04:285][417]LogContentValidation: Display: Validating Blueprint /Game/GameInstance/GameInstanceClass.GameInstanceClass
+[2023.04.21-09.52.04:760][432]BlueprintLog: New page: Compile GameInstanceClass
+[2023.04.21-09.52.05:131][432]LogUObjectHash: Compacting FUObjectHashTables data took  20.13ms
+[2023.04.21-09.52.59:273][451]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-09.53.39:497][189]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-09.53.39:766][189]LogUObjectHash: Compacting FUObjectHashTables data took   9.07ms
+[2023.04.21-09.53.40:275][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-09.53.40:374][196]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character5DEB77AE4AEDC60C59AF01A4E4888873.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-09.53.40:413][196]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-09.53.40:413][196]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-09.53.40:674][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-09.53.40:726][202]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character63F9A2CE4D379FD7E10CDD947C065000.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-09.53.40:751][202]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-09.53.40:751][202]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-09.58.25:046][824]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b9d58823-024c-456e-9d0a-405317ddab2e}.
+[2023.04.21-09.58.25:047][824]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-09.58.25:110][824]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-09.58.25:110][824]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-09.58.56:715][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-09.58.56:759][458]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character6BBAD5CA4209D0815A02F5A1DBAFA384.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-09.58.56:783][458]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-09.58.56:783][458]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.01.13:556][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.01.13:599][378]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character8DDA387345D83F88656BD5A4985D3B92.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.01.13:615][378]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.01.13:615][378]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.02.29:116][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.02.29:187][418]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterBEB6A82145B7D5D47FEDD4AC2F59912A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.02.29:216][418]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.02.29:216][418]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.03.07:290][337]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-10.03.07:352][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.21-10.03.07:909][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.03.07:948][362]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character6E4F629642AFBB80FFC4328C37200AEA.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.03.07:965][362]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.03.07:965][362]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.03.26:922][413]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.21-10.03.38:202][ 44]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-10.03.38:259][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.04.21-10.03.38:794][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.03.38:830][ 68]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterE21584A9432F7038A681AF9F711CC4D1.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.03.38:845][ 68]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.03.38:845][ 68]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.06.35:804][569]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.21-10.06.35:810][569]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-10.06.36:644][569]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-10.06.36:644][569]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-10.06.36:964][570]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-10.06.37:079][570]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-10.06.37:079][570]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-10.10.11:400][116]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b9d58823-024c-456e-9d0a-405317ddab2e}.
+[2023.04.21-10.10.11:417][116]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-10.10.11:571][116]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-10.10.11:571][116]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-10.11.25:534][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.11.25:571][ 68]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterC832384143333FBA7320CD87AB99EF91.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.11.25:593][ 68]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.11.25:593][ 68]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.11.25:894][ 84]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-10.11.25:958][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.04.21-10.14.16:380][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.04.21-10.14.16:385][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2023.04.21-10.14.16:386][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Character] ([2] browsable assets)...
+[2023.04.21-10.14.16:395][656]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Character.Player_Character]
+[2023.04.21-10.14.16:395][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Character]
+[2023.04.21-10.14.16:395][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.04.21-10.14.16:433][656]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character_Auto3AC3A75C14071E3162A2EE0A38008B6D8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/Player_Character_Auto3.uasset'
+[2023.04.21-10.14.16:435][656]LogFileHelpers: Auto-saving content packages took 0.049
+[2023.04.21-10.17.12:616][  6]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.21-10.17.12:621][  6]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-10.17.13:566][  6]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-10.17.13:566][  6]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-10.17.14:104][  7]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-10.17.14:306][  7]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-10.17.14:306][  7]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-10.18.54:936][484]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-10.18.54:969][484]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] This blueprint (self) is not a GameInstanceClass_C, therefore ' Target ' must have a connection.
+[2023.04.21-10.18.54:973][484]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] Variable node  Get Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.04.21-10.18.55:065][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2023.04.21-10.19.01:484][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.19.01:523][730]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character702418D04CC80DD8C513B79C381C5399.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.19.01:539][730]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.19.01:539][730]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.19.01:930][752]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-10.19.01:996][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.04.21-10.19.02:515][775]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-10.19.02:575][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.04.21-10.19.09:716][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPC/NPC.NPC
+[2023.04.21-10.22.45:554][ 33]BlueprintLog: New page: Compile NPC
+[2023.04.21-10.22.45:569][ 33]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\NPC\NPC.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To GameInstance  to imply a specific type.
+[2023.04.21-10.22.45:571][ 33]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\NPC\NPC.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2023.04.21-10.22.45:630][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.21-10.22.46:095][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/NPC" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/NPC/NPC.uasset" SILENT=true
+[2023.04.21-10.22.46:113][ 55]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/NPCB69CC54B49B9084B7707A1BE26B4F1B2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/NPC/NPC.uasset'
+[2023.04.21-10.22.46:130][ 55]AssetCheck: New page: Asset Save: NPC
+[2023.04.21-10.22.46:130][ 55]LogContentValidation: Display: Validating Blueprint /Game/NPC/NPC.NPC
+[2023.04.21-10.23.07:711][187]BlueprintLog: New page: Compile NPC
+[2023.04.21-10.23.07:766][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.04.21-10.23.08:231][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/NPC" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/NPC/NPC.uasset" SILENT=true
+[2023.04.21-10.23.08:248][209]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/NPC3F1CE6FD419EC8AFB9FB4B92E9CE1A45.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/NPC/NPC.uasset'
+[2023.04.21-10.23.08:267][209]AssetCheck: New page: Asset Save: NPC
+[2023.04.21-10.23.08:267][209]LogContentValidation: Display: Validating Blueprint /Game/NPC/NPC.NPC
+[2023.04.21-10.24.16:674][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.04.21-10.24.16:738][506]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_Auto41C2122C44B4FB974E7A1FF967B11E608.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2023.04.21-10.24.16:742][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.100
+[2023.04.21-10.24.16:742][506]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2023.04.21-10.24.21:880][786]BlueprintLog: New page: Compile NPC
+[2023.04.21-10.24.21:943][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.21-10.24.22:415][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/NPC" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/NPC/NPC.uasset" SILENT=true
+[2023.04.21-10.24.22:432][809]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/NPC036431CE473FFBD9C6BDDDB7DE26E5B5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/NPC/NPC.uasset'
+[2023.04.21-10.24.22:460][809]AssetCheck: New page: Asset Save: NPC
+[2023.04.21-10.24.22:460][809]LogContentValidation: Display: Validating Blueprint /Game/NPC/NPC.NPC
+[2023.04.21-10.24.32:174][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.24.34:888][509]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode345BA1A04438D4BB0047B4BD5EAF254F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.24.34:908][509]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.24.34:908][509]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.24.41:453][895]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeD8CE0B5045C27C0FE42B7191DD67ACCF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.24.41:470][895]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.24.41:470][895]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.31.46:817][429]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.21-10.32.01:974][968]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.04.21-10.32.02:031][968]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.21-10.32.32:798][497]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.21-10.32.32:805][497]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.21-10.34.17:451][933]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2023.04.21-10.34.17:488][933]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_Auto55C76E80B40B0D9D4AD021AAC8F922171.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2023.04.21-10.34.17:492][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.454
+[2023.04.21-10.34.17:492][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.454
+[2023.04.21-10.34.33:142][861]LogContentBrowser: Attempting asset rename: ThirdPersonGameMode -> ThirdPersonGameMode
+[2023.04.21-10.35.37:384][392]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.35.37:523][392]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2023.04.21-10.35.38:070][420]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode23F531F5456CC3A1E88B04AE01CE8264.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.35.38:086][420]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.35.38:086][420]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.36.43:536][223]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.36.43:594][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.04.21-10.36.43:909][238]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeDD65B4F54BA00FB11F022ABE9EF4D036.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.36.43:930][238]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.36.43:930][238]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.38.58:174][ 79]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.38.58:259][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.04.21-10.38.58:761][ 94]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode362F8D1E47F32680FE2068A36405536D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.38.58:785][ 94]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.38.58:785][ 94]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.39.02:024][256]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode0256A31341AFEEC149C170AC01F1444B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.39.02:045][256]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.39.02:045][256]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.39.37:652][297]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.39.37:710][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.04.21-10.39.38:019][312]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode781DC16F47217DDD31EC3E899BEBC48F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.39.38:043][312]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.39.38:043][312]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.39.49:473][986]LogEditorTransaction: Undo Delete current selection
+[2023.04.21-10.39.55:083][289]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.39.55:137][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.04.21-10.39.55:682][316]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode098BD5A94454BB435452D9850C7B5819.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.39.55:705][316]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.39.55:706][316]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.40.28:358][110]LogEditorTransaction: Undo Add Node
+[2023.04.21-10.40.48:178][196]LogEditorTransaction: Undo Add Node
+[2023.04.21-10.41.23:333][939]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.41.23:398][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.04.21-10.41.23:788][957]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode8B8E9D3F4364DDD5B1F91D9E682708CC.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.41.23:805][957]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.41.23:805][957]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.41.23:972][965]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeE3214FE54F1BCB5EE087AC905BBA722B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.41.23:987][965]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.41.23:987][965]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.41.36:984][728]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.41.37:042][728]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.04.21-10.41.37:490][750]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode4AD2B16C45911588F34D7DA99ED11AE3.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.41.37:511][750]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.41.37:511][750]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.41.37:652][756]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode6BC756D240B1C9B7BA4A2E8DE3645F5C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.41.37:667][756]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.41.37:667][756]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.41.49:869][416]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-10.41.49:950][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.21-10.41.50:317][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.41.50:363][427]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterB40E000E40779B96BA0218A13D885F6A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.41.50:380][427]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.41.50:380][427]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.41.50:515][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-10.41.50:549][433]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterF5282F8F4F0033E132DFC3AAE7580F40.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-10.41.50:564][433]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-10.41.50:564][433]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-10.42.01:359][ 54]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.42.01:436][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2023.04.21-10.42.01:794][ 68]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode2DA4BE81485C0459F79160809E53E967.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.42.01:813][ 68]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.42.01:813][ 68]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.42.01:950][ 74]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode637E332D4339CFDEED435186D40B61B0.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.42.01:968][ 74]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.42.01:968][ 74]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.44.17:962][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.04.21-10.44.17:994][195]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_Auto6E740331B4E8C4417BC86968090B03B88.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2023.04.21-10.44.17:997][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.074
+[2023.04.21-10.44.17:997][195]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2023.04.21-10.47.23:189][603]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.47.23:248][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.04.21-10.47.23:718][626]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeF8854C6347CB3BC4ADCBA19DB6829D5C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.47.23:738][626]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.47.23:738][626]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.47.27:453][833]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode72EB5A4E4FFC341BC48E948E3DE0D260.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.47.27:471][833]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.47.27:471][833]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.50.25:159][329]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4f02565a-d422-43f0-9659-fcc19052caeb}.
+[2023.04.21-10.50.25:172][329]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-10.50.26:139][329]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-10.50.26:139][329]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-10.50.26:210][330]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.21-10.50.26:230][330]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-10.50.26:230][330]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-10.50.36:228][884]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeDDCEA0874BD586B3A6F1ABB4079E42DE.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.50.36:256][884]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.50.36:256][884]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.50.49:771][683]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeAA5B62DB415BC9440E5097894150FC7F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.50.49:795][683]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.50.49:795][683]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.51.01:847][330]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::EqualEqual_IntInt' [The specified module could not be found.]
+[2023.04.21-10.51.19:241][297]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.51.19:304][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.04.21-10.51.21:075][315]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode13A5C2F54B655E8D4110E69C5E0126DE.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.51.21:090][315]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.51.21:090][315]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.51.25:872][507]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeEA87A939424BFCB96819D38DD7709AA5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.51.25:889][507]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.51.25:889][507]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.51.27:227][581]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2023.04.21-10.51.27:290][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.04.21-10.54.27:353][318]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameMode75461A6649411E510A03529ACEAB56CD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.54.27:379][318]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.54.27:380][318]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-10.59.18:074][723]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonGameModeED520BD149CE9BE2398AD6A405683311.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2023.04.21-10.59.18:101][723]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2023.04.21-10.59.18:101][723]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2023.04.21-11.04.15:316][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.04.15:393][313]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character43F05A8B4A5493CF1E5AAEB8E2E4B7B8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.04.15:455][313]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.04.15:456][313]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.04.24:686][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.04.24:742][509]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character51A36F1146BE7E7681C6C0A03793A903.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.04.24:789][509]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.04.24:790][509]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.04.59:883][545]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.04.21-11.04.59:916][545]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.04.21-11.05.08:927][ 86]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> FireMode_Enum
+[2023.04.21-11.05.08:942][ 86]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.04.21-11.05.10:832][197]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/FireMode_Enum.FireMode_Enum
+[2023.04.21-11.05.37:135][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FireMode_Enum" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/FireMode_Enum.uasset" SILENT=true
+[2023.04.21-11.05.37:145][172]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/FireMode_Enum3F96C0084A0DC840DB509C9FEC287BA8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/FireMode_Enum.uasset'
+[2023.04.21-11.05.37:199][172]AssetCheck: New page: Asset Save: FireMode_Enum
+[2023.04.21-11.05.37:199][172]LogContentValidation: Display: Validating UserDefinedEnum /Game/FireMode_Enum.FireMode_Enum
+[2023.04.21-11.05.53:537][597]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.05.53:733][597]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2023.04.21-11.05.54:110][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.05.54:170][598]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character45DF4F5B40AF2DE48A5140891BC5DDA2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.05.54:205][598]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.05.54:205][598]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.06.04:345][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.06.04:387][854]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character8637845846AAF1ABE7985DA7C17F95B1.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.06.04:408][854]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.06.04:408][854]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.06.04:771][872]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.06.04:850][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.04.21-11.07.28:216][781]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.07.28:409][781]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2023.04.21-11.07.28:821][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.07.28:881][783]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterE7FAD5D94F7EF0BCE46391982657A1DB.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.07.28:923][783]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.07.28:923][783]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.07.42:465][100]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.07.42:637][100]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2023.04.21-11.07.42:976][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.07.43:045][102]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterE96CE7A04672B235111E2299528FBFC6.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.07.43:089][102]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.07.43:090][102]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.08.29:557][ 84]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.08.29:653][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.04.21-11.08.30:023][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.08.30:069][ 93]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character4E3F5AF64B0C5E4A63EEBFBF7582BEB5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.08.30:093][ 93]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.08.30:093][ 93]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.08.41:478][650]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.08.41:557][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.04.21-11.08.59:759][ 86]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.08.59:920][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2023.04.21-11.09.00:454][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.09.00:521][ 92]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterDED20A77435CEC5939129C9BAC712E7A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.09.00:552][ 92]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.09.00:554][ 92]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.09.18:564][800]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.09.18:641][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.04.21-11.09.19:057][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.09.19:099][815]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterC114A8E4417B6BD6CD8595ACB03EC6EA.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.09.19:142][815]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.09.19:142][815]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.10.27:573][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.10.27:615][800]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterD850DC894D789DE693BE018667C462FC.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.10.27:636][800]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.10.27:636][800]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.10.27:980][816]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.10.28:059][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.04.21-11.10.28:860][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.10.28:901][846]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterF5126F30441F91A8DA2BD4829ADEC6C6.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.10.28:922][846]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.10.28:922][846]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.10.30:641][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.10.30:677][926]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character2F53A41A4A12F043A6E1D5BB2F3995B1.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.10.30:694][926]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.10.30:694][926]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.10.40:201][359]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.10.40:279][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.21-11.10.40:645][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.10.40:685][370]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character6B497AD84C4457938EDC98BB12D223F4.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.10.40:701][370]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.10.40:701][370]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.10.42:887][484]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.10.42:901][484]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.21-11.10.42:908][484]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.04.21-11.10.42:948][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.04.21-11.10.42:949][484]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2023.04.21-11.10.42:956][484]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:10:42)
+[2023.04.21-11.10.42:958][484]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.10.43:028][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069209s)
+[2023.04.21-11.10.43:033][484]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.10.43:036][484]LogPlayLevel: PIE: World Init took: (0.008778s)
+[2023.04.21-11.10.43:037][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.078663s)
+[2023.04.21-11.10.43:067][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.04.21-11.10.43:069][484]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.21-11.10.43:070][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.10.43:070][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.10.43:070][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.10.43:070][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.10.43:070][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.10.43:070][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.10.43:070][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.10.43:070][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.10.43:073][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.10.43:073][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.10.43:073][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.10.43:073][484]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.10.43:080][484]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.10.43:080][484]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.10.43:089][484]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.10.43:091][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.10.43:091][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.10.43:091][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.10.43:092][484]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.10.43:092][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.10.43:092][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.10.43:094][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.10.43:094][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.10.43:094][484]LogInit: FAudioDevice initialized.
+[2023.04.21-11.10.43:094][484]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.10.43:123][484]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.10.43:129][484]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.10.43
+[2023.04.21-11.10.43:137][484]LogWorld: Bringing up level for play took: 0.013102
+[2023.04.21-11.10.43:141][484]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.04.21-11.10.43:169][484]PIE: Server logged in
+[2023.04.21-11.10.43:171][484]PIE: Play in editor total start time 0.274 seconds.
+[2023.04.21-11.10.43:702][511]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.44:332][549]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.44:519][560]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.44:834][579]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.45:517][620]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.45:901][643]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.47:021][710]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.48:788][816]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.49:005][829]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.49:488][858]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.52:071][ 13]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.53:271][ 85]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.10.54:067][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.10.54:067][131]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.10.54:069][131]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.10.54:070][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.10.54:085][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.10.54:090][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.10.54:118][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.10.54:119][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.10.54:120][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.10.54:123][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.10.54:130][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.04.21-11.10.54:159][132]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.04.21-11.10.54:904][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.04.21-11.10.54:929][172]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap5C9170C04B1547BC381B7F9D7A803983.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.10.55:139][172]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataA57EC6CC4F5CD846C9AE089DA58BA801.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.10.55:161][172]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.10.55:161][172]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.10.55:161][172]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-11.10.58:119][349]LogContentBrowser: Attempting asset rename: Player_Character -> Player_Character
+[2023.04.21-11.11.13:741][709]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.11.13:978][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.04.21-11.11.14:344][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.11.14:402][710]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character69E100FF441391308048379D34681D62.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.11.14:435][710]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.11.14:435][710]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.11.14:947][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.11.15:024][721]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character0CE6C9AC42EDE07E51723F81E3B73559.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.11.15:089][721]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.11.15:089][721]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.11.22:355][903]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.11.22:377][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-11.11.22:378][903]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:11:22)
+[2023.04.21-11.11.22:379][903]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.11.22:417][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037131s)
+[2023.04.21-11.11.22:420][903]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.11.22:420][903]LogPlayLevel: PIE: World Init took: (0.003327s)
+[2023.04.21-11.11.22:421][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041007s)
+[2023.04.21-11.11.22:500][903]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2023.04.21-11.11.22:503][903]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.21-11.11.22:504][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.11.22:504][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.11.22:504][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.11.22:504][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.11.22:504][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.11.22:504][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.11.22:504][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.11.22:504][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.11.22:505][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.11.22:505][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.11.22:505][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.11.22:505][903]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.11.22:509][903]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.11.22:509][903]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.11.22:529][903]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.11.22:531][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.11.22:531][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.11.22:532][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.11.22:534][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.11.22:534][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.11.22:534][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.11.22:539][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.11.22:539][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.11.22:539][903]LogInit: FAudioDevice initialized.
+[2023.04.21-11.11.22:539][903]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.11.22:550][903]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.11.22:556][903]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.11.22
+[2023.04.21-11.11.22:562][903]LogWorld: Bringing up level for play took: 0.009161
+[2023.04.21-11.11.22:563][903]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.04.21-11.11.22:574][903]PIE: Server logged in
+[2023.04.21-11.11.22:575][903]PIE: Play in editor total start time 0.201 seconds.
+[2023.04.21-11.11.23:099][920]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.11.23:536][938]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.11.24:232][966]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.11.25:862][ 36]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.11.26:086][ 46]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.11.26:281][ 55]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.11.26:453][ 63]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.11.27:038][ 89]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.11.27:830][124]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.11.28:371][148]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.11.28:603][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.11.28:603][156]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.11.28:603][156]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.11.28:604][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.11.28:635][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.11.28:649][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.11.28:714][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.11.28:715][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.11.28:720][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.11.28:725][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.11.28:735][156]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2023.04.21-11.11.28:788][157]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.04.21-11.11.32:676][333]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (C_Walls)
+[2023.04.21-11.11.52:047][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.11.52:110][748]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterFCD2B06340DE4FD2233042A602915A8F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.11.52:143][748]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.11.52:143][748]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.11.52:474][755]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.11.52:631][755]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2023.04.21-11.12.27:195][378]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.12.27:379][378]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2023.04.21-11.12.27:817][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.12.27:889][381]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterACE8A2914B2F1E6BB1565590F4A8388F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.12.27:926][381]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.12.27:926][381]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.13.10:200][209]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.13.10:391][209]LogUObjectHash: Compacting FUObjectHashTables data took  10.51ms
+[2023.04.21-11.13.11:139][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.13.11:201][220]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterE10445FD416DD861500C05A1B9026C8A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.13.11:232][220]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.13.11:232][220]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.14.03:224][437]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.14.03:240][437]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2023.04.21-11.14.03:300][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.04.21-11.14.03:801][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.14.03:842][454]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character4A61D5154C05FBBE21CD998998E7A996.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.14.03:859][454]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.14.03:859][454]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.14.34:016][194]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.14.34:052][194]LogBlueprint: Error: [AssetLog] C:\Users\Jack\Documents\GitHub\PacManHunter\Content\Player_Character.uasset: [Compiler] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2023.04.21-11.14.34:201][194]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2023.04.21-11.14.34:513][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.14.34:570][195]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character89DF95654838CE31F8F1A594760920AE.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.14.34:604][195]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.14.34:604][195]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.15.00:709][715]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.15.00:886][715]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2023.04.21-11.15.01:379][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.15.01:447][720]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character1F4423B14455DE3D1BF149BF37FBB063.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.15.01:483][720]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.15.01:483][720]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.15.02:138][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.15.02:210][734]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character3FB58A2C4CE9FAEB3D37ADB5DA82706F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.15.02:258][734]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.15.02:258][734]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.15.04:496][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.15.04:547][782]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character63118148488E1FB66D515C90018AB274.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.15.04:581][782]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.15.04:581][782]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.15.27:820][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.15.27:897][315]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character0DDBD0B347A036672939FAA9D1ECC044.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.15.27:941][315]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.15.27:942][315]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.15.37:833][532]LogEditorTransaction: Undo Move Node
+[2023.04.21-11.15.42:782][635]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.15.42:970][635]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2023.04.21-11.15.43:638][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.15.43:720][643]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterF9444ED24CFC4D651562F2A368CC03B1.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.15.43:755][643]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.15.43:755][643]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.15.56:994][912]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.15.57:193][912]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2023.04.21-11.15.57:551][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.15.57:611][914]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character47639B1640C8A4E1278634A105999309.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.15.57:651][914]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.15.57:651][914]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.16.04:531][ 54]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.16.04:722][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2023.04.21-11.16.05:424][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.16.05:490][ 64]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character88B2F12E4FDC0F40C1A39DBD036EB1E2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.16.05:530][ 64]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.16.05:530][ 64]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.16.07:836][117]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.16.07:850][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-11.16.07:851][117]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:16:07)
+[2023.04.21-11.16.07:851][117]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.16.07:874][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023146s)
+[2023.04.21-11.16.07:877][117]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.16.07:878][117]LogPlayLevel: PIE: World Init took: (0.003472s)
+[2023.04.21-11.16.07:878][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027190s)
+[2023.04.21-11.16.07:961][117]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2023.04.21-11.16.07:964][117]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.21-11.16.07:965][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.16.07:965][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.16.07:965][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.16.07:965][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.16.07:965][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.16.07:965][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.16.07:965][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.16.07:965][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.16.07:966][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.16.07:966][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.16.07:966][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.16.07:966][117]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.16.07:971][117]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.16.07:971][117]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.16.07:986][117]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.16.07:986][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.16.07:986][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.16.07:986][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.16.07:987][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.16.07:987][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.16.07:987][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.16.07:993][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.16.07:993][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.16.07:993][117]LogInit: FAudioDevice initialized.
+[2023.04.21-11.16.07:993][117]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.16.08:030][117]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.16.08:036][117]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.16.08
+[2023.04.21-11.16.08:039][117]LogWorld: Bringing up level for play took: 0.006133
+[2023.04.21-11.16.08:040][117]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.04.21-11.16.08:048][117]PIE: Server logged in
+[2023.04.21-11.16.08:049][117]PIE: Play in editor total start time 0.202 seconds.
+[2023.04.21-11.16.09:758][182]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.16.11:243][242]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.16.15:106][406]LogBlueprintUserMessages: [Player_Character_C_0] Single
+[2023.04.21-11.16.18:083][534]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.16.19:420][589]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.16.21:166][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.16.21:167][660]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.16.21:167][660]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.16.21:168][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.16.21:187][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.16.21:228][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.16.21:295][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.16.21:298][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.16.21:300][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.16.21:305][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.16.21:316][660]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2023.04.21-11.16.21:408][661]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.04.21-11.16.22:434][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2023.04.21-11.16.22:477][691]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap24FFFC044E604F285BF503AFC5D98058.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.16.22:519][691]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData84C8205045E4F48A322408A561C3BB78.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.16.22:555][691]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.16.22:555][691]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.16.22:555][691]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-11.17.40:769][708]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.17.40:982][708]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2023.04.21-11.17.41:472][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.17.41:545][716]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character41FE71E9474855BAF3FC5AB704C4B81F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.17.41:575][716]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.17.41:576][716]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.18.04:387][257]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.18.04:573][257]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2023.04.21-11.18.05:258][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.18.05:331][268]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterA70F05C640CFF0656A221DB5AEF7D3C2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.18.05:354][268]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.18.05:354][268]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.18.15:190][474]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.18.15:385][474]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2023.04.21-11.18.15:890][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.18.15:968][479]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterB6C5ED1C4BF0A22037C9AB8AA2651E40.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.18.16:014][479]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.18.16:014][479]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.18.55:859][311]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.18.55:942][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.04.21-11.18.56:509][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.18.56:557][330]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterAFC7FD914252AE75A8CAC28FEAF02F8A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.18.56:577][330]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.18.56:577][330]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.19.00:013][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.19.00:058][490]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character4EE66CBF411B5BF1A938039D597B7AE6.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.19.00:083][490]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.19.00:083][490]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.19.17:660][874]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.19.17:849][874]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2023.04.21-11.19.18:463][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.19.18:535][880]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character281D0AFD481798E612C1CFBA6DE08320.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.19.18:577][880]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.19.18:577][880]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.19.21:206][951]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.19.21:224][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-11.19.21:224][951]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:19:21)
+[2023.04.21-11.19.21:225][951]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.19.21:254][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029197s)
+[2023.04.21-11.19.21:257][951]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.19.21:258][951]LogPlayLevel: PIE: World Init took: (0.003840s)
+[2023.04.21-11.19.21:259][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033581s)
+[2023.04.21-11.19.21:344][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2023.04.21-11.19.21:347][951]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.21-11.19.21:347][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.19.21:347][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.19.21:347][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.19.21:347][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.19.21:347][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.19.21:347][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.19.21:347][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.19.21:347][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.19.21:349][951]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.19.21:349][951]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.19.21:349][951]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.19.21:349][951]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.19.21:356][951]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.19.21:356][951]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.19.21:369][951]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.19.21:370][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.19.21:370][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.19.21:370][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.19.21:371][951]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.19.21:371][951]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.19.21:371][951]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.19.21:378][951]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.19.21:379][951]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.19.21:379][951]LogInit: FAudioDevice initialized.
+[2023.04.21-11.19.21:379][951]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.19.21:411][951]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.19.21:414][951]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.19.21
+[2023.04.21-11.19.21:416][951]LogWorld: Bringing up level for play took: 0.004053
+[2023.04.21-11.19.21:418][951]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.04.21-11.19.21:430][951]PIE: Server logged in
+[2023.04.21-11.19.21:430][951]PIE: Play in editor total start time 0.209 seconds.
+[2023.04.21-11.19.24:257][ 66]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.19.33:953][471]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.19.35:505][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.19.35:506][533]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.19.35:506][533]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.19.35:507][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.19.35:525][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.19.35:570][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.19.35:635][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.19.35:637][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.19.35:639][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.19.35:645][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.19.35:652][533]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.04.21-11.19.35:733][534]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.04.21-11.19.36:553][554]LogUObjectHash: Compacting FUObjectHashTables data took   9.91ms
+[2023.04.21-11.19.36:595][554]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap89BF766E4CA22DF20E70A1AB45A74749.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.19.36:641][554]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData9206F2044096883DBAF53BB12C12D6A6.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.19.36:710][554]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.19.36:710][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.19.36:710][554]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-11.19.46:016][753]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.19.46:197][753]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2023.04.21-11.19.46:949][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.19.47:019][763]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterF1FF6BED4CF86B63D6AB74920E117CCC.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.19.47:055][763]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.19.47:055][763]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.19.48:700][804]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.19.48:726][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-11.19.48:726][804]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:19:48)
+[2023.04.21-11.19.48:727][804]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.19.48:762][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034212s)
+[2023.04.21-11.19.48:764][804]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.19.48:765][804]LogPlayLevel: PIE: World Init took: (0.003020s)
+[2023.04.21-11.19.48:765][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037733s)
+[2023.04.21-11.19.48:841][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.04.21-11.19.48:849][804]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.21-11.19.48:849][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.19.48:849][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.19.48:849][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.19.48:849][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.19.48:849][804]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.19.48:849][804]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.19.48:849][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.19.48:849][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.19.48:851][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.19.48:851][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.19.48:851][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.19.48:851][804]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.19.48:855][804]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.19.48:855][804]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.19.48:869][804]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.19.48:869][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.19.48:869][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.19.48:869][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.19.48:870][804]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.19.48:870][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.19.48:870][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.19.48:873][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.19.48:873][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.19.48:873][804]LogInit: FAudioDevice initialized.
+[2023.04.21-11.19.48:874][804]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.19.48:897][804]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.19.48:900][804]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.19.48
+[2023.04.21-11.19.48:902][804]LogWorld: Bringing up level for play took: 0.003930
+[2023.04.21-11.19.48:902][804]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.04.21-11.19.48:917][804]PIE: Server logged in
+[2023.04.21-11.19.48:920][804]PIE: Play in editor total start time 0.201 seconds.
+[2023.04.21-11.19.50:010][843]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.19.57:299][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.19.57:299][152]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.19.57:299][152]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.19.57:300][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.19.57:317][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.19.57:340][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.19.57:388][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.19.57:389][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.19.57:394][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.19.57:401][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.19.57:405][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.04.21-11.19.57:485][153]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.04.21-11.19.58:639][190]LogUObjectHash: Compacting FUObjectHashTables data took  10.34ms
+[2023.04.21-11.19.58:688][190]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMapE12E14CB48F2D4615ED4C1AA0BF8D97E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.19.58:739][190]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData439D8FD944D1DB4A96168D90ED64A221.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.19.58:877][190]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.19.58:877][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.19.58:877][190]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-11.20.53:876][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.04.21-11.20.53:928][155]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap09E1475D464DAD9562BFB1915A406589.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.20.53:968][155]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltDataA0456B044F95099453B75FA20AC8F957.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.20.54:007][155]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.20.54:007][155]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.20.54:007][155]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-11.21.00:205][438]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.21.00:278][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.04.21-11.21.56:322][925]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.21.56:402][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.04.21-11.21.56:705][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.21.56:754][932]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterF1A9B5664272AE19A204EB8DE598BB54.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.21.56:772][932]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.21.56:772][932]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.22.01:807][164]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.22.01:883][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.04.21-11.22.02:252][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.22.02:299][174]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character318077334BD49B0D3ACAA0B1F022948C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.22.02:316][174]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.22.02:316][174]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.22.04:236][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.22.04:282][263]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character422950314F9D1473EA2E0DBAAA1D0FD4.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.22.04:299][263]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.22.04:299][263]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.22.06:231][361]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.22.06:238][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-11.22.06:238][361]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:22:06)
+[2023.04.21-11.22.06:239][361]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.22.06:251][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012027s)
+[2023.04.21-11.22.06:253][361]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.22.06:253][361]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2023.04.21-11.22.06:253][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014101s)
+[2023.04.21-11.22.06:288][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.04.21-11.22.06:290][361]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.21-11.22.06:290][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.22.06:290][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.22.06:290][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.22.06:290][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.22.06:290][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.22.06:290][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.22.06:290][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.22.06:290][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.22.06:291][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.22.06:291][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.22.06:291][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.22.06:291][361]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.22.06:294][361]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.22.06:294][361]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.22.06:301][361]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.22.06:301][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.22.06:301][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.22.06:301][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.22.06:302][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.22.06:302][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.22.06:302][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.22.06:303][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.22.06:303][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.22.06:303][361]LogInit: FAudioDevice initialized.
+[2023.04.21-11.22.06:303][361]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.22.06:315][361]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.22.06:316][361]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.22.06
+[2023.04.21-11.22.06:317][361]LogWorld: Bringing up level for play took: 0.001538
+[2023.04.21-11.22.06:317][361]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.04.21-11.22.06:322][361]PIE: Server logged in
+[2023.04.21-11.22.06:323][361]PIE: Play in editor total start time 0.086 seconds.
+[2023.04.21-11.22.11:147][649]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.22.14:240][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.22.14:240][832]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.22.14:240][832]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.22.14:240][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.22.14:251][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.22.14:270][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.22.14:303][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.22.14:303][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.22.14:305][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.22.14:306][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.22.14:310][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.04.21-11.22.14:359][833]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.04.21-11.22.15:232][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.21-11.22.15:255][881]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMapEC6C2D0A4A4F0CAC5CC8A08258C206CB.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.22.15:280][881]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData39B34D254454CAF3364038AB2415C52B.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.22.15:298][881]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.22.15:299][881]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.22.15:299][881]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-11.22.22:225][232]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.22.22:301][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.04.21-11.22.22:689][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.22.22:737][242]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterC60FE89B4CD1B5E88F16FCA7C234F93F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.22.22:753][242]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.22.22:753][242]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.22.24:489][330]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.22.24:496][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-11.22.24:496][330]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:22:24)
+[2023.04.21-11.22.24:496][330]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.22.24:506][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010398s)
+[2023.04.21-11.22.24:508][330]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.22.24:509][330]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2023.04.21-11.22.24:509][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012377s)
+[2023.04.21-11.22.24:544][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.21-11.22.24:545][330]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.21-11.22.24:545][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.22.24:545][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.22.24:545][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.22.24:545][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.22.24:545][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.22.24:545][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.22.24:545][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.22.24:545][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.22.24:546][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.22.24:546][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.22.24:546][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.22.24:546][330]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.22.24:548][330]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.22.24:548][330]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.22.24:556][330]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.22.24:556][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.22.24:556][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.22.24:556][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.22.24:557][330]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.22.24:557][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.22.24:557][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.22.24:558][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.22.24:558][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.22.24:558][330]LogInit: FAudioDevice initialized.
+[2023.04.21-11.22.24:558][330]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.22.24:569][330]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.22.24:571][330]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.22.24
+[2023.04.21-11.22.24:571][330]LogWorld: Bringing up level for play took: 0.001271
+[2023.04.21-11.22.24:571][330]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.04.21-11.22.24:576][330]PIE: Server logged in
+[2023.04.21-11.22.24:577][330]PIE: Play in editor total start time 0.083 seconds.
+[2023.04.21-11.22.27:225][487]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.22.29:740][638]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.22.32:221][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.22.32:221][785]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.22.32:221][785]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.22.32:221][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.22.32:233][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.22.32:249][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.22.32:276][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.22.32:277][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.22.32:278][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.22.32:281][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.22.32:284][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.04.21-11.22.32:326][786]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.04.21-11.22.33:189][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.04.21-11.22.33:212][834]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap9615C14B4734E288E4FC0084C25F735C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.22.33:237][834]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData501A857D43210281EF5D7CBD0F739548.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.22.33:256][834]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.22.33:256][834]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.22.33:256][834]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.21-11.22.43:673][192]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.22.43:750][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.04.21-11.22.44:175][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.22.44:223][205]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_CharacterB923F95645209A34B5350AAEAA2FDE15.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.22.44:237][205]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.22.44:237][205]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.22.53:270][625]BlueprintLog: New page: Compile Player_Character
+[2023.04.21-11.22.53:348][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.04.21-11.22.53:877][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Character" FILE="../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset" SILENT=true
+[2023.04.21-11.22.53:924][641]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/Player_Character4B39312A4A7C9F0F45BDF7BD1D5866FF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/Player_Character.uasset'
+[2023.04.21-11.22.53:940][641]AssetCheck: New page: Asset Save: Player_Character
+[2023.04.21-11.22.53:940][641]LogContentValidation: Display: Validating Blueprint /Game/Player_Character.Player_Character
+[2023.04.21-11.22.55:394][716]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.21-11.22.55:402][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.21-11.22.55:402][716]PIE: New page: PIE session: ThirdPersonExampleMap (21 Apr 2023, 13:22:55)
+[2023.04.21-11.22.55:402][716]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.22.55:413][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010661s)
+[2023.04.21-11.22.55:415][716]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.21-11.22.55:415][716]LogPlayLevel: PIE: World Init took: (0.001807s)
+[2023.04.21-11.22.55:415][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012729s)
+[2023.04.21-11.22.55:452][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.04.21-11.22.55:453][716]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.21-11.22.55:453][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.21-11.22.55:453][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.21-11.22.55:453][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.21-11.22.55:453][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.21-11.22.55:453][716]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.21-11.22.55:455][716]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.21-11.22.55:455][716]LogAudioMixer: Display: 1: FrontRight
+[2023.04.21-11.22.55:462][716]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.04.21-11.22.55:462][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.21-11.22.55:463][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.21-11.22.55:463][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.21-11.22.55:463][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.21-11.22.55:463][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.21-11.22.55:463][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.21-11.22.55:465][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.21-11.22.55:465][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.21-11.22.55:465][716]LogInit: FAudioDevice initialized.
+[2023.04.21-11.22.55:465][716]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2023.04.21-11.22.55:474][716]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.21-11.22.55:476][716]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.04.21-12.22.55
+[2023.04.21-11.22.55:476][716]LogWorld: Bringing up level for play took: 0.001322
+[2023.04.21-11.22.55:476][716]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.04.21-11.22.55:480][716]PIE: Server logged in
+[2023.04.21-11.22.55:481][716]PIE: Play in editor total start time 0.081 seconds.
+[2023.04.21-11.23.00:782][ 33]LogBlueprintUserMessages: [Player_Character_C_0] Burst
+[2023.04.21-11.23.09:521][557]LogBlueprintUserMessages: [Player_Character_C_0] FullAuto
+[2023.04.21-11.23.14:716][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.23.14:716][866]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.21-11.23.14:716][866]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.21-11.23.14:717][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.23.14:724][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.21-11.23.14:741][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.21-11.23.14:774][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.21-11.23.14:775][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.23.14:776][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.21-11.23.14:779][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.21-11.23.14:783][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.21-11.23.14:831][867]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.04.21-11.23.15:926][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.04.21-11.23.15:949][926]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap15BBB2B94DFACD60FA18DC8283D90E9D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.21-11.23.15:971][926]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Saved/ThirdPersonExampleMap_BuiltData7553AC4E405E722A45B5D0824DC25396.tmp' to '../../../../../../Users/Jack/Documents/GitHub/PacManHunter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.21-11.23.15:989][926]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.21-11.23.15:989][926]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.21-11.23.15:989][926]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
